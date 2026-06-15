@@ -56,7 +56,8 @@ export default function Home() {
           </div>
         </section>
 
-        <section className="section intro" id="who">
+        <section className="intro-section" id="who">
+          <div className="intro">
           <div className="section-copy">
             <p className="eyebrow">Who Is ONE1SIX</p>
             <h2>A community of imperfect people pursuing a perfect Savior.</h2>
@@ -85,6 +86,7 @@ export default function Home() {
               <p>Unashamed</p>
               <span>Romans 1:16</span>
             </div>
+          </div>
           </div>
         </section>
 
