@@ -1,25 +1,14 @@
 import {
   ArrowRight,
-  BookOpenText,
-  CalendarDays,
   Cross,
   Flame,
-  Mail,
-  MapPin,
-  Menu,
-  MessageCircleHeart,
   Send,
   UsersRound,
 } from "lucide-react";
 import Image from "next/image";
 
-const navItems = [
-  { label: "Home", href: "#home" },
-  { label: "Who Is 116", href: "#who" },
-  { label: "Our DNA", href: "#dna" },
-  { label: "The Foundation", href: "#foundation" },
-  { label: "Contact Us", href: "#contact" },
-];
+import { SiteFooter } from "./_components/SiteFooter";
+import { SiteHeader } from "./_components/SiteHeader";
 
 const experiences = [
   {
@@ -48,38 +37,23 @@ const values = [
   ["Radical Love", "John 13:35", "We love deeply while remaining rooted in truth."],
 ];
 
+const foundationValueColumns = [
+  [
+    ["Unashamed Faith", "Romans 1:16", "We live and proclaim the Gospel boldly, without fear or compromise."],
+    ["Holy Boldness", "Acts 4:29", "We move with courage, conviction, and the power of the Holy Spirit."],
+    ["Radical Love", "John 13:35", "We love people deeply while remaining rooted in biblical truth."],
+  ],
+  [
+    ["Biblical Authority", "2 Timothy 3:16-17", "God's Word is our final authority for faith, truth, and life."],
+    ["Authentic Transformation", "2 Corinthians 5:17", "We believe Jesus still changes lives from the inside out."],
+    ["Discipleship Over Crowds", "Matthew 28:19-20", "We are committed to making disciples, not simply gathering audiences."],
+  ],
+];
+
 export default function Home() {
   return (
     <>
-      <header className="site-header">
-        <div className="blessing-bar">
-          Be blessed, keep your eyes on Jesus, and remember to #LIVEUNASHAMED
-        </div>
-        <nav className="nav-shell" aria-label="Main navigation">
-          <a className="brand" href="#home" aria-label="ONE1SIX Church home">
-            <Image src="/one1six-logo.png" alt="ONE1SIX Church" width={315} height={133} priority />
-          </a>
-          <div className="desktop-nav">
-            {navItems.map((item) => (
-              <a key={item.href} href={item.href}>
-                {item.label}
-              </a>
-            ))}
-          </div>
-          <details className="mobile-nav">
-            <summary aria-label="Open menu">
-              <Menu size={24} />
-            </summary>
-            <div>
-              {navItems.map((item) => (
-                <a key={item.href} href={item.href}>
-                  {item.label}
-                </a>
-              ))}
-            </div>
-          </details>
-        </nav>
-      </header>
+      <SiteHeader />
 
       <main id="home">
         <section className="hero">
@@ -187,6 +161,38 @@ export default function Home() {
           </div>
         </section>
 
+        <section className="foundation-values" aria-label="ONE1SIX foundation values">
+          <div className="foundation-values-inner">
+            <div className="foundation-value-column">
+              {foundationValueColumns[0].map(([title, verse, copy]) => (
+                <article className="foundation-value-card" key={title}>
+                  <h3>{title}</h3>
+                  <span>{verse}</span>
+                  <p>{copy}</p>
+                </article>
+              ))}
+            </div>
+            <figure className="foundation-center-card">
+              <Image src="/contact-desk.png" alt="" width={768} height={512} sizes="(max-width: 920px) 100vw, 44vw" />
+              <figcaption>
+                <strong>Christ Is Our Foundation</strong>
+                <span>
+                  And he is the head of the body, the church; <em>Colossians 1:18</em>
+                </span>
+              </figcaption>
+            </figure>
+            <div className="foundation-value-column">
+              {foundationValueColumns[1].map(([title, verse, copy]) => (
+                <article className="foundation-value-card" key={title}>
+                  <h3>{title}</h3>
+                  <span>{verse}</span>
+                  <p>{copy}</p>
+                </article>
+              ))}
+            </div>
+          </div>
+        </section>
+
         <section className="foundation" id="foundation">
           <Image className="foundation-image" src="/foundation.png" alt="" fill sizes="100vw" />
           <div className="foundation-overlay" />
@@ -230,46 +236,7 @@ export default function Home() {
         </section>
       </main>
 
-      <footer className="site-footer">
-        <div className="footer-brand">
-          <h2>
-            ONE<span>1</span>SIX
-          </h2>
-          <p>C H U R C H</p>
-        </div>
-        <div className="footer-grid">
-          <div>
-            <h3>Email</h3>
-            <a href="mailto:info@one1sixchurch.org">
-              <Mail size={18} /> info@one1sixchurch.org
-            </a>
-          </div>
-          <div>
-            <h3>Service Times</h3>
-            <p>
-              <CalendarDays size={18} /> Sundays at 1:00 pm
-            </p>
-          </div>
-          <div>
-            <h3>Location</h3>
-            <p>
-              <MapPin size={18} /> Worcester, Massachusetts
-            </p>
-          </div>
-          <div>
-            <h3>Connect</h3>
-            <p>
-              <MessageCircleHeart size={18} /> One Church For The One
-            </p>
-          </div>
-        </div>
-        <div className="footer-bottom">
-          <span>© 2026 One1Six Church. All rights reserved.</span>
-          <span>
-            <BookOpenText size={16} /> Romans 1:16
-          </span>
-        </div>
-      </footer>
+      <SiteFooter />
     </>
   );
 }
