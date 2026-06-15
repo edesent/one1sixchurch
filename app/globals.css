@@ -841,11 +841,11 @@ textarea {
   position: absolute;
   inset: 0;
   z-index: -2;
-  background: linear-gradient(180deg, rgba(0, 0, 0, 0.82), rgba(0, 0, 0, 0.88));
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.68));
 }
 
 .prayer-inner {
-  width: min(560px, 100%);
+  width: min(440px, 100%);
   text-align: center;
 }
 
@@ -866,9 +866,9 @@ textarea {
 
 .prayer-form {
   display: grid;
-  gap: 16px;
-  margin-top: 30px;
-  padding: clamp(24px, 4vw, 38px);
+  gap: 14px;
+  margin-top: 26px;
+  padding: clamp(20px, 3vw, 28px);
   text-align: left;
   background: var(--white);
   color: var(--ink);

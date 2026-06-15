@@ -228,7 +228,7 @@ export default function Home() {
               </label>
               <label>
                 Prayer Request / Message
-                <textarea name="message" rows={5} required />
+                <textarea name="message" rows={4} required />
               </label>
               <button type="submit">
                 Connect With Us <Send size={18} />
