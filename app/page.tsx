@@ -1,10 +1,4 @@
-import {
-  ArrowRight,
-  Cross,
-  Flame,
-  Send,
-  UsersRound,
-} from "lucide-react";
+import { ArrowRight, Send } from "lucide-react";
 import Image from "next/image";
 
 import { SiteFooter } from "./_components/SiteFooter";
@@ -13,28 +7,19 @@ import { SiteHeader } from "./_components/SiteHeader";
 const experiences = [
   {
     title: "Authentic Faith",
-    copy: "Gather around the Word, worship with conviction, and follow Jesus with a whole heart.",
+    copy: "Gather around God's Word and presence through powerful worship and biblical teaching.",
     image: "/authentic-faith.png",
   },
   {
     title: "Fearless Love",
-    copy: "Build real relationships that carry grace, truth, prayer, and Christ-centered care.",
+    copy: "Grow in faith through authentic relationships and Christ-centered community.",
     image: "/fearless-love.png",
   },
   {
-    title: "Real Devotion",
-    copy: "Live sent through discipleship, service, and bold witness in everyday life.",
+    title: "Real Devotion To Christ",
+    copy: "Live out your faith as a disciple through service, evangelism, and Kingdom impact.",
     image: "/real-devotion.png",
   },
-];
-
-const values = [
-  ["Unashamed Faith", "Romans 1:16", "We speak the Gospel with courage and joy."],
-  ["Biblical Authority", "2 Timothy 3:16-17", "Scripture anchors what we believe and practice."],
-  ["Holy Boldness", "Acts 4:29", "We move with conviction through the power of the Spirit."],
-  ["Authentic Transformation", "2 Corinthians 5:17", "Jesus changes lives from the inside out."],
-  ["Discipleship Over Crowds", "Matthew 28:19-20", "We form followers, not spectators."],
-  ["Radical Love", "John 13:35", "We love deeply while remaining rooted in truth."],
 ];
 
 const foundationValueColumns = [
@@ -60,11 +45,11 @@ export default function Home() {
           <Image className="hero-image" src="/header-image.png" alt="" fill priority sizes="100vw" />
           <div className="hero-shade" />
           <div className="hero-content">
-            <p className="kicker">Romans 1:16</p>
             <h1>
               ONE <span>1</span> SIX CHURCH
             </h1>
             <p className="hero-tag">UNASHAMED</p>
+            <p className="hero-sub">Authentic Faith &bull; Fearless Love &bull; Unwavering Devotion To Christ</p>
             <a className="red-button" href="#contact">
               Plan Your Visit <ArrowRight size={20} />
             </a>
@@ -74,50 +59,64 @@ export default function Home() {
         <section className="section intro" id="who">
           <div className="section-copy">
             <p className="eyebrow">Who Is ONE1SIX</p>
-            <h2>A family pursuing Jesus with bold faith and steady love.</h2>
+            <h2>A community of imperfect people pursuing a perfect Savior.</h2>
             <p>
-              ONE1SIX is a community of imperfect people following a perfect Savior.
-              The heart of the church is simple: Christ above comfort, truth without
-              compromise, and a place for people to encounter God in a real way.
+              We believe church should be more than a weekly gathering &mdash; it should be a place
+              where lives are transformed, faith is strengthened, and people encounter the presence
+              of God in a real and life-changing way.
             </p>
             <p>
-              Whether you are new to faith, returning after time away, or looking for
-              a church home, there is room here to grow, worship, serve, and belong.
+              We are unashamed of the Gospel of Jesus Christ (Romans 1:16). We preach God&rsquo;s Word
+              without compromise, love people without conditions, and raise disciples who live with
+              bold faith and unwavering devotion to Christ.
             </p>
+            <p className="lead-line">This is more than a church service.</p>
+            <p className="lead-line">This is a family pursuing Jesus together.</p>
+            <p className="lead-line accent">One Church For The One, A Family For The Six.</p>
+            <a className="outline-button" href="#contact">
+              Plan Your Visit <ArrowRight size={18} />
+            </a>
           </div>
-          <div className="stacked-media">
-            <Image src="/worship-red.png" alt="" width={768} height={512} sizes="(max-width: 900px) 100vw, 42vw" />
-            <Image src="/worship-gathering.png" alt="" width={768} height={512} sizes="(max-width: 900px) 100vw, 28vw" />
+          <div className="unashamed-card">
+            <Image src="/worship-red.png" alt="" fill sizes="(max-width: 900px) 100vw, 50vw" />
+            <div className="unashamed-overlay" />
+            <div className="unashamed-text">
+              <p>Live</p>
+              <p>Unashamed</p>
+              <span>Romans 1:16</span>
+            </div>
           </div>
         </section>
 
-        <section className="statement-band">
-          <div>
-            <p>Live Unashamed</p>
-            <h2>Authentic Faith. Fearless Love. Unwavering Devotion To Christ.</h2>
-          </div>
-        </section>
-
-        <section className="section origin">
-          <Image className="origin-image" src="/mission.png" alt="" width={900} height={600} sizes="(max-width: 900px) 100vw, 46vw" />
-          <div className="origin-copy">
-            <p className="eyebrow">Born Out Of Conviction</p>
-            <h2>A movement for people who refuse to hide the Gospel.</h2>
-            <p>
-              Inspired by Romans 1:16, ONE1SIX exists to proclaim Christ boldly,
-              love people fearlessly, and raise disciples who walk in devotion to Him.
-            </p>
-            <div className="scripture-card">
-              <Cross size={28} />
-              <span>One Church For The One. A Family For The Six.</span>
+        <section className="our-story">
+          <Image className="our-story-image" src="/worship-gathering.png" alt="" fill sizes="100vw" />
+          <div className="our-story-overlay" />
+          <p className="our-story-watermark" aria-hidden="true">
+            ONE&#8224;SIX
+          </p>
+          <div className="our-story-inner">
+            <div className="our-story-title">
+              <h2>
+                OUR <span>STORY</span>
+              </h2>
+              <p>One Church For The One, A Family For The Six.</p>
+            </div>
+            <div className="our-story-copy">
+              <p>ONE1SIX Church was not born out of comfort &mdash; it was born out of conviction.</p>
+              <p>
+                In a world where faith is often hidden, truth is compromised, and discipleship is
+                replaced with convenience, God placed a burden in our hearts to build a community
+                that would live unashamed of the Gospel of Jesus Christ.
+              </p>
             </div>
           </div>
         </section>
 
         <section className="section experience" id="dna">
-          <div className="section-heading">
-            <p className="eyebrow">The ONE1SIX Experience</p>
-            <h2>More than a service. A lifestyle shaped by Jesus.</h2>
+          <div className="section-heading centered">
+            <h2>
+              The ONE<span>1</span>SIX Experience
+            </h2>
           </div>
           <div className="experience-grid">
             {experiences.map((item) => (
@@ -132,32 +131,55 @@ export default function Home() {
           </div>
         </section>
 
-        <section className="mission-vision">
-          <article>
-            <Flame size={34} />
-            <p>The Mission</p>
-            <h2>Ignite disciples who walk in holy boldness and transform culture through Christ.</h2>
-          </article>
-          <article>
-            <UsersRound size={34} />
-            <p>The Vision</p>
-            <h2>Raise a generation that lives unashamed, speaks truth, and moves with purpose.</h2>
-          </article>
+        <section className="foundation-band">
+          <Image className="foundation-band-image" src="/foundation.png" alt="" fill sizes="100vw" />
+          <div className="foundation-band-overlay" />
+          <div className="foundation-band-inner">
+            <h2>
+              The <span>Foundation</span>
+            </h2>
+            <p className="foundation-band-pillars">
+              God the Father <em>&bull;</em> God the Son <em>&bull;</em> God the Holy Spirit
+            </p>
+            <p className="foundation-band-body">
+              Without Him there is no Gospel to preach, no salvation to offer, and no hope for
+              humanity. Christ is at the center of everything we are and everything we do.
+            </p>
+            <p className="foundation-band-verse">
+              &ldquo;And he is the head of the body, the church.&rdquo; <em>Colossians 1:18</em>
+            </p>
+          </div>
         </section>
 
-        <section className="section values">
-          <div className="section-heading">
-            <p className="eyebrow">The Values</p>
-            <h2>The principles that guide what we teach and live.</h2>
-          </div>
-          <div className="values-grid">
-            {values.map(([title, verse, copy]) => (
-              <article className="value-card" key={title}>
-                <span>{verse}</span>
-                <h3>{title}</h3>
-                <p>{copy}</p>
-              </article>
-            ))}
+        <section className="purpose">
+          <Image className="purpose-image" src="/mission.png" alt="" fill sizes="100vw" />
+          <div className="purpose-overlay" />
+          <div className="purpose-inner">
+            <article>
+              <h2>
+                The <span>Mission</span>
+              </h2>
+              <p>
+                To ignite a global movement of disciples who walk in holy boldness, transforming
+                culture through authentic faith, fearless love, and unwavering devotion to Christ.
+              </p>
+            </article>
+            <article>
+              <h2>
+                The <span>Vision</span>
+              </h2>
+              <p>
+                To boldly proclaim the Gospel of Jesus Christ without fear or compromise &mdash;
+                raising a generation that lives unashamed, speaks truth unfiltered, and moves with
+                unstoppable faith and purpose.
+              </p>
+            </article>
+            <article>
+              <h2>
+                The <span>Values</span>
+              </h2>
+              <p>The principles that guide everything we believe, teach, and live.</p>
+            </article>
           </div>
         </section>
 
@@ -193,33 +215,13 @@ export default function Home() {
           </div>
         </section>
 
-        <section className="foundation" id="foundation">
-          <Image className="foundation-image" src="/foundation.png" alt="" fill sizes="100vw" />
-          <div className="foundation-overlay" />
-          <div className="foundation-content">
-            <p className="eyebrow">The Foundation</p>
-            <h2>Christ Is Our Foundation</h2>
-            <p>
-              God the Father, God the Son, and God the Holy Spirit stand at the center
-              of the church. Without Christ, there is no Gospel to preach and no hope
-              for humanity.
-            </p>
-            <span>Colossians 1:18</span>
-          </div>
-        </section>
-
-        <section className="contact-section" id="contact">
-          <div className="contact-media">
-            <Image src="/contact-desk.png" alt="" width={768} height={512} sizes="(max-width: 900px) 100vw, 44vw" />
-          </div>
-          <div className="contact-panel">
-            <p className="eyebrow">How Can We Pray For You?</p>
-            <h2>Need prayer, have questions, or want to plan your visit?</h2>
-            <form>
-              <label>
-                Your Name
-                <input name="name" type="text" />
-              </label>
+        <section className="prayer" id="contact">
+          <Image className="prayer-image" src="/worship-gathering.png" alt="" fill sizes="100vw" />
+          <div className="prayer-overlay" />
+          <div className="prayer-inner">
+            <h2>How Can We Pray For You?</h2>
+            <p>Whether you need prayer, have questions, or want to plan your visit, we&rsquo;re here for you.</p>
+            <form className="prayer-form">
               <label>
                 Email Address
                 <input name="email" type="email" required />

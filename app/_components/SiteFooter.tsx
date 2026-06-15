@@ -1,45 +1,92 @@
-import { BookOpenText, CalendarDays, Mail, MapPin, MessageCircleHeart } from "lucide-react";
+import { Globe, Mail, MapPin } from "lucide-react";
+
+function FacebookIcon() {
+  return (
+    <svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor" aria-hidden="true">
+      <path d="M22 12.06C22 6.5 17.52 2 12 2S2 6.5 2 12.06c0 5 3.66 9.15 8.44 9.94v-7.03H7.9v-2.91h2.54V9.85c0-2.52 1.49-3.91 3.78-3.91 1.09 0 2.24.2 2.24.2v2.46h-1.26c-1.24 0-1.63.78-1.63 1.57v1.89h2.78l-.44 2.91h-2.34V22c4.78-.79 8.43-4.94 8.43-9.94z" />
+    </svg>
+  );
+}
+
+function InstagramIcon() {
+  return (
+    <svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor" aria-hidden="true">
+      <path d="M12 2.16c3.2 0 3.58.01 4.85.07 1.17.05 1.8.25 2.23.41.56.22.96.48 1.38.9.42.42.68.82.9 1.38.16.42.36 1.06.41 2.23.06 1.27.07 1.65.07 4.85s-.01 3.58-.07 4.85c-.05 1.17-.25 1.8-.41 2.23-.22.56-.48.96-.9 1.38-.42.42-.82.68-1.38.9-.42.16-1.06.36-2.23.41-1.27.06-1.65.07-4.85.07s-3.58-.01-4.85-.07c-1.17-.05-1.8-.25-2.23-.41a3.7 3.7 0 0 1-1.38-.9 3.7 3.7 0 0 1-.9-1.38c-.16-.42-.36-1.06-.41-2.23-.06-1.27-.07-1.65-.07-4.85s.01-3.58.07-4.85c.05-1.17.25-1.8.41-2.23.22-.56.48-.96.9-1.38.42-.42.82-.68 1.38-.9.42-.16 1.06-.36 2.23-.41C8.42 2.17 8.8 2.16 12 2.16zM12 0C8.74 0 8.33.01 7.05.07 5.78.13 4.9.33 4.14.63c-.79.3-1.46.72-2.12 1.38C1.35 2.67.93 3.34.63 4.14.33 4.9.13 5.78.07 7.05.01 8.33 0 8.74 0 12s.01 3.67.07 4.95c.06 1.27.26 2.15.56 2.91.3.8.72 1.47 1.38 2.13.66.66 1.33 1.08 2.12 1.38.76.3 1.64.5 2.91.56C8.33 23.99 8.74 24 12 24s3.67-.01 4.95-.07c1.27-.06 2.15-.26 2.91-.56.8-.3 1.47-.72 2.13-1.38.66-.66 1.08-1.33 1.38-2.13.3-.76.5-1.64.56-2.91.06-1.28.07-1.69.07-4.95s-.01-3.67-.07-4.95c-.06-1.27-.26-2.15-.56-2.91-.3-.8-.72-1.47-1.38-2.13a5.9 5.9 0 0 0-2.13-1.38c-.76-.3-1.64-.5-2.91-.56C15.67.01 15.26 0 12 0zm0 5.84A6.16 6.16 0 1 0 18.16 12 6.16 6.16 0 0 0 12 5.84zM12 16a4 4 0 1 1 4-4 4 4 0 0 1-4 4zm6.41-10.85a1.44 1.44 0 1 0 1.44 1.44 1.44 1.44 0 0 0-1.44-1.44z" />
+    </svg>
+  );
+}
+
+function TikTokIcon() {
+  return (
+    <svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor" aria-hidden="true">
+      <path d="M16.6 5.82a4.28 4.28 0 0 1-1.05-2.82h-3.2v12.74a2.58 2.58 0 1 1-2.57-2.58c.27 0 .53.04.78.12v-3.3a5.88 5.88 0 0 0-.78-.05A5.88 5.88 0 1 0 15.66 16V9.42a7.45 7.45 0 0 0 4.34 1.39V7.6a4.28 4.28 0 0 1-3.4-1.78z" />
+    </svg>
+  );
+}
+
+function YouTubeIcon() {
+  return (
+    <svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor" aria-hidden="true">
+      <path d="M23.5 6.5a3 3 0 0 0-2.12-2.12C19.5 3.86 12 3.86 12 3.86s-7.5 0-9.38.52A3 3 0 0 0 .5 6.5 31.3 31.3 0 0 0 0 12a31.3 31.3 0 0 0 .5 5.5 3 3 0 0 0 2.12 2.12c1.88.52 9.38.52 9.38.52s7.5 0 9.38-.52a3 3 0 0 0 2.12-2.12A31.3 31.3 0 0 0 24 12a31.3 31.3 0 0 0-.5-5.5zM9.6 15.57V8.43L15.82 12z" />
+    </svg>
+  );
+}
+
+const socials = [
+  { label: "Facebook", href: "https://www.facebook.com/", Icon: FacebookIcon },
+  { label: "Instagram", href: "https://www.instagram.com/", Icon: InstagramIcon },
+  { label: "TikTok", href: "https://www.tiktok.com/", Icon: TikTokIcon },
+  { label: "YouTube", href: "https://www.youtube.com/", Icon: YouTubeIcon },
+];
 
 export function SiteFooter() {
   return (
     <footer className="site-footer">
-      <div className="footer-brand">
-        <h2>
-          ONE<span>1</span>SIX
-        </h2>
-        <p>C H U R C H</p>
+      <div className="footer-top">
+        <div className="footer-identity">
+          <h2>
+            ONE<span>1</span>SIX
+          </h2>
+          <p className="footer-wordmark">C H U R C H</p>
+          <p className="footer-tagline">One Church For The One, A Family For The Six.</p>
+          <p className="footer-verse">
+            <span>Romans 1:16</span> &mdash; &ldquo;for I am not ashamed of the Gospel&hellip;&rdquo;
+          </p>
+        </div>
+        <div className="footer-grid">
+          <div>
+            <h3>Email</h3>
+            <a href="mailto:info@one1sixchurch.org">
+              <Mail size={18} /> info@one1sixchurch.org
+            </a>
+          </div>
+          <div>
+            <h3>Webpage</h3>
+            <a href="https://one1sixchurch.org">
+              <Globe size={18} /> one1sixchurch.org
+            </a>
+          </div>
+          <div>
+            <h3>Service Times</h3>
+            <p>Sundays at 1:00 pm</p>
+          </div>
+          <div>
+            <h3>Location</h3>
+            <p>
+              <MapPin size={18} /> Worcester, Massachusetts
+            </p>
+          </div>
+        </div>
       </div>
-      <div className="footer-grid">
-        <div>
-          <h3>Email</h3>
-          <a href="mailto:info@one1sixchurch.org">
-            <Mail size={18} /> info@one1sixchurch.org
+      <div className="footer-socials">
+        {socials.map(({ label, href, Icon }) => (
+          <a key={label} href={href} aria-label={label} target="_blank" rel="noreferrer">
+            <Icon />
           </a>
-        </div>
-        <div>
-          <h3>Service Times</h3>
-          <p>
-            <CalendarDays size={18} /> Sundays at 1:00 pm
-          </p>
-        </div>
-        <div>
-          <h3>Location</h3>
-          <p>
-            <MapPin size={18} /> Worcester, Massachusetts
-          </p>
-        </div>
-        <div>
-          <h3>Connect</h3>
-          <p>
-            <MessageCircleHeart size={18} /> One Church For The One
-          </p>
-        </div>
+        ))}
       </div>
       <div className="footer-bottom">
-        <span>© 2026 One1Six Church. All rights reserved.</span>
-        <span>
-          <BookOpenText size={16} /> Romans 1:16
-        </span>
+        <span>&copy; 2026 One1Six Church. All rights reserved.</span>
       </div>
     </footer>
   );
