@@ -53,7 +53,7 @@ export default function Home() {
     <>
       <header className="site-header">
         <div className="blessing-bar">
-          Be blessed, keep your eyes on Jesus, and remember to live unashamed
+          Be blessed, keep your eyes on Jesus, and remember to #LIVEUNASHAMED
         </div>
         <nav className="nav-shell" aria-label="Main navigation">
           <a className="brand" href="#home" aria-label="ONE1SIX Church home">
