@@ -174,16 +174,16 @@ export default function Home() {
                 unstoppable faith and purpose.
               </p>
             </article>
-            <article>
-              <h2>
-                The <span>Values</span>
-              </h2>
-              <p>The principles that guide everything we believe, teach, and live.</p>
-            </article>
           </div>
         </section>
 
         <section className="foundation-values" aria-label="ONE1SIX foundation values">
+          <div className="foundation-values-heading">
+            <h2>
+              The <span>Values</span>
+            </h2>
+            <p>The principles that guide everything we believe, teach, and live.</p>
+          </div>
           <div className="foundation-values-inner">
             <div className="foundation-value-column">
               {foundationValueColumns[0].map(([title, verse, copy]) => (
