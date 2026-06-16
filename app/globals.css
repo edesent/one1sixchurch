@@ -106,8 +106,7 @@ textarea {
   padding: 10px 0;
 }
 
-.nav-link:hover,
-.nav-item:focus-within .nav-link {
+.nav-link:hover {
   color: var(--black);
 }
 
