@@ -1180,6 +1180,7 @@ textarea {
   .our-story-inner,
   .experience-grid,
   .foundation-values-inner,
+  .contact-page-inner,
   .footer-top {
     grid-template-columns: 1fr;
   }
