@@ -919,6 +919,11 @@ textarea {
   text-transform: uppercase;
 }
 
+.prayer-form label span {
+  color: var(--muted);
+  font-size: 0.72rem;
+}
+
 .prayer-form input,
 .prayer-form textarea {
   width: 100%;
