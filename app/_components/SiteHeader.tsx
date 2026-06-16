@@ -1,21 +1,14 @@
-import { ChevronDown, Menu } from "lucide-react";
+import { Menu } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 
 const navItems = [
   { label: "Home", href: "/" },
-  {
-    label: "Who Is 116",
-    href: "/who-is-116",
-    children: [{ label: "Our Leaders", href: "/our-leaders" }],
-  },
-  {
-    label: "Our DNA",
-    href: "/our-dna",
-    children: [{ label: "Unashamed Devotionals", href: "/unashamed-devotionals" }],
-  },
-  { label: "The Foundation", href: "/the-foundation" },
-  { label: "Contact Us", href: "/contact-us" },
+  { label: "Who We Are", href: "/who-is-116" },
+  { label: "Our Leaders", href: "/our-leaders" },
+  { label: "Our Beliefs", href: "/the-foundation" },
+  { label: "Devotionals", href: "/unashamed-devotionals" },
+  { label: "Contact", href: "/contact-us" },
 ];
 
 export function SiteHeader() {
@@ -30,21 +23,9 @@ export function SiteHeader() {
         </Link>
         <div className="desktop-nav">
           {navItems.map((item) => (
-            <div className="nav-item" key={item.href}>
-              <Link className="nav-link" href={item.href}>
-                {item.label}
-                {item.children ? <ChevronDown size={14} aria-hidden="true" /> : null}
-              </Link>
-              {item.children ? (
-                <div className="nav-dropdown">
-                  {item.children.map((child) => (
-                    <Link key={child.href} href={child.href}>
-                      {child.label}
-                    </Link>
-                  ))}
-                </div>
-              ) : null}
-            </div>
+            <Link className="nav-link" href={item.href} key={item.href}>
+              {item.label}
+            </Link>
           ))}
         </div>
         <details className="mobile-nav">
@@ -55,11 +36,6 @@ export function SiteHeader() {
             {navItems.map((item) => (
               <span className="mobile-nav-group" key={item.href}>
                 <Link href={item.href}>{item.label}</Link>
-                {item.children?.map((child) => (
-                  <Link className="mobile-sub-link" key={child.href} href={child.href}>
-                    {child.label}
-                  </Link>
-                ))}
               </span>
             ))}
           </div>
