@@ -229,19 +229,7 @@ export default function Home() {
           <div className="prayer-inner">
             <h2>How Can We Pray For You?</h2>
             <p>Whether you need prayer, have questions, or want to plan your visit, we&rsquo;re here for you.</p>
-            <form className="prayer-form">
-              <label>
-                Email Address
-                <input name="email" type="email" required />
-              </label>
-              <label>
-                Prayer Request / Message
-                <textarea name="message" rows={4} required />
-              </label>
-              <button type="submit">
-                Connect With Us <Send size={18} />
-              </button>
-            </form>
+            <ContactForm source="Homepage Prayer Section" />
           </div>
         </section>
       </main>
