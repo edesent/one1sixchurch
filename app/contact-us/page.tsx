@@ -7,8 +7,8 @@ export default function ContactUsPage() {
       title="Need prayer, have questions, or want to plan your visit?"
       image="/contact-desk.png"
       copy={[
-        "Email info@one1sixchurch.org or join us Sundays at 1:00 pm in Worcester, Massachusetts.",
-        "We would be honored to pray with you, answer questions, and help you take your next step.",
+        "Gather with us Sundays at 1:00 PM. We are currently gathering in Worcester, MA.",
+        "Email info@one1sixchurch.org to get this week's exact location, send a prayer request, ask a question, or take your next step.",
       ]}
     />
   );
