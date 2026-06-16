@@ -34,9 +34,9 @@ function YouTubeIcon() {
 
 const socials = [
   { label: "Facebook", href: "https://www.facebook.com/", Icon: FacebookIcon },
-  { label: "Instagram", href: "https://www.instagram.com/one1sixchurch/", Icon: InstagramIcon },
+  { label: "Instagram", href: "https://www.instagram.com/", Icon: InstagramIcon },
   { label: "TikTok", href: "https://www.tiktok.com/", Icon: TikTokIcon },
-  { label: "YouTube", href: "https://www.youtube.com/@ONE1SIXCHURCHUnashamed", Icon: YouTubeIcon },
+  { label: "YouTube", href: "https://www.youtube.com/", Icon: YouTubeIcon },
 ];
 
 export function SiteFooter() {
