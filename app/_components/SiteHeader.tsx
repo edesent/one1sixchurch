@@ -6,7 +6,7 @@ const navItems = [
   { label: "Home", href: "/" },
   { label: "Who We Are", href: "/who-is-116" },
   { label: "Our Leaders", href: "/our-leaders" },
-  { label: "What We Believe", href: "/the-foundation" },
+  { label: "Our Beliefs", href: "/the-foundation" },
   { label: "Devotionals", href: "/unashamed-devotionals" },
   { label: "Contact", href: "/contact-us" },
 ];
