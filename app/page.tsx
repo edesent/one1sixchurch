@@ -1,6 +1,7 @@
-import { ArrowRight, Mail, Send } from "lucide-react";
+import { ArrowRight, Mail } from "lucide-react";
 import Image from "next/image";
 
+import { ContactForm } from "./_components/ContactForm";
 import { SiteFooter } from "./_components/SiteFooter";
 import { SiteHeader } from "./_components/SiteHeader";
 
