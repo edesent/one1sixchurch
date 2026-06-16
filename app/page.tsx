@@ -50,8 +50,13 @@ export default function Home() {
             </h1>
             <p className="hero-tag">UNASHAMED</p>
             <p className="hero-sub">Authentic Faith &bull; Fearless Love &bull; Unwavering Devotion To Christ</p>
-            <a className="red-button" href="#contact">
-              Plan Your Visit <ArrowRight size={20} />
+            <div className="hero-gather">
+              <p className="hero-gather-title">Gather With Us This Sunday</p>
+              <p>Sundays at <strong>1:00 PM</strong></p>
+              <p>Currently gathering in <strong>Worcester, MA</strong></p>
+            </div>
+            <a className="red-button" href="mailto:info@one1sixchurch.org?subject=This%20Week%27s%20Location">
+              Get This Week&rsquo;s Location <ArrowRight size={20} />
             </a>
           </div>
         </section>
