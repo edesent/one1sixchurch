@@ -1,4 +1,4 @@
-import { Mail, Send } from "lucide-react";
+import { ArrowRight, Mail, Send } from "lucide-react";
 import Image from "next/image";
 
 import { SiteFooter } from "./_components/SiteFooter";
