@@ -1375,3 +1375,53 @@ textarea {
     width: 100%;
   }
 }
+
+/* Emergency mobile cleanup for Who Is One1Six */
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+.who116-section {
+  overflow-x: hidden;
+}
+
+.who116-inner {
+  max-width: 100%;
+}
+
+.who116-image-card {
+  overflow: hidden;
+}
+
+.who116-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+@media (max-width: 920px) {
+  .who116-inner {
+    grid-template-columns: 1fr !important;
+    width: min(100%, 720px);
+    gap: 42px;
+  }
+
+  .who116-visual {
+    width: 100%;
+  }
+
+  .who116-image-card {
+    width: 100%;
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 560px) {
+  .who116-section {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+}
