@@ -16,7 +16,7 @@ export default function ContactUsPage() {
             <p className="eyebrow">Contact Us</p>
             <h1>Need prayer, have questions, or want to plan your visit?</h1>
             <p>Gather with us this Sunday at 1:00 PM. We are currently gathering in Worcester, MA.</p>
-            <p>Email info@one1sixchurch.org to get this week&apos;s exact location, send a prayer request, ask a question, or take your next step.</p>
+            <p>Email one1sixchurch@gmail.com to get this week&apos;s exact location, send a prayer request, ask a question, or take your next step.</p>
           </div>
         </section>
 
