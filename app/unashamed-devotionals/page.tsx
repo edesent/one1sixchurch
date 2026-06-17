@@ -51,15 +51,6 @@ export default function UnashamedDevotionalsPage() {
                 A devotional resource from One1Six Church to help our family stay rooted in the Gospel and bold
                 in Christ.
               </p>
-              <a
-                className="red-button"
-                href="https://youtube.com/@one1sixchurch"
-                target="_blank"
-                rel="noreferrer"
-                style={{ marginTop: "22px" }}
-              >
-                See More Devotionals <span aria-hidden="true">→</span>
-              </a>
             </div>
 
             <div
@@ -80,6 +71,18 @@ export default function UnashamedDevotionalsPage() {
                 <source src={devotionalVideoUrl} type="video/mp4" />
                 Your browser does not support the video tag.
               </video>
+            </div>
+
+            <div style={{ display: "flex", justifyContent: "center", marginTop: "34px" }}>
+              <a
+                className="red-button"
+                href="https://youtube.com/@one1sixchurch"
+                target="_blank"
+                rel="noreferrer"
+                style={{ marginTop: 0 }}
+              >
+                See More Devotionals <span aria-hidden="true">→</span>
+              </a>
             </div>
           </div>
         </section>
