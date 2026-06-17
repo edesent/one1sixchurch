@@ -36,7 +36,7 @@ const socials = [
   { label: "Facebook", href: "https://www.facebook.com/share/1B8kAYwfdN/", Icon: FacebookIcon },
   { label: "Instagram", href: "https://www.instagram.com/one1sixchurch", Icon: InstagramIcon },
   { label: "TikTok", href: "https://www.tiktok.com/@one1sixchurch", Icon: TikTokIcon },
-  { label: "YouTube", href: "https://www.youtube.com/", Icon: YouTubeIcon },
+  { label: "YouTube", href: "https://youtube.com/@one1sixchurch", Icon: YouTubeIcon },
 ];
 
 export function SiteFooter() {
