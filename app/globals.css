@@ -1232,3 +1232,146 @@ textarea {
     grid-template-columns: 1fr;
   }
 }
+
+/* ---------- Who Is One1Six ---------- */
+.who116-section {
+  padding: clamp(72px, 9vw, 112px) 20px;
+  background: #f3f3f3;
+  color: var(--ink);
+}
+
+.who116-inner {
+  display: grid;
+  grid-template-columns: minmax(0, 1.05fr) minmax(320px, 0.95fr);
+  gap: clamp(34px, 6vw, 72px);
+  align-items: start;
+  width: min(1180px, 100%);
+  margin: 0 auto;
+}
+
+.who116-copy {
+  display: grid;
+  gap: 22px;
+}
+
+.who116-title {
+  margin: 0;
+  color: var(--ink);
+  font-family: var(--font-outfit), Arial, sans-serif;
+  font-size: clamp(2.45rem, 5.2vw, 5.2rem);
+  font-weight: 800;
+  line-height: 0.95;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+}
+
+.who116-lead,
+.who116-copy p:not(.eyebrow):not(.who116-slogan) {
+  margin: 0;
+  color: var(--muted);
+  font-size: clamp(1.03rem, 1.3vw, 1.18rem);
+  line-height: 1.75;
+}
+
+.who116-lines {
+  display: grid;
+  gap: 12px;
+}
+
+.who116-lines p {
+  margin: 0;
+  color: var(--ink) !important;
+  font-weight: 800;
+  line-height: 1.55;
+}
+
+.who116-statements {
+  display: grid;
+  gap: 10px;
+}
+
+.who116-statements p {
+  margin: 0;
+  color: var(--ink) !important;
+  font-family: var(--font-outfit), Arial, sans-serif;
+  font-size: clamp(1.2rem, 1.8vw, 1.55rem);
+  font-weight: 800;
+  line-height: 1.2;
+}
+
+.who116-slogan {
+  margin: 0;
+  color: var(--red) !important;
+  font-family: var(--font-outfit), Arial, sans-serif;
+  font-size: clamp(1.45rem, 2.2vw, 2rem);
+  font-weight: 800;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+.who116-cta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin-top: 6px;
+}
+
+.who116-cta .red-button,
+.who116-cta .outline-button {
+  margin-top: 0;
+}
+
+.who116-visual {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.who116-image-card {
+  width: 100%;
+  max-width: 520px;
+  overflow: hidden;
+  background: #050505;
+  border-radius: 22px;
+  box-shadow: 0 22px 70px rgba(0, 0, 0, 0.16);
+}
+
+.who116-image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+@media (max-width: 920px) {
+  .who116-inner {
+    grid-template-columns: 1fr;
+  }
+
+  .who116-title br,
+  .who116-slogan br {
+    display: none;
+  }
+
+  .who116-image-card {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 560px) {
+  .who116-section {
+    padding: 48px 20px 72px;
+  }
+
+  .who116-title {
+    font-size: clamp(2.15rem, 11vw, 3.35rem);
+  }
+
+  .who116-cta {
+    display: grid;
+  }
+
+  .who116-cta .red-button,
+  .who116-cta .outline-button {
+    width: 100%;
+  }
+}
