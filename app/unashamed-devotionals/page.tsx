@@ -33,8 +33,8 @@ export default function UnashamedDevotionalsPage() {
           }}
         >
           <div style={{ width: "min(1120px, 100%)", margin: "0 auto" }}>
-            <div style={{ maxWidth: "760px", marginBottom: "32px" }}>
-              <p className="eyebrow">Featured Devotional</p>
+            <div style={{ maxWidth: "760px", marginBottom: "42px" }}>
+              <p className="eyebrow" style={{ marginBottom: "18px" }}>Featured Devotional</p>
               <h2
                 style={{
                   margin: 0,
