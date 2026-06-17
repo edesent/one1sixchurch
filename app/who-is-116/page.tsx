@@ -75,8 +75,8 @@ export default function WhoIs116Page() {
                 <Image
                   src="/worship-red.png"
                   alt=""
-                  width={900}
-                  height={1400}
+                  fill
+                  sizes="(max-width: 920px) 100vw, 520px"
                   className="who116-image"
                   priority
                 />
