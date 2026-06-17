@@ -29,7 +29,7 @@ export default function UnashamedDevotionalsPage() {
           style={{
             background: "linear-gradient(180deg, #050505 0%, #111111 55%, #050505 100%)",
             color: "white",
-            padding: "clamp(72px, 9vw, 112px) 20px",
+            padding: "clamp(110px, 14vw, 150px) 20px 72px",
           }}
         >
           <div style={{ width: "min(1120px, 100%)", margin: "0 auto" }}>
