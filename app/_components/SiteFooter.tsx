@@ -56,8 +56,8 @@ export function SiteFooter() {
         <div className="footer-grid">
           <div>
             <h3>Email</h3>
-            <a href="mailto:info@one1sixchurch.org">
-              <Mail size={18} /> info@one1sixchurch.org
+            <a href="mailto:one1sixchurch@gmail.com">
+              <Mail size={18} /> one1sixchurch@gmail.com
             </a>
           </div>
           <div>
