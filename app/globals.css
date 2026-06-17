@@ -1392,13 +1392,15 @@ body {
 }
 
 .who116-image-card {
+  position: relative;
   overflow: hidden;
+  aspect-ratio: 4 / 5;
 }
 
 .who116-image {
   display: block;
   width: 100%;
-  height: auto;
+  height: 100%;
   object-fit: cover;
 }
 
