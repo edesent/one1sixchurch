@@ -73,7 +73,7 @@ export default function WhoIs116Page() {
             <div className="who116-visual" aria-hidden="true">
               <div className="who116-image-card">
                 <Image
-                  src="/who-is-one1six.jpg"
+                  src="/worship-red.png"
                   alt=""
                   width={900}
                   height={1400}
