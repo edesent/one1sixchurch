@@ -85,13 +85,7 @@ export default function Home() {
             </a>
           </div>
           <div className="unashamed-card">
-            <Image src="/42031.png" alt="" fill sizes="(max-width: 900px) 100vw, 50vw" />
-            <div className="unashamed-overlay" />
-            <div className="unashamed-text">
-              <p>Live</p>
-              <p>Unashamed</p>
-              <span>Romans 1:16</span>
-            </div>
+            <Image src="/42031.png" alt="Live Unashamed Romans 1:16 worship graphic" fill sizes="(max-width: 900px) 100vw, 50vw" />
           </div>
           </div>
         </section>
