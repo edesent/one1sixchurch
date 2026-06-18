@@ -62,7 +62,7 @@ export default function WhoIs116Page() {
 
           <div className="ois-image-card" aria-hidden="true">
             <Image
-              src="/worship-red.png"
+              src="/42031.png"
               alt=""
               fill
               sizes="(max-width: 760px) 100vw, 520px"
