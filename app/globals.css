@@ -416,7 +416,7 @@ textarea {
 
 .unashamed-card img {
   object-fit: cover;
-  filter: grayscale(1) contrast(1.05);
+  filter: none;
 }
 
 .unashamed-overlay {
