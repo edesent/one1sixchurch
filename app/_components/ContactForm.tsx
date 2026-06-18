@@ -6,7 +6,7 @@ type ContactFormProps = {
 
 export function ContactForm({ source = "Website Contact Form" }: ContactFormProps) {
   return (
-    <form className="prayer-form" action="https://formsubmit.co/one1sixchurch@gmail.com" method="POST">
+    <form className="prayer-form" action="https://formsubmit.co/info@one1sixchurch.org" method="POST">
       <input type="hidden" name="_subject" value="New One1Six Church Prayer Request / Visitor Message" />
       <input type="hidden" name="_captcha" value="false" />
       <input type="hidden" name="_template" value="box" />
