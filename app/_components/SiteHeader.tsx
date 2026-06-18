@@ -15,7 +15,10 @@ export function SiteHeader() {
   return (
     <header className="site-header">
       <div className="blessing-bar">
-        Be blessed, keep your eyes on Jesus, and remember to <span style={{ color: "var(--red)" }}>#LIVEUNASHAMED</span>
+        <span>Be Blessed, Keep Your Eyes On Jesus,</span>
+        <span>
+          And Remember To <strong>#LiveUnashamed</strong>
+        </span>
       </div>
       <nav className="nav-shell" aria-label="Main navigation">
         <Link className="brand" href="/" aria-label="ONE1SIX Church home">
