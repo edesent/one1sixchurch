@@ -85,7 +85,7 @@ export default function Home() {
             </a>
           </div>
           <div className="unashamed-card">
-            <Image src="/worship-red.png" alt="" fill sizes="(max-width: 900px) 100vw, 50vw" />
+            <Image src="/42031.png" alt="" fill sizes="(max-width: 900px) 100vw, 50vw" />
             <div className="unashamed-overlay" />
             <div className="unashamed-text">
               <p>Live</p>
