@@ -408,14 +408,19 @@ textarea {
 /* "Live Unashamed" image card */
 .unashamed-card {
   position: relative;
-  min-height: 540px;
+  width: 100%;
+  max-width: 520px;
+  aspect-ratio: 4 / 5;
+  justify-self: center;
   overflow: hidden;
+  background: #050505;
   border-radius: var(--radius);
   box-shadow: var(--shadow);
 }
 
 .unashamed-card img {
   object-fit: cover;
+  object-position: center;
   filter: none;
 }
 
