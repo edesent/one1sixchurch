@@ -56,7 +56,7 @@ export default function Home() {
               <p>Sundays at <strong>1:00 PM</strong></p>
               <p>Currently gathering in <strong>Worcester, MA</strong></p>
             </div>
-            <a className="yellow-button" href="mailto:info@one1sixchurch.org?subject=This%20Week%27s%20Location">
+            <a className="red-button" href="mailto:info@one1sixchurch.org?subject=This%20Week%27s%20Location">
               Get This Week&rsquo;s Location <Mail size={20} />
             </a>
           </div>
