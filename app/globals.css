@@ -328,6 +328,28 @@ textarea {
   background: var(--red-dark);
 }
 
+.yellow-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  min-height: 48px;
+  padding: 0 26px;
+  margin-top: 30px;
+  color: var(--black);
+  font-family: var(--font-outfit), Arial, sans-serif;
+  font-weight: 800;
+  text-transform: uppercase;
+  background: #ffd000;
+  border: 0;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.yellow-button:hover {
+  background: #ffb800;
+}
+
 .outline-button {
   display: inline-flex;
   align-items: center;
