@@ -12,6 +12,83 @@ const reflectionQuestions = [
   "Am I willing to carry the cross publicly, not just admire it privately?",
 ];
 
+const devotionalThought = [
+  `The cross has become one of the most recognized symbols in the world.`,
+  `People wear it on necklaces. They put it on walls. They place it on church buildings. They use it as decoration, fashion, and art.`,
+  `But in the days of Jesus, nobody saw the cross as decoration.`,
+  `The cross was not beautiful.`,
+  `The cross was not comfortable.`,
+  `The cross was not fashionable.`,
+  `The cross was an instrument of death.`,
+  `It represented shame, suffering, rejection, sacrifice, and surrender.`,
+  `So when Jesus said, "Carry your own cross and follow Me," He was not inviting people into casual religion.`,
+  `He was calling them into total surrender.`,
+  `Jesus was making it clear that discipleship is not about adding Him to our lives.`,
+  `It is about surrendering our lives to Him.`,
+  `And this is where many people struggle.`,
+  `They want the cross as a symbol, but not as a lifestyle.`,
+  `They want the cross around their neck, but not over their will.`,
+  `They want the cross in their church, but not in their decisions.`,
+  `They want the cross for forgiveness, but not for surrender.`,
+  `But the cross was never meant to be decoration.`,
+  `The cross is the place where self-rule dies.`,
+  `The cross is the place where pride dies.`,
+  `The cross is the place where sin loses power.`,
+  `The cross is the place where the old life is crucified, and a new life begins.`,
+  `Paul said, "My old self has been crucified with Christ. It is no longer I who live, but Christ lives in me."`,
+  `That is not self-improvement.`,
+  `That is resurrection after death.`,
+  `Paul is not saying he became a better version of his old life.`,
+  `He is saying the old self was crucified.`,
+  `The old master lost authority.`,
+  `The old identity lost its throne.`,
+  `The old life was nailed to the cross with Christ.`,
+  `And now Christ lives in him.`,
+  `That is the Gospel.`,
+  `Jesus did not die so we could decorate our old life with Christian language.`,
+  `Jesus died so we could be raised into a new life under His Lordship.`,
+  `The cross is not God helping us manage sin.`,
+  `The cross is God breaking the power of sin.`,
+  `To the world, the cross looks foolish.`,
+  `But to the believer, the cross is power.`,
+  `To the world, the cross looks weak.`,
+  `But to the believer, the cross is victory.`,
+  `Because at the cross, Jesus carried our sin.`,
+  `At the cross, Jesus bore our shame.`,
+  `At the cross, Jesus paid the debt we could never pay.`,
+  `At the cross, mercy and justice met.`,
+  `At the cross, forgiveness was purchased.`,
+  `At the cross, salvation was made possible.`,
+  `And if Jesus carried the cross for us, then we cannot be ashamed to carry the cross after Him.`,
+  `Carrying your cross does not mean earning salvation.`,
+  `Jesus already accomplished salvation.`,
+  `Carrying your cross means living as someone who belongs to the One who saved you.`,
+  `It means surrendering your will.`,
+  `It means obeying when obedience costs something.`,
+  `It means dying to pride, dying to compromise, dying to secret sin, dying to the approval of people, and dying to every idol that wants the place of Christ.`,
+  `This is not easy.`,
+  `But it is necessary.`,
+  `Because there is no such thing as crossless discipleship.`,
+  `A Christianity without the cross may be comfortable, but it is powerless.`,
+  `A Christianity without surrender may attract fans, but it will not produce disciples.`,
+  `Jesus did not say, "Carry your comfort and follow Me."`,
+  `He said, "Carry your cross and follow Me."`,
+  `The path of discipleship is not always easy.`,
+  `But it is always worth it.`,
+  `Because whatever dies at the cross is replaced by resurrection life.`,
+  `When pride dies, humility is born.`,
+  `When compromise dies, holiness is born.`,
+  `When fear dies, boldness is born.`,
+  `When self-rule dies, surrender is born.`,
+  `When sin loses power, freedom begins to rise.`,
+  `So today, do not treat the cross like decoration.`,
+  `Do not reduce it to a symbol.`,
+  `Do not wear it without surrendering to it.`,
+  `Look at the cross and remember:`,
+  `Jesus gave everything for you.`,
+  `Now the only right response is to give everything back to Him.`,
+];
+
 export default function UnashamedDevotionalsPage() {
   return (
     <>
@@ -120,24 +197,21 @@ export default function UnashamedDevotionalsPage() {
               >
                 Devotional Thought
               </h3>
-              <p style={{ color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                The cross is not decoration. It is not just something we wear, hang on a wall, or use as a church
-                symbol. The cross is the place where surrender becomes real. Jesus said that anyone who wants to
-                follow Him must deny himself, take up his cross daily, and follow Him. That means the cross is not
-                simply what Jesus carried for us. It is also the life He calls us into with Him.
-              </p>
-              <p style={{ color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                At the cross, self-rule dies. Pride dies. Sin loses its throne. The old life is no longer in control.
-                Galatians 2:20 reminds us that we have been crucified with Christ, and the life we now live is by
-                faith in the Son of God. Unashamed faith is not cheap faith. It is a surrendered life that says, “Jesus,
-                You are not just my Savior. You are Lord.”
-              </p>
-              <p style={{ color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                The world wants a comfortable cross, but Jesus calls us to a costly one. The Gospel is still the power
-                of God for salvation, and we are not ashamed of it. Today, do not just admire the cross. Carry it. Do
-                not just sing about surrender. Live it. The cross may confront your flesh, but it will also lead you into
-                resurrection life.
-              </p>
+              <div style={{ display: "grid", gap: "10px" }}>
+                {devotionalThought.map((line) => (
+                  <p
+                    key={line}
+                    style={{
+                      margin: 0,
+                      color: "rgba(255,255,255,0.78)",
+                      fontSize: "1.05rem",
+                      lineHeight: 1.85,
+                    }}
+                  >
+                    {line}
+                  </p>
+                ))}
+              </div>
 
               <div style={{ marginTop: "34px" }}>
                 <h3
