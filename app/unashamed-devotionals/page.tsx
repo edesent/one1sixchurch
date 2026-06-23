@@ -98,7 +98,7 @@ export default function UnashamedDevotionalsPage() {
                 <div>
                   <p className="eyebrow" style={{ marginBottom: "10px" }}>Scripture Focus</p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Luke 9:23 · Galatians 2:20 · Romans 1:16
+                    Luke 14:27 · Galatians 2:20 · 1 Corinthians 1:18
                   </p>
                 </div>
                 <div>
