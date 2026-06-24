@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/dcd9jC2KF_n7OBARb1qXv6s5eJ1ImeE6/43008-MFXAf4vdWmMWzLqIkIPDfckz7TMJnA.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/YJVDq-s6rQ7blqodsr6ibV-6FqqfuxeD/43094-ypla14PHWxyrdBq2OByuSOtqQ0GJGd.mp4";
 
 const reflectionQuestions = [
   "Where have I treated the cross like decoration instead of surrender?",
