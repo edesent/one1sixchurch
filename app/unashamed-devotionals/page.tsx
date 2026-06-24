@@ -7,28 +7,27 @@ const devotionalVideoUrl =
   "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/YJVDq-s6rQ7blqodsr6ibV-6FqqfuxeD/43094-ypla14PHWxyrdBq2OByuSOtqQ0GJGd.mp4";
 
 const reflectionQuestions = [
-  "Where have I treated the cross like decoration instead of surrender?",
-  "What part of my life still needs to be crucified with Christ?",
-  "Am I willing to carry the cross publicly, not just admire it privately?",
+  "Where have I tried to follow Jesus without letting it cost me anything?",
+  "What am I still holding back from the Lord?",
+  "Am I willing to obey Jesus even if it costs comfort, approval, or convenience?",
 ];
 
 const devotionalThought = [
-  `The cross has become one of the most recognized symbols in the world. People wear it on necklaces. They put it on walls. They place it on church buildings. They use it as decoration, fashion, and art. But in the days of Jesus, nobody saw the cross as decoration.`,
-  `The cross was not beautiful. The cross was not comfortable. The cross was not fashionable. The cross was an instrument of death. It represented shame, suffering, rejection, sacrifice, and surrender.`,
-  `So when Jesus said, "Carry your own cross and follow Me," He was not inviting people into casual religion. He was calling them into total surrender. Jesus was making it clear that discipleship is not about adding Him to our lives. It is about surrendering our lives to Him.`,
-  `And this is where many people struggle. They want the cross as a symbol, but not as a lifestyle. They want the cross around their neck, but not over their will. They want the cross in their church, but not in their decisions. They want the cross for forgiveness, but not for surrender.`,
-  `But the cross was never meant to be decoration. The cross is the place where self-rule dies. The cross is the place where pride dies. The cross is the place where sin loses power. The cross is the place where the old life is crucified, and a new life begins.`,
-  `Paul said, "My old self has been crucified with Christ. It is no longer I who live, but Christ lives in me." That is not self-improvement. That is resurrection after death. Paul is not saying he became a better version of his old life. He is saying the old self was crucified.`,
-  `The old master lost authority. The old identity lost its throne. The old life was nailed to the cross with Christ. And now Christ lives in him. That is the Gospel.`,
-  `Jesus did not die so we could decorate our old life with Christian language. Jesus died so we could be raised into a new life under His Lordship. The cross is not God helping us manage sin. The cross is God breaking the power of sin.`,
-  `To the world, the cross looks foolish. But to the believer, the cross is power. To the world, the cross looks weak. But to the believer, the cross is victory.`,
-  `Because at the cross, Jesus carried our sin. At the cross, Jesus bore our shame. At the cross, Jesus paid the debt we could never pay. At the cross, mercy and justice met. At the cross, forgiveness was purchased. At the cross, salvation was made possible.`,
-  `And if Jesus carried the cross for us, then we cannot be ashamed to carry the cross after Him. Carrying your cross does not mean earning salvation. Jesus already accomplished salvation. Carrying your cross means living as someone who belongs to the One who saved you.`,
-  `It means surrendering your will. It means obeying when obedience costs something. It means dying to pride, dying to compromise, dying to secret sin, dying to the approval of people, and dying to every idol that wants the place of Christ.`,
-  `This is not easy. But it is necessary. Because there is no such thing as crossless discipleship. A Christianity without the cross may be comfortable, but it is powerless. A Christianity without surrender may attract fans, but it will not produce disciples.`,
-  `Jesus did not say, "Carry your comfort and follow Me." He said, "Carry your cross and follow Me." The path of discipleship is not always easy. But it is always worth it. Because whatever dies at the cross is replaced by resurrection life.`,
-  `When pride dies, humility is born. When compromise dies, holiness is born. When fear dies, boldness is born. When self-rule dies, surrender is born. When sin loses power, freedom begins to rise.`,
-  `So today, do not treat the cross like decoration. Do not reduce it to a symbol. Do not wear it without surrendering to it. Look at the cross and remember: Jesus gave everything for you. Now the only right response is to give everything back to Him.`,
+  `We live in a world that loves discounts. People wait for sales, coupons, deals, and clearance prices. Everybody wants the value without the full cost. And if we are not careful, we can bring that same mindset into our walk with Jesus.`,
+  `We can want forgiveness without repentance. We can want heaven without surrender. We can want blessing without obedience. We can want Jesus as Savior, but resist Jesus as Lord.`,
+  `But Jesus never offered discounted discipleship. He never lowered the cost to keep the crowd. He never softened the call to make people comfortable. He loved people deeply, but He told them the truth clearly.`,
+  `In Luke 14, Jesus turned to the crowds and spoke words that were hard to hear. He said that whoever does not carry his own cross and follow Him cannot be His disciple. That is not casual Christianity. That is total surrender.`,
+  `Jesus was not trying to build a crowd of excited fans. He was calling surrendered followers. A fan wants proximity without sacrifice. A disciple follows even when obedience costs something.`,
+  `This does not mean we earn salvation. Salvation is a gift of grace through faith in Jesus Christ. We could never pay for our own forgiveness. We could never purchase our own redemption. Jesus paid the price completely through His death and resurrection.`,
+  `But the grace that saves us also transforms us. The Gospel is free, but it is not cheap. It cost Jesus His blood. And when that grace truly reaches the heart, it does not leave us unchanged.`,
+  `No discounted discipleship means we stop trying to negotiate the terms of following Jesus. We do not come to Christ with conditions. We come with surrender. We do not say, "Lord, I will follow You as long as it does not affect my comfort." We say, "Lord, my life belongs to You."`,
+  `There are things that cannot remain on the throne when Jesus is Lord. Pride has to come down. Secret sin has to come down. People pleasing has to come down. Compromise has to come down. Self-rule has to come down.`,
+  `The rich young ruler wanted eternal life, but he did not want to release what ruled his heart. He came close to Jesus, but he walked away sorrowful because the cost touched his idol. That is the danger of wanting discipleship at a discount.`,
+  `Jesus is not one more addition to our lives. He is Lord over our lives. We do not add Him to our plans and ask Him to bless what we refuse to surrender. We lay everything before Him and trust that what He asks from us is nothing compared to what He gives in Himself.`,
+  `Following Jesus may cost approval. It may cost comfort. It may cost certain relationships. It may cost old habits, old desires, old labels, and old identities. But whatever obedience costs, Christ is worth more.`,
+  `A discounted gospel produces shallow faith. But true discipleship produces roots, endurance, holiness, boldness, and love. It forms people who can stand when culture shifts, when feelings change, and when the crowd walks away.`,
+  `Today, do not ask Jesus for the cheapest version of Christianity. Ask Him for the real thing. Ask Him for a faith that follows, a heart that surrenders, and a life that says yes even when yes has a cost.`,
+  `Because the cost of following Jesus is real, but the cost of not following Him is greater. And the reward of belonging fully to Christ is worth everything.`
 ];
 
 export default function UnashamedDevotionalsPage() {
@@ -70,7 +69,7 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 2 — The Cross Is Not Decoration
+                Day 3 — No Discounted Discipleship
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
                 Unashamed Week 4 Devotional · The Cost Of Being Unashamed
@@ -117,14 +116,14 @@ export default function UnashamedDevotionalsPage() {
                 <div>
                   <p className="eyebrow" style={{ marginBottom: "10px" }}>Scripture Focus</p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Luke 14:27 · Galatians 2:20 · 1 Corinthians 1:18
+                    Luke 14:27 · Luke 14:33 · Romans 1:16
                   </p>
                 </div>
                 <div>
                   <p className="eyebrow" style={{ marginBottom: "10px" }}>Today&apos;s Challenge</p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Identify one area of your life that still resists surrender, pray over it, and take one obedient step
-                    today.
+                    Ask the Lord to show you one area where you have wanted comfort without surrender. Then take one
+                    obedient step today without negotiating the cost.
                   </p>
                 </div>
               </div>
@@ -191,10 +190,10 @@ export default function UnashamedDevotionalsPage() {
                   Let&apos;s Pray
                 </h3>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Lord Jesus, forgive me for the times I have admired the cross without fully surrendering to it.
-                  Teach me to deny myself, carry my cross daily, and follow You with boldness. Let my life be marked
-                  by Your death, Your resurrection, and Your power. Make me unashamed of the Gospel and faithful to
-                  obey You. In Jesus&apos; name, amen.
+                  Lord Jesus, forgive me for the times I have wanted a discounted version of discipleship. Forgive me
+                  for wanting Your benefits while resisting Your Lordship. Teach me to surrender fully, obey boldly,
+                  and follow You without shame. Remove every idol, every excuse, and every compromise from my heart.
+                  I belong to You. In Jesus&apos; name, amen.
                 </p>
               </div>
 
