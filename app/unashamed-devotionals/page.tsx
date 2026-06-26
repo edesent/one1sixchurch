@@ -4,30 +4,30 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/YJVDq-s6rQ7blqodsr6ibV-6FqqfuxeD/43094-ypla14PHWxyrdBq2OByuSOtqQ0GJGd.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/nn9TDMhfqDIrMrm93lth8uu9DWu8Biu-/43480-GREDLalDyNMi7u76J9y7v7fcEd68i8.mp4";
 
 const reflectionQuestions = [
-  "Where have I tried to follow Jesus without letting it cost me anything?",
-  "What am I still holding back from the Lord?",
-  "Am I willing to obey Jesus even if it costs comfort, approval, or convenience?",
+  "Where am I tempted to look back after Jesus has called me forward?",
+  "What old habit, comfort, relationship, or fear keeps trying to pull my heart backward?",
+  "What obedient step can I take today that says, 'Jesus, there is no turning back'?",
 ];
 
 const devotionalThought = [
-  `We live in a world that loves discounts. People wait for sales, coupons, deals, and clearance prices. Everybody wants the value without the full cost. And if we are not careful, we can bring that same mindset into our walk with Jesus.`,
-  `We can want forgiveness without repentance. We can want heaven without surrender. We can want blessing without obedience. We can want Jesus as Savior, but resist Jesus as Lord.`,
-  `But Jesus never offered discounted discipleship. He never lowered the cost to keep the crowd. He never softened the call to make people comfortable. He loved people deeply, but He told them the truth clearly.`,
-  `In Luke 14, Jesus turned to the crowds and spoke words that were hard to hear. He said that whoever does not carry his own cross and follow Him cannot be His disciple. That is not casual Christianity. That is total surrender.`,
-  `Jesus was not trying to build a crowd of excited fans. He was calling surrendered followers. A fan wants proximity without sacrifice. A disciple follows even when obedience costs something.`,
-  `This does not mean we earn salvation. Salvation is a gift of grace through faith in Jesus Christ. We could never pay for our own forgiveness. We could never purchase our own redemption. Jesus paid the price completely through His death and resurrection.`,
-  `But the grace that saves us also transforms us. The Gospel is free, but it is not cheap. It cost Jesus His blood. And when that grace truly reaches the heart, it does not leave us unchanged.`,
-  `No discounted discipleship means we stop trying to negotiate the terms of following Jesus. We do not come to Christ with conditions. We come with surrender. We do not say, "Lord, I will follow You as long as it does not affect my comfort." We say, "Lord, my life belongs to You."`,
-  `There are things that cannot remain on the throne when Jesus is Lord. Pride has to come down. Secret sin has to come down. People pleasing has to come down. Compromise has to come down. Self-rule has to come down.`,
-  `The rich young ruler wanted eternal life, but he did not want to release what ruled his heart. He came close to Jesus, but he walked away sorrowful because the cost touched his idol. That is the danger of wanting discipleship at a discount.`,
-  `Jesus is not one more addition to our lives. He is Lord over our lives. We do not add Him to our plans and ask Him to bless what we refuse to surrender. We lay everything before Him and trust that what He asks from us is nothing compared to what He gives in Himself.`,
-  `Following Jesus may cost approval. It may cost comfort. It may cost certain relationships. It may cost old habits, old desires, old labels, and old identities. But whatever obedience costs, Christ is worth more.`,
-  `A discounted gospel produces shallow faith. But true discipleship produces roots, endurance, holiness, boldness, and love. It forms people who can stand when culture shifts, when feelings change, and when the crowd walks away.`,
-  `Today, do not ask Jesus for the cheapest version of Christianity. Ask Him for the real thing. Ask Him for a faith that follows, a heart that surrenders, and a life that says yes even when yes has a cost.`,
-  `Because the cost of following Jesus is real, but the cost of not following Him is greater. And the reward of belonging fully to Christ is worth everything.`
+  `There comes a moment in the life of every disciple where following Jesus requires a decision: will I keep walking forward, or will I keep looking back?`,
+  `Jesus said, "Anyone who puts a hand to the plow and then looks back is not fit for the Kingdom of God." Those are strong words. Jesus was not being cruel. He was being clear. A divided heart cannot plow a straight line.`,
+  `In the ancient world, a person plowing a field had to keep their eyes forward. If they kept looking behind them, the line would become crooked. Jesus used that picture to show us something spiritual: you cannot follow Him faithfully while your heart keeps turning back to what He delivered you from.`,
+  `Looking back is dangerous because it makes the past look safer than obedience. It makes Egypt look better than the wilderness. It makes bondage look familiar and surrender look too costly.`,
+  `But the truth is this: everything God brought you out of was never meant to become your home again. The old life may call your name, but it no longer owns your identity. The past may speak loudly, but Jesus speaks with authority.`,
+  `No turning back does not mean the road will always be easy. It means Christ is worthy even when the road is hard. It means we keep walking when emotions change, when people misunderstand, when obedience costs, and when the flesh wants comfort.`,
+  `Faith is not proven only when the music is loud and the room is full. Faith is proven when the road gets quiet and you still keep following Jesus.`,
+  `Hebrews tells us that we are not of those who shrink back and are destroyed, but of those who have faith and preserve their souls. That means the life of a believer is not a retreat. It is a forward walk of faith.`,
+  `There will be moments when compromise invites you back. Fear will invite you back. Old habits will invite you back. People pleasing will invite you back. But the disciple of Jesus must learn to say, "I have decided to follow Christ, and I am not going back."`,
+  `This is not about pride or self-strength. We do not keep going because we are strong enough by ourselves. We keep going because Jesus is faithful, the Holy Spirit empowers us, and the grace of God sustains us.`,
+  `The same Jesus who calls you forward also gives you strength to keep walking. He does not call you to carry the cross and then abandon you on the road. He walks with His people. He strengthens weak hands. He restores weary hearts. He gives endurance to those who trust Him.`,
+  `The Gospel reminds us that Jesus did not turn back from the cross. He set His face toward Jerusalem. He endured rejection, suffering, shame, and death because He came to save sinners and glorify the Father.`,
+  `If Jesus did not turn back from the cross for us, then we cannot turn back from following Him because the road becomes uncomfortable. The cross before us and the world behind us. Christ is better. Christ is enough. Christ is worth it all.`,
+  `Today, let this be more than a phrase. Let it become a declaration of surrender. No turning back to dead things. No turning back to compromise. No turning back to fear. No turning back to living ashamed.`,
+  `Keep your eyes on Jesus. Keep your hands on the plow. Keep walking in faith. The road may cost you something, but the One you follow is greater than anything you left behind. No turning back.`,
 ];
 
 export default function UnashamedDevotionalsPage() {
@@ -69,7 +69,7 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 3 — No Discounted Discipleship
+                Day 5 — No Turning Back
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
                 Unashamed Week 4 Devotional · The Cost Of Being Unashamed
@@ -116,14 +116,14 @@ export default function UnashamedDevotionalsPage() {
                 <div>
                   <p className="eyebrow" style={{ marginBottom: "10px" }}>Scripture Focus</p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Luke 14:27 · Luke 14:33 · Romans 1:16
+                    Luke 9:62 · Hebrews 10:38-39 · Romans 1:16
                   </p>
                 </div>
                 <div>
                   <p className="eyebrow" style={{ marginBottom: "10px" }}>Today&apos;s Challenge</p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Ask the Lord to show you one area where you have wanted comfort without surrender. Then take one
-                    obedient step today without negotiating the cost.
+                    Identify one thing that keeps pulling your heart backward. Pray over it, surrender it to Jesus,
+                    and take one clear step forward in obedience today.
                   </p>
                 </div>
               </div>
@@ -190,10 +190,10 @@ export default function UnashamedDevotionalsPage() {
                   Let&apos;s Pray
                 </h3>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Lord Jesus, forgive me for the times I have wanted a discounted version of discipleship. Forgive me
-                  for wanting Your benefits while resisting Your Lordship. Teach me to surrender fully, obey boldly,
-                  and follow You without shame. Remove every idol, every excuse, and every compromise from my heart.
-                  I belong to You. In Jesus&apos; name, amen.
+                  Lord Jesus, forgive me for the times I have looked back after You called me forward. Strengthen my
+                  heart to follow You with full surrender. Break the pull of old habits, old fears, old compromises,
+                  and old identities. Help me keep my eyes on You, my hands on the plow, and my life rooted in Your
+                  Gospel. No turning back. In Jesus&apos; name, amen.
                 </p>
               </div>
 
