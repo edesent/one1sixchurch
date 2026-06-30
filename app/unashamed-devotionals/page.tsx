@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/V_LKDddcrj8ZJQI_rO8ITvx7akD_4xCY/43656-s0MbIr9KsXKTLl7UOZi2I41bHeMLNv.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/XTL4uYxYxqdFvEd6gFTjOdwJYvrccHtG/43747-QUpIsUFbPgb1guc2jSStFrGASiHGI1.mp4";
 
 const reflectionQuestions = [
   "Where am I tempted to look back after Jesus has called me forward?",
