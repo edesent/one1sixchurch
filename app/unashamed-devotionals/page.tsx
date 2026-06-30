@@ -7,27 +7,27 @@ const devotionalVideoUrl =
   "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/XTL4uYxYxqdFvEd6gFTjOdwJYvrccHtG/43747-QUpIsUFbPgb1guc2jSStFrGASiHGI1.mp4";
 
 const reflectionQuestions = [
-  "Where am I tempted to look back after Jesus has called me forward?",
-  "What old habit, comfort, relationship, or fear keeps trying to pull my heart backward?",
-  "What obedient step can I take today that says, 'Jesus, there is no turning back'?",
+  "What am I building that looks good on the outside but may not survive the fire?",
+  "Is my faith built on Christ, or on image, emotion, approval, and routine?",
+  "What is one thing I need to surrender so God can purify what is real in me?",
 ];
 
 const devotionalThought = [
-  `There comes a moment in the life of every disciple where following Jesus requires a decision: will I keep walking forward, or will I keep looking back?`,
-  `Jesus said, "Anyone who puts a hand to the plow and then looks back is not fit for the Kingdom of God." Those are strong words. Jesus was not being cruel. He was being clear. A divided heart cannot plow a straight line.`,
-  `In the ancient world, a person plowing a field had to keep their eyes forward. If they kept looking behind them, the line would become crooked. Jesus used that picture to show us something spiritual: you cannot follow Him faithfully while your heart keeps turning back to what He delivered you from.`,
-  `Looking back is dangerous because it makes the past look safer than obedience. It makes Egypt look better than the wilderness. It makes bondage look familiar and surrender look too costly.`,
-  `But the truth is this: everything God brought you out of was never meant to become your home again. The old life may call your name, but it no longer owns your identity. The past may speak loudly, but Jesus speaks with authority.`,
-  `No turning back does not mean the road will always be easy. It means Christ is worthy even when the road is hard. It means we keep walking when emotions change, when people misunderstand, when obedience costs, and when the flesh wants comfort.`,
-  `Faith is not proven only when the music is loud and the room is full. Faith is proven when the road gets quiet and you still keep following Jesus.`,
-  `Hebrews tells us that we are not of those who shrink back and are destroyed, but of those who have faith and preserve their souls. That means the life of a believer is not a retreat. It is a forward walk of faith.`,
-  `There will be moments when compromise invites you back. Fear will invite you back. Old habits will invite you back. People pleasing will invite you back. But the disciple of Jesus must learn to say, "I have decided to follow Christ, and I am not going back."`,
-  `This is not about pride or self-strength. We do not keep going because we are strong enough by ourselves. We keep going because Jesus is faithful, the Holy Spirit empowers us, and the grace of God sustains us.`,
-  `The same Jesus who calls you forward also gives you strength to keep walking. He does not call you to carry the cross and then abandon you on the road. He walks with His people. He strengthens weak hands. He restores weary hearts. He gives endurance to those who trust Him.`,
-  `The Gospel reminds us that Jesus did not turn back from the cross. He set His face toward Jerusalem. He endured rejection, suffering, shame, and death because He came to save sinners and glorify the Father.`,
-  `If Jesus did not turn back from the cross for us, then we cannot turn back from following Him because the road becomes uncomfortable. The cross before us and the world behind us. Christ is better. Christ is enough. Christ is worth it all.`,
-  `Today, let this be more than a phrase. Let it become a declaration of surrender. No turning back to dead things. No turning back to compromise. No turning back to fear. No turning back to living ashamed.`,
-  `Keep your eyes on Jesus. Keep your hands on the plow. Keep walking in faith. The road may cost you something, but the One you follow is greater than anything you left behind. No turning back.`,
+  `Fire does not create what is real. Fire reveals what was already there. It exposes the quality of what has been built, the strength of the foundation, and the truth beneath the surface.`,
+  `Paul teaches in 1 Corinthians that there is a day coming when each person's work will be tested by fire. Not every work will remain. Not every ministry effort, public appearance, emotional moment, or religious activity will survive the testing of God.`,
+  `That is a sobering truth. It is possible to build something that looks impressive to people but is weak before God. It is possible to have movement without depth, noise without surrender, and activity without true devotion.`,
+  `The fire reveals the difference between image and substance. Image asks, "How does this look?" Substance asks, "Is this built on Christ?" Image wants applause. Substance wants obedience. Image wants recognition. Substance wants faithfulness.`,
+  `This is why the foundation matters. A life built on Christ can be tested and still stand. A life built on approval, comfort, pride, or religious performance may look strong for a season, but fire will expose what it was really made of.`,
+  `God's testing is not always meant to destroy us. Many times, His fire is meant to purify us. The Lord loves us too much to let us keep building with things that cannot last. He confronts what is false so what is real can remain.`,
+  `That is not punishment for the believer. That is mercy. It is the grace of God refusing to let us live with a faith that only looks alive but has no weight, no roots, and no surrender.`,
+  `Hebrews says our God is a consuming fire. That means He is holy. He is not casual about sin, pride, compromise, or empty religion. His presence burns through pretense and calls His people back to reverence, obedience, and worship.`,
+  `The question is not only, "What am I building?" The question is, "Will it survive the fire?" Will my worship survive when nobody sees me? Will my obedience survive when it costs me something? Will my faith survive when comfort is removed?`,
+  `A fire-tested faith is not a fake faith. It is a purified faith. It is a faith that has been stripped of performance and brought back to Christ. It is not built on feelings alone. It is built on the finished work of Jesus, the truth of Scripture, and the power of the Holy Spirit.`,
+  `Jesus is the only foundation that can hold under fire. Our gifts cannot be the foundation. Our emotions cannot be the foundation. Our platforms, titles, routines, and reputation cannot be the foundation. Christ alone must be the foundation.`,
+  `At the cross, Jesus passed through the judgment we deserved. He carried our sin, bore our shame, and rose again with all authority. Because of Him, we do not run from the fire of God. We surrender to His refining work.`,
+  `So today, allow the Lord to examine your heart. Let Him test the motives. Let Him confront the hidden places. Let Him burn away what is false, shallow, prideful, and temporary.`,
+  `Do not be afraid of the fire when the fire is in the hands of a holy and loving God. What He removes was never meant to carry your life. What He purifies will come out stronger.`,
+  `Build on Christ. Live unashamed. Let your work, your faith, your obedience, and your devotion be the kind that can stand when the fire reveals what is real.`,
 ];
 
 export default function UnashamedDevotionalsPage() {
@@ -69,10 +69,10 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 5 — No Turning Back
+                Day 2 — The Fire Reveals What Is Real
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
-                Unashamed Week 4 Devotional · The Cost Of Being Unashamed
+                Unashamed Week 5 Devotional · Tested By Fire
               </p>
             </div>
 
@@ -116,14 +116,14 @@ export default function UnashamedDevotionalsPage() {
                 <div>
                   <p className="eyebrow" style={{ marginBottom: "10px" }}>Scripture Focus</p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Luke 9:62 · Hebrews 10:38-39 · Romans 1:16
+                    1 Corinthians 3:13 · Hebrews 12:29 · Romans 1:16
                   </p>
                 </div>
                 <div>
                   <p className="eyebrow" style={{ marginBottom: "10px" }}>Today&apos;s Challenge</p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Identify one thing that keeps pulling your heart backward. Pray over it, surrender it to Jesus,
-                    and take one clear step forward in obedience today.
+                    Ask God to reveal what is real and what is only appearance. Surrender one false, shallow, or
+                    prideful area to Him today and choose to build on Christ.
                   </p>
                 </div>
               </div>
@@ -190,10 +190,10 @@ export default function UnashamedDevotionalsPage() {
                   Let&apos;s Pray
                 </h3>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Lord Jesus, forgive me for the times I have looked back after You called me forward. Strengthen my
-                  heart to follow You with full surrender. Break the pull of old habits, old fears, old compromises,
-                  and old identities. Help me keep my eyes on You, my hands on the plow, and my life rooted in Your
-                  Gospel. No turning back. In Jesus&apos; name, amen.
+                  Lord Jesus, search my heart and reveal what is real. Forgive me for building on image, pride,
+                  approval, or empty religion. Purify my motives, strengthen my faith, and teach me to build my life
+                  on You alone. Let my work, worship, obedience, and devotion survive the fire because they are rooted
+                  in Christ. In Jesus&apos; name, amen.
                 </p>
               </div>
 
