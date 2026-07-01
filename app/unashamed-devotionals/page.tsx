@@ -4,30 +4,30 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/XTL4uYxYxqdFvEd6gFTjOdwJYvrccHtG/43747-QUpIsUFbPgb1guc2jSStFrGASiHGI1.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/foaw_YPiLJsQbtp4a7Py97LAAouKza7K/43873-8noLJsVrk1Cfd073d8if6RvCIzpkZT.mp4";
 
 const reflectionQuestions = [
-  "What am I building that looks good on the outside but may not survive the fire?",
-  "Is my faith built on Christ, or on image, emotion, approval, and routine?",
-  "What is one thing I need to surrender so God can purify what is real in me?",
+  "Am I offering God true worship, or am I offering Him something shaped by pride, convenience, or performance?",
+  "Where have I confused emotional fire with holy fire?",
+  "What area of my worship, obedience, or private life needs to be surrendered back to the Lord today?",
 ];
 
 const devotionalThought = [
-  `Fire does not create what is real. Fire reveals what was already there. It exposes the quality of what has been built, the strength of the foundation, and the truth beneath the surface.`,
-  `Paul teaches in 1 Corinthians that there is a day coming when each person's work will be tested by fire. Not every work will remain. Not every ministry effort, public appearance, emotional moment, or religious activity will survive the testing of God.`,
-  `That is a sobering truth. It is possible to build something that looks impressive to people but is weak before God. It is possible to have movement without depth, noise without surrender, and activity without true devotion.`,
-  `The fire reveals the difference between image and substance. Image asks, "How does this look?" Substance asks, "Is this built on Christ?" Image wants applause. Substance wants obedience. Image wants recognition. Substance wants faithfulness.`,
-  `This is why the foundation matters. A life built on Christ can be tested and still stand. A life built on approval, comfort, pride, or religious performance may look strong for a season, but fire will expose what it was really made of.`,
-  `God's testing is not always meant to destroy us. Many times, His fire is meant to purify us. The Lord loves us too much to let us keep building with things that cannot last. He confronts what is false so what is real can remain.`,
-  `That is not punishment for the believer. That is mercy. It is the grace of God refusing to let us live with a faith that only looks alive but has no weight, no roots, and no surrender.`,
-  `Hebrews says our God is a consuming fire. That means He is holy. He is not casual about sin, pride, compromise, or empty religion. His presence burns through pretense and calls His people back to reverence, obedience, and worship.`,
-  `The question is not only, "What am I building?" The question is, "Will it survive the fire?" Will my worship survive when nobody sees me? Will my obedience survive when it costs me something? Will my faith survive when comfort is removed?`,
-  `A fire-tested faith is not a fake faith. It is a purified faith. It is a faith that has been stripped of performance and brought back to Christ. It is not built on feelings alone. It is built on the finished work of Jesus, the truth of Scripture, and the power of the Holy Spirit.`,
-  `Jesus is the only foundation that can hold under fire. Our gifts cannot be the foundation. Our emotions cannot be the foundation. Our platforms, titles, routines, and reputation cannot be the foundation. Christ alone must be the foundation.`,
-  `At the cross, Jesus passed through the judgment we deserved. He carried our sin, bore our shame, and rose again with all authority. Because of Him, we do not run from the fire of God. We surrender to His refining work.`,
-  `So today, allow the Lord to examine your heart. Let Him test the motives. Let Him confront the hidden places. Let Him burn away what is false, shallow, prideful, and temporary.`,
-  `Do not be afraid of the fire when the fire is in the hands of a holy and loving God. What He removes was never meant to carry your life. What He purifies will come out stronger.`,
-  `Build on Christ. Live unashamed. Let your work, your faith, your obedience, and your devotion be the kind that can stand when the fire reveals what is real.`,
+  `Not every fire is holy fire. That is a hard truth, but it is a necessary truth. In Leviticus chapter 10, Nadab and Abihu offered unauthorized fire before the Lord. It looked like worship, but God rejected it because it was not commanded by Him.`,
+  `They were close to holy things, but their closeness did not excuse disobedience. They stood near the altar, wore priestly garments, and handled spiritual responsibility, but they treated the presence of God casually.`,
+  `That should sober us. It is possible to be around worship and still miss reverence. It is possible to be near the altar and still carry the wrong fire. It is possible to use spiritual language while offering God something He never asked for.`,
+  `Strange fire is fire that may look passionate but is not surrendered. It may look intense but is not obedient. It may look impressive to people but is not pleasing to God.`,
+  `This is why Jesus said the Father is seeking worshipers who worship in spirit and in truth. Not just spirit without truth. Not just emotion without obedience. Not just sound without surrender. God is looking for worship that is alive by the Spirit and anchored in the truth.`,
+  `Holy fire does not begin with performance. Holy fire begins with surrender. It is born in reverence, shaped by obedience, and purified by the presence of God.`,
+  `The danger of strange fire is that it can feel powerful while still being polluted. Pride can burn. Ambition can burn. Offense can burn. Attention-seeking can burn. Religious performance can burn. But just because something burns does not mean it is holy.`,
+  `The question is not only, "Do I have fire?" The deeper question is, "Where did this fire come from?" Did it come from the Holy Spirit, or did it come from my flesh? Did it come from obedience, or did it come from image? Did it come from surrender, or did it come from pride?`,
+  `God is not against passion. He created holy passion. He gives zeal. He fills His people with boldness. But passion without submission becomes dangerous. Fire without holiness becomes strange fire.`,
+  `This is not a call to become cold. This is a call to burn right. The answer to strange fire is not no fire. The answer is holy fire. Fire that is submitted to Scripture. Fire that bows before Jesus. Fire that refuses to entertain sin while claiming to love God.`,
+  `Jesus did not die so we could offer God religious performance. He died to reconcile us to the Father, cleanse us from sin, and make us living sacrifices. At the cross, our false worship is exposed, and through the resurrection, our hearts are made new.`,
+  `So today, do not just ask God to make you passionate. Ask Him to make you pure. Do not just ask Him to make you bold. Ask Him to make you obedient. Do not just ask Him for fire. Ask Him for holy fire.`,
+  `Let the Lord confront anything that looks spiritual but is not surrendered. Let Him expose every false motive, every prideful offering, every empty routine, and every place where worship has become performance.`,
+  `God is too holy to be played with, but He is also too merciful to leave us in false fire. He corrects because He loves. He purifies because He is faithful. He calls us back because He wants our whole heart.`,
+  `Live unashamed, but do not live careless. Burn for Jesus, but burn holy. Let your worship be real, your obedience be honest, and your fire come from the Spirit of God.`,
 ];
 
 export default function UnashamedDevotionalsPage() {
@@ -69,10 +69,10 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 2 — The Fire Reveals What Is Real
+                Day 3 — Strange Fire Is Still Fire, But It Is Not Holy
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
-                Unashamed Week 5 Devotional · Tested By Fire
+                Unashamed Week 5 Devotional · No Smoke Without Fire
               </p>
             </div>
 
@@ -116,14 +116,14 @@ export default function UnashamedDevotionalsPage() {
                 <div>
                   <p className="eyebrow" style={{ marginBottom: "10px" }}>Scripture Focus</p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    1 Corinthians 3:13 · Hebrews 12:29 · Romans 1:16
+                    Leviticus 10:1-3 · John 4:23-24 · Romans 1:16
                   </p>
                 </div>
                 <div>
                   <p className="eyebrow" style={{ marginBottom: "10px" }}>Today&apos;s Challenge</p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Ask God to reveal what is real and what is only appearance. Surrender one false, shallow, or
-                    prideful area to Him today and choose to build on Christ.
+                    Ask God to reveal any strange fire in your heart. Surrender one area where passion, pride, or
+                    performance has replaced true obedience and worship.
                   </p>
                 </div>
               </div>
@@ -190,10 +190,10 @@ export default function UnashamedDevotionalsPage() {
                   Let&apos;s Pray
                 </h3>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Lord Jesus, search my heart and reveal what is real. Forgive me for building on image, pride,
-                  approval, or empty religion. Purify my motives, strengthen my faith, and teach me to build my life
-                  on You alone. Let my work, worship, obedience, and devotion survive the fire because they are rooted
-                  in Christ. In Jesus&apos; name, amen.
+                  Father, in the name of Jesus, purify my worship. Forgive me for every place where I have offered
+                  You passion without obedience, noise without surrender, or performance without reverence. Remove every
+                  strange fire from my heart and fill me with holy fire by Your Spirit. Teach me to worship in spirit and
+                  in truth. Let my life honor You in public and in private. In Jesus&apos; name, amen.
                 </p>
               </div>
 
