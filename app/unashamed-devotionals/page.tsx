@@ -4,30 +4,27 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/foaw_YPiLJsQbtp4a7Py97LAAouKza7K/43873-8noLJsVrk1Cfd073d8if6RvCIzpkZT.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/gmublSGJeuZMhapOeG7sOhY9TGbtR3Oy/44292-sufEIuMmhUxGMDuQlXcQSsrcN0izMs.mp4";
 
 const reflectionQuestions = [
-  "Am I offering God true worship, or am I offering Him something shaped by pride, convenience, or performance?",
-  "Where have I confused emotional fire with holy fire?",
-  "What area of my worship, obedience, or private life needs to be surrendered back to the Lord today?",
+  "Am I trying to live bold for Jesus in my own strength instead of being filled with the Holy Spirit?",
+  "What area of my heart needs the purifying fire of God today?",
+  "Is my life producing real evidence of holy fire, or only the appearance of spiritual smoke?",
 ];
 
 const devotionalThought = [
-  `Not every fire is holy fire. That is a hard truth, but it is a necessary truth. In Leviticus chapter 10, Nadab and Abihu offered unauthorized fire before the Lord. It looked like worship, but God rejected it because it was not commanded by Him.`,
-  `They were close to holy things, but their closeness did not excuse disobedience. They stood near the altar, wore priestly garments, and handled spiritual responsibility, but they treated the presence of God casually.`,
-  `That should sober us. It is possible to be around worship and still miss reverence. It is possible to be near the altar and still carry the wrong fire. It is possible to use spiritual language while offering God something He never asked for.`,
-  `Strange fire is fire that may look passionate but is not surrendered. It may look intense but is not obedient. It may look impressive to people but is not pleasing to God.`,
-  `This is why Jesus said the Father is seeking worshipers who worship in spirit and in truth. Not just spirit without truth. Not just emotion without obedience. Not just sound without surrender. God is looking for worship that is alive by the Spirit and anchored in the truth.`,
-  `Holy fire does not begin with performance. Holy fire begins with surrender. It is born in reverence, shaped by obedience, and purified by the presence of God.`,
-  `The danger of strange fire is that it can feel powerful while still being polluted. Pride can burn. Ambition can burn. Offense can burn. Attention-seeking can burn. Religious performance can burn. But just because something burns does not mean it is holy.`,
-  `The question is not only, "Do I have fire?" The deeper question is, "Where did this fire come from?" Did it come from the Holy Spirit, or did it come from my flesh? Did it come from obedience, or did it come from image? Did it come from surrender, or did it come from pride?`,
-  `God is not against passion. He created holy passion. He gives zeal. He fills His people with boldness. But passion without submission becomes dangerous. Fire without holiness becomes strange fire.`,
-  `This is not a call to become cold. This is a call to burn right. The answer to strange fire is not no fire. The answer is holy fire. Fire that is submitted to Scripture. Fire that bows before Jesus. Fire that refuses to entertain sin while claiming to love God.`,
-  `Jesus did not die so we could offer God religious performance. He died to reconcile us to the Father, cleanse us from sin, and make us living sacrifices. At the cross, our false worship is exposed, and through the resurrection, our hearts are made new.`,
-  `So today, do not just ask God to make you passionate. Ask Him to make you pure. Do not just ask Him to make you bold. Ask Him to make you obedient. Do not just ask Him for fire. Ask Him for holy fire.`,
-  `Let the Lord confront anything that looks spiritual but is not surrendered. Let Him expose every false motive, every prideful offering, every empty routine, and every place where worship has become performance.`,
-  `God is too holy to be played with, but He is also too merciful to leave us in false fire. He corrects because He loves. He purifies because He is faithful. He calls us back because He wants our whole heart.`,
-  `Live unashamed, but do not live careless. Burn for Jesus, but burn holy. Let your worship be real, your obedience be honest, and your fire come from the Spirit of God.`,
+  `Fire in Scripture is never casual. Fire reveals. Fire purifies. Fire consumes. Fire marks the presence of God, the holiness of God, and the power of God. But the fire God gives is not emotional hype. It is not religious performance. It is the holy fire of the Holy Spirit.`,
+  `John the Baptist said Jesus would baptize with the Holy Spirit and with fire. That means the work of Christ is not only to forgive us, but to fill us, purify us, empower us, and set us apart for the glory of God.`,
+  `In Acts chapter 2, the disciples were gathered in obedience, waiting for the promise of the Father. Then the Holy Spirit came like a rushing mighty wind, and tongues like fire rested on them. They were not just moved emotionally. They were transformed spiritually.`,
+  `Before the fire fell, they were waiting. After the fire fell, they became witnesses. Before the fire fell, Peter denied Jesus. After the fire fell, Peter preached Jesus with boldness. The Holy Spirit does not make cowards comfortable. He makes disciples courageous.`,
+  `This is why we must understand the difference between strange fire and holy fire. Strange fire begins in the flesh. Holy fire comes from God. Strange fire seeks attention. Holy fire points to Jesus. Strange fire performs for people. Holy fire produces obedience.`,
+  `The fire of the Holy Spirit is not given so we can look spiritual. It is given so we can live surrendered. It burns away compromise. It exposes sin. It awakens prayer. It strengthens witness. It gives boldness to speak the truth when fear tells us to stay silent.`,
+  `Some people want the smoke of revival without the surrender of repentance. They want the sound, the emotion, and the appearance, but they do not want the altar. But in the Kingdom, fire falls on sacrifice. The question is not only, "Lord, send the fire." The question is, "Lord, am I on the altar?"`,
+  `Romans 1:16 is not a motivational slogan. It is the confession of a life set on fire by the Gospel. Paul was not ashamed because he knew the Gospel was the power of God for salvation. When the Holy Spirit fills a person, shame begins to lose its grip and boldness begins to rise.`,
+  `Holy fire does not make us arrogant. It makes us surrendered. It does not make us reckless. It makes us obedient. It does not make us loud for attention. It makes us bold for Christ.`,
+  `The Church does not need more manufactured smoke. We need the fire of the Holy Spirit. We need prayer that burns. Worship that is pure. Preaching that carries truth. Discipleship that produces holiness. Lives that prove Jesus is Lord beyond Sunday.`,
+  `Jesus did not die and rise again so we could have cold religion with spiritual language. He saved us to make us alive in God. He sent the Holy Spirit so we would not live powerless, ashamed, or bound by fear.`,
+  `So today, do not settle for smoke. Ask God for holy fire. Ask Him to fill you again, purify you again, awaken you again, and make you a witness again. Live unashamed, not by your own strength, but by the power of the Holy Spirit.`,
 ];
 
 export default function UnashamedDevotionalsPage() {
@@ -69,7 +66,7 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 3 — Strange Fire Is Still Fire, But It Is Not Holy
+                Day 4 — The Fire Of The Holy Spirit
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
                 Unashamed Week 5 Devotional · No Smoke Without Fire
@@ -116,14 +113,14 @@ export default function UnashamedDevotionalsPage() {
                 <div>
                   <p className="eyebrow" style={{ marginBottom: "10px" }}>Scripture Focus</p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Leviticus 10:1-3 · John 4:23-24 · Romans 1:16
+                    Acts 2:1-4 · Luke 3:16 · Romans 1:16
                   </p>
                 </div>
                 <div>
                   <p className="eyebrow" style={{ marginBottom: "10px" }}>Today&apos;s Challenge</p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Ask God to reveal any strange fire in your heart. Surrender one area where passion, pride, or
-                    performance has replaced true obedience and worship.
+                    Ask the Holy Spirit to fill you with holy fire again. Surrender one area of fear, compromise, or
+                    spiritual coldness, and choose one bold act of obedience today.
                   </p>
                 </div>
               </div>
@@ -190,10 +187,10 @@ export default function UnashamedDevotionalsPage() {
                   Let&apos;s Pray
                 </h3>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Father, in the name of Jesus, purify my worship. Forgive me for every place where I have offered
-                  You passion without obedience, noise without surrender, or performance without reverence. Remove every
-                  strange fire from my heart and fill me with holy fire by Your Spirit. Teach me to worship in spirit and
-                  in truth. Let my life honor You in public and in private. In Jesus&apos; name, amen.
+                  Father, in the name of Jesus, thank You for sending the Holy Spirit. Forgive me for trying to live
+                  bold in my own strength. Purify my heart, burn away compromise, and fill me with holy fire. Make me a
+                  faithful witness of Jesus Christ. Let my life carry truth, surrender, obedience, and boldness. I refuse
+                  cold religion and empty smoke. Fill me again with the fire of Your Spirit. In Jesus&apos; name, amen.
                 </p>
               </div>
 
