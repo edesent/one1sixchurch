@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/Z8ih5uHqNKJx_UKiWJTi4_QNU3YNP9kG/44465-rDQEFKiSnz2hlnhCUY6ib4514zdZ1i.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/7hgNdLMfTZ1XiGbGZkY5FopvLLJ77Tc3/44998-3FcmImzu7MuyUjEGbiaGmf5OlnPo0e.mp4";
 
 const reflectionQuestions = [
   "Am I trying to live bold for Jesus in my own strength instead of being filled with the Holy Spirit?",
