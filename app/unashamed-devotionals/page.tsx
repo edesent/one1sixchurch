@@ -134,7 +134,7 @@ export default function UnashamedDevotionalsPage() {
                 <div>
                   <p className="eyebrow" style={{ marginBottom: "10px" }}>Today&apos;s Challenge</p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Ask the Holy Spirit to search your heart today. Surrender one area of fear, compromise, or
+                    Ask God to search your heart today. Surrender one area of fear, compromise, or
                     spiritual coldness, and choose one bold act of obedience today.
                   </p>
                 </div>
