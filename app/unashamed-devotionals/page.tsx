@@ -7,7 +7,7 @@ const devotionalVideoUrl =
   "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/1lyTeFxr_EARA9YQKufDsN4-w4dhwK5G/45060-hfLl0fx33cjQ90mMBSxStkBIeOu4Zd.mp4";
 
 const reflectionQuestions = [
-  "Am I trying to live bold for Jesus in my own strength instead of being filled with the Holy Spirit?",
+  "Am I trying to live bold for Jesus in my own strength instead of being surrendered to Jesus?",
   "What area of my heart needs the purifying fire of God today?",
   "Is my life producing real evidence of holy fire, or only the appearance of spiritual smoke?",
 ];
