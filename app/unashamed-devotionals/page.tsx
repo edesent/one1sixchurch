@@ -215,7 +215,7 @@ export default function UnashamedDevotionalsPage() {
                 </h3>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
                   Father, in the name of Jesus, thank You for searching my heart. Forgive me for hiding behind
-                  outward appearance. Purify my heart, remove compromise, and make my faith alive in Christ. Remove every mask, every hidden compromise, and every form of dead religion from my life. Let my faith be real, surrendered, obedient, and alive in Christ. I do not want to look alive while my heart is far from You. In Jesus&apos; name, amen.
+                  outward appearance. Purify my heart and remove every mask, every hidden compromise, and every form of dead religion from my life. Let my faith be real, surrendered, obedient, and alive in Christ. I do not want to look alive while my heart is far from You. In Jesus&apos; name, amen.
                 </p>
               </div>
 
