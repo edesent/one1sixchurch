@@ -13,7 +13,7 @@ const reflectionQuestions = [
 ];
 
 const devotionalThought = [
-  `Fire in Scripture is never casual. Fire reveals. Fire purifies. Fire consumes. Fire marks the presence of God, the holiness of God, and the power of God. But the fire God gives is not emotional hype. It is not religious performance. It is the holy fire of the Holy Spirit.`,
+  `Jesus goes deeper than appearance. Fire reveals. Fire purifies. Fire consumes. Fire marks the presence of God, the holiness of God, and the power of God. But the fire God gives is not emotional hype. It is not religious performance. It is the holy fire of the Holy Spirit.`,
   `John the Baptist said Jesus would baptize with the Holy Spirit and with fire. That means the work of Christ is not only to forgive us, but to fill us, purify us, empower us, and set us apart for the glory of God.`,
   `In Acts chapter 2, the disciples were gathered in obedience, waiting for the promise of the Father. Then the Holy Spirit came like a rushing mighty wind, and tongues like fire rested on them. They were not just moved emotionally. They were transformed spiritually.`,
   `Before the fire fell, they were waiting. After the fire fell, they became witnesses. Before the fire fell, Peter denied Jesus. After the fire fell, Peter preached Jesus with boldness. The Holy Spirit does not make cowards comfortable. He makes disciples courageous.`,
