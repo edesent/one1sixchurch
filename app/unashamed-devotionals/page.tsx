@@ -12,7 +12,7 @@ const reflectionQuestions = [
   "Is my life producing real evidence of holy fire, or only the appearance of spiritual smoke?",
 ];
 
-const devotionalThought = [
+const devotionalThoughtWeek6 = [
   `Jesus goes deeper than appearance. Fire reveals. Fire purifies. Fire consumes. Fire marks the presence of God, the holiness of God, and the power of God. But the fire God gives is not emotional hype. It is not religious performance. It is the holy fire of the Holy Spirit.`,
   `John the Baptist said Jesus would baptize with the Holy Spirit and with fire. That means the work of Christ is not only to forgive us, but to fill us, purify us, empower us, and set us apart for the glory of God.`,
   `In Acts chapter 2, the disciples were gathered in obedience, waiting for the promise of the Father. Then the Holy Spirit came like a rushing mighty wind, and tongues like fire rested on them. They were not just moved emotionally. They were transformed spiritually.`,
@@ -33,7 +33,7 @@ const reflectionQuestionsWeek6 = [
   "Where have I allowed religious appearance to replace repentance, obedience, and real relationship with Christ?",
 ];
 
-const devotionalThoughtWeek6 = [
+const devotionalThoughtWeek6Week6 = [
   `Jesus goes deeper than appearance. He is not impressed by a polished outside when the heart is not surrendered to Him.`,
   `In Matthew chapter 23, Jesus confronts a religion that looked clean in public but was not healthy before God in private. That warning should sober us.`,
   `Religious appearance can make people feel safe while they avoid repentance. But the Gospel does not come to decorate the old life. The Gospel comes to make us new.`,
@@ -151,7 +151,7 @@ export default function UnashamedDevotionalsPage() {
                 Devotional Thought
               </h3>
               <div style={{ display: "grid", gap: "10px" }}>
-                {devotionalThought.map((line) => (
+                {devotionalThoughtWeek6.map((line) => (
                   <p
                     key={line}
                     style={{
