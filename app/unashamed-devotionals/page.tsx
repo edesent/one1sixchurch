@@ -113,7 +113,7 @@ export default function UnashamedDevotionalsPage() {
                 <div>
                   <p className="eyebrow" style={{ marginBottom: "10px" }}>Scripture Focus</p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Matthew 23:1-4 · 1 Samuel 16:7 · Romans 1:16
+                    Matthew 23:27-28 · 1 Samuel 16:7 · Romans 1:16
                   </p>
                 </div>
                 <div>
