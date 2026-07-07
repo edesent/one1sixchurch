@@ -66,7 +66,7 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 4 — The Fire Of The Holy Spirit
+                Day 2 — Clean Outside, Dead Inside
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
                 Unashamed Week 5 Devotional · No Smoke Without Fire
