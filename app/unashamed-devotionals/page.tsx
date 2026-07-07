@@ -151,7 +151,7 @@ export default function UnashamedDevotionalsPage() {
                 Devotional Thought
               </h3>
               <div style={{ display: "grid", gap: "10px" }}>
-                {devotionalThoughtWeek6.map((line) => (
+                {devotionalThoughtWeek6Week6.map((line) => (
                   <p
                     key={line}
                     style={{
