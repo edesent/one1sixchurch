@@ -284,17 +284,29 @@ export default function UnashamedDevotionalsPage() {
                 </div>
               </div>
 
-              <p
-                style={{
-                  margin: "34px 0 0",
-                  color: "rgba(255,255,255,0.88)",
-                  fontWeight: 700,
-                  letterSpacing: "0.03em",
-                  textTransform: "uppercase",
-                }}
-              >
-                One1Six Church Unashamed · One Church For The One · A Family For The Six
-              </p>
+              <div style={{ marginTop: "34px", display: "grid", gap: "10px" }}>
+                <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
+                  Thank you for joining us for Day 2 of the Unashamed Week 6 Devotional.
+                </p>
+                <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
+                  Our prayer is that God&apos;s Word challenges your heart, strengthens your faith, and draws you closer to Jesus.
+                </p>
+                <p
+                  style={{
+                    margin: 0,
+                    color: "rgba(255,255,255,0.88)",
+                    fontWeight: 700,
+                    letterSpacing: "0.03em",
+                    textTransform: "uppercase",
+                    lineHeight: 1.85,
+                  }}
+                >
+                  This is One1Six Church Unashamed. One Church For The One. A Family For The Six.
+                </p>
+                <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
+                  Until next time. Keep your eyes on Jesus. Stand on truth, and live unashamed. God bless you.
+                </p>
+              </div>
             </article>
 
             <div style={{ display: "flex", justifyContent: "center", marginTop: "34px" }}>
