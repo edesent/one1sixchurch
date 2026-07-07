@@ -27,6 +27,21 @@ const devotionalThought = [
   `So today, do not settle for smoke. Ask God for holy fire. Ask Him to fill you again, purify you again, awaken you again, and make you a witness again. Live unashamed, not by your own strength, but by the power of the Holy Spirit.`,
 ];
 
+const reflectionQuestionsWeek6 = [
+  "Am I more concerned with looking spiritual than being surrendered to Jesus?",
+  "What hidden area of my heart needs to be brought into the light before God?",
+  "Where have I allowed religious appearance to replace repentance, obedience, and real relationship with Christ?",
+];
+
+const devotionalThoughtWeek6 = [
+  `Jesus goes deeper than appearance. He is not impressed by a polished outside when the heart is not surrendered to Him.`,
+  `In Matthew chapter 23, Jesus confronts a religion that looked clean in public but was not healthy before God in private. That warning should sober us.`,
+  `Religious appearance can make people feel safe while they avoid repentance. But the Gospel does not come to decorate the old life. The Gospel comes to make us new.`,
+  `God sees what people cannot see. He sees motives, secret compromise, pride, fear, and hidden pain. But He also offers mercy to everyone who comes honestly.`,
+  `Today, do not ask God only to fix what people can see. Ask Him to cleanse what only He can see. Bring the real heart to the real Savior.`,
+  `Jesus does not expose the heart to destroy us. He exposes the heart to heal us, restore us, and bring us back to living faith.`,
+];
+
 export default function UnashamedDevotionalsPage() {
   return (
     <>
