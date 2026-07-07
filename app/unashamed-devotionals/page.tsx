@@ -178,7 +178,7 @@ export default function UnashamedDevotionalsPage() {
                   Reflection Questions
                 </h3>
                 <ol style={{ margin: 0, paddingLeft: "22px", color: "rgba(255,255,255,0.78)", lineHeight: 1.85 }}>
-                  {reflectionQuestions.map((question) => (
+                  {reflectionQuestionsWeek6.map((question) => (
                     <li key={question}>{question}</li>
                   ))}
                 </ol>
