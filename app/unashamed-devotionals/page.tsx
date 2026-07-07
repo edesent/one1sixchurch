@@ -154,7 +154,7 @@ export default function UnashamedDevotionalsPage() {
                   <p className="eyebrow" style={{ marginBottom: "10px" }}>Today&apos;s Challenge</p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
                     Before the day ends, spend ten quiet minutes with God. No music. No distractions. No performance.
-                    Ask Him, Father, where have I had form without fire? Then respond with one act of obedience today.
+                    Ask Him this: Father, where have I had form without fire? Then respond with one act of obedience today.
                   </p>
                 </div>
               </div>
