@@ -139,6 +139,19 @@ export default function UnashamedDevotionalsPage() {
                 </div>
               </div>
 
+              <div
+                style={{
+                  marginBottom: "34px",
+                  borderLeft: "4px solid #e50914",
+                  paddingLeft: "22px",
+                }}
+              >
+                <p className="eyebrow" style={{ marginBottom: "10px" }}>Devotional Summary</p>
+                <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
+                  Week 6 Day 2 confronts the danger of looking spiritually clean on the outside while the heart remains unsurrendered before God. Jesus calls us away from performance and into honest repentance, real surrender, and living faith.
+                </p>
+              </div>
+
               <h3
                 style={{
                   margin: "0 0 16px",
