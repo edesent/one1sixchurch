@@ -84,7 +84,7 @@ export default function UnashamedDevotionalsPage() {
                 Day 2 — Clean Outside, Dead Inside
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
-                Unashamed Week 6 Devotional · Dead Religion Cannot Save
+                Unashamed Week 6 Devotional · Dead Religion Can’t Save
               </p>
             </div>
 
