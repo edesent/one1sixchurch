@@ -202,7 +202,7 @@ export default function UnashamedDevotionalsPage() {
                   Let&apos;s Pray
                 </h3>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Father, in the name of Jesus, thank You for sending the Holy Spirit. Forgive me for trying to live
+                  Father, in the name of Jesus, thank You for searching my heart. Forgive me for trying to live
                   bold in my own strength. Purify my heart, burn away compromise, and fill me with holy fire. Make me a
                   faithful witness of Jesus Christ. Let my life carry truth, surrender, obedience, and boldness. I refuse
                   cold religion and empty smoke. Fill me again with the fire of Your Spirit. In Jesus&apos; name, amen.
