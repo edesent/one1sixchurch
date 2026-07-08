@@ -61,6 +61,12 @@ export function SiteFooter() {
             </a>
           </div>
           <div>
+            <h3>Phone</h3>
+            <a href="tel:+17743861924">
+              <Phone size={18} /> 774.386.1924
+            </a>
+          </div>
+          <div>
             <h3>Webpage</h3>
             <a href="https://one1sixchurch.org">
               <Globe size={18} /> one1sixchurch.org
