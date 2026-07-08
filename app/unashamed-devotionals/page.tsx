@@ -168,7 +168,7 @@ export default function UnashamedDevotionalsPage() {
               >
                 <p className="eyebrow" style={{ marginBottom: "10px" }}>Devotional Summary</p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Close To Church, Far From Christ confronts the danger of having spiritual appearance without surrendered power.
+                  Close To Church, Far From Christ calls us to examine whether we are only close to church activity or truly walking with Jesus. It points us back to surrender, abiding, obedience, and real relationship with Christ.
                   God is calling us away from empty routine and back into holy fire, repentance, obedience, and real life
                   in Jesus.
                 </p>
