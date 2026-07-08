@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/1lyTeFxr_EARA9YQKufDsN4-w4dhwK5G/45060-hfLl0fx33cjQ90mMBSxStkBIeOu4Zd.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/gTcy2bw4YaZ2m43VgvG6qj377rrGcv1I/45143-MOJi1hdlMFQtnPetzQZuIoFdP94yD3.mp4";
 
 const devotionalThought = [
   "You can have the form and still miss the fire.",
