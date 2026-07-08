@@ -100,7 +100,7 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 2 — Form Without Fire
+                Day 3 — Form Without Fire
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
                 Unashamed Week 6 Devotional · Dead Religion Can&apos;t Save
@@ -286,7 +286,7 @@ export default function UnashamedDevotionalsPage() {
 
               <div style={{ marginTop: "34px", display: "grid", gap: "10px" }}>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Thank you for joining us for Day 2 of the Unashamed Week 6 Devotional.
+                  Thank you for joining us for Day 3 of the Unashamed Week 6 Devotional.
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
                   Our prayer is that God&apos;s Word challenges your heart, strengthens your faith, and draws you closer to Jesus.
