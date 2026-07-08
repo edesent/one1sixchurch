@@ -100,7 +100,7 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 3 — Form Without Fire
+                Day 3 — Close To Church, Far From Christ
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
                 Unashamed Week 6 Devotional · Dead Religion Can&apos;t Save
@@ -168,7 +168,7 @@ export default function UnashamedDevotionalsPage() {
               >
                 <p className="eyebrow" style={{ marginBottom: "10px" }}>Devotional Summary</p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Form Without Fire confronts the danger of having spiritual appearance without surrendered power.
+                  Close To Church, Far From Christ confronts the danger of having spiritual appearance without surrendered power.
                   God is calling us away from empty routine and back into holy fire, repentance, obedience, and real life
                   in Jesus.
                 </p>
