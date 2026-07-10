@@ -6,22 +6,6 @@ import { SiteHeader } from "../_components/SiteHeader";
 const devotionalVideoUrl =
   "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/YJGo3VLIWIbtzKXIl9m1izoojLBMQEb_/45390-SM94A2Ki3NcJM1QdUNnzqYf2gTZLlU.mp4";
 
-const devotionalThought = [
-  `Dead religion can teach you how to look alive, but only Jesus can make you alive again.`,
-  `That is the hope of the Gospel. Not that we clean ourselves up. Not that we perform better. Not that we fix our image. The hope of the Gospel is that Jesus gives life to people who were dead in sin.`,
-  `Ephesians chapter 2 says we were dead in trespasses and sins. Not weak. Not confused. Not spiritually tired. Dead. But God, being rich in mercy, made us alive together with Christ.`,
-  `That phrase changes everything: But God. Dead religion says try harder. But God says grace is greater. Dead religion says pretend you are fine. But God says come alive in Christ. Dead religion covers the grave. Jesus calls people out of it.`,
-  `This is why Jesus spoke to Sardis and said, Wake up. Strengthen what remains. Remember what you received. Keep it, and repent. Even when there was death in the house, Jesus still called them to wake up. That is mercy. That is grace. That is a holy warning filled with hope.`,
-  `The goal of this devotional is not to leave you condemned. The goal is to bring you back to Jesus. Because conviction is not condemnation when it leads you to repentance. Correction is not rejection when it comes from the Savior who loves you.`,
-  `Maybe this week exposed some dead places. Maybe it exposed empty routine, religious language, public image, private distance, or obedience that has grown cold. Do not run from that. Bring it to Jesus.`,
-  `Jesus does not expose death to embarrass you. He exposes it because He is resurrection and life. He does not call you out to shame you. He calls you out to revive you.`,
-  `You do not need to act alive. You need to be made alive. You do not need more religious pressure. You need resurrection power. You do not need to protect the image. You need to surrender the heart.`,
-  `Grace does not excuse dead religion. Grace raises dead people. Grace teaches us to repent. Grace gives us a new heart, a new life, and a new walk.`,
-  `So today, come alive again. Come back to prayer. Come back to surrender. Come back to the Word. Come back to obedience. Come back to the altar. Come back to Jesus.`,
-  `The same Christ who confronts dead religion is the Christ who gives resurrection life. He died for sinners. He rose from the grave. He saves by grace through faith. And He still awakens hearts today.`,
-  `Live unashamed, not as someone pretending to be alive, but as someone raised by Jesus, filled with grace, and surrendered to the truth.`,
-];
-
 const reflectionQuestions = [
   "What dead area in my heart has Jesus been exposing this week?",
   "Am I willing to repent instead of protecting my spiritual image?",
