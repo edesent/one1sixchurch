@@ -154,32 +154,6 @@ export default function UnashamedDevotionalsPage() {
                 </p>
               </div>
 
-              <h3
-                style={{
-                  margin: "0 0 16px",
-                  fontFamily: "var(--font-outfit), Arial, sans-serif",
-                  fontSize: "clamp(1.6rem, 3vw, 2.3rem)",
-                  textTransform: "uppercase",
-                }}
-              >
-                Devotional Thought
-              </h3>
-              <div style={{ display: "grid", gap: "10px" }}>
-                {devotionalThought.map((line) => (
-                  <p
-                    key={line}
-                    style={{
-                      margin: 0,
-                      color: "rgba(255,255,255,0.78)",
-                      fontSize: "1.05rem",
-                      lineHeight: 1.85,
-                    }}
-                  >
-                    {line}
-                  </p>
-                ))}
-              </div>
-
               <div style={{ marginTop: "34px" }}>
                 <h3
                   style={{
