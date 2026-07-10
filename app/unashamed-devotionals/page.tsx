@@ -4,60 +4,56 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/gTcy2bw4YaZ2m43VgvG6qj377rrGcv1I/45143-MOJi1hdlMFQtnPetzQZuIoFdP94yD3.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/YJGo3VLIWIbtzKXIl9m1izoojLBMQEb_/45390-SM94A2Ki3NcJM1QdUNnzqYf2gTZLlU.mp4";
 
 const devotionalThought = [
-  "You can have the form and still miss the fire.",
-  "You can have the language and still lack the life.",
-  "You can have the routine and still be far from God.",
-  "Second Timothy chapter 3 warns us about people who have a form of godliness but deny its power. That means they look spiritual. They sound spiritual. They know how to move around spiritual things. But the power of God is not ruling the heart.",
-  "The power to repent. The power to surrender. The power to obey. The power to be transformed.",
-  "That is dangerous. Because dead religion does not always look dead at first.",
-  "Sometimes it sings. Sometimes it serves. Sometimes it posts Scriptures. Sometimes it says amen. But when Jesus calls for surrender, it resists. When Jesus confronts sin, it excuses. When Jesus demands obedience, it negotiates.",
-  "That is form without fire.",
-  "Isaiah chapter 29 says the people honored God with their lips, but their hearts were far from Him.",
-  "And that is the heart-check today. Are my lips close, but my heart far? Do I know how to worship in public, but ignore conviction in private? Do I want God’s blessings, but not God’s correction?",
-  "Because the fire of God is not decoration. The fire of God purifies. The fire of God exposes. The fire of God consumes what does not belong. And real Christianity is not just having a church rhythm. It is having a surrendered heart.",
-  "But here is the mercy of Jesus. He does not confront empty religion because He hates us. He confronts it because He loves us.",
-  "He calls us out of performance and back into presence. He calls us out of routine and back into repentance. He calls us out of pretending and back into truth.",
-  "Jesus did not die so we could act alive. Jesus died and rose again so we could be made alive. Not almost alive. Not religiously alive. Truly alive.",
-  "Alive by grace. Alive through repentance. Alive in obedience. Alive in the Spirit.",
-  "So today, do not settle for form. Ask God for fire. Not emotional hype. Not fake passion. Holy fire.",
-  "The kind that burns away pride. The kind that brings back prayer. The kind that restores hunger. The kind that makes the heart say, Jesus, I do not want religion without You.",
+  `Dead religion can teach you how to look alive, but only Jesus can make you alive again.`,
+  `That is the hope of the Gospel. Not that we clean ourselves up. Not that we perform better. Not that we fix our image. The hope of the Gospel is that Jesus gives life to people who were dead in sin.`,
+  `Ephesians chapter 2 says we were dead in trespasses and sins. Not weak. Not confused. Not spiritually tired. Dead. But God, being rich in mercy, made us alive together with Christ.`,
+  `That phrase changes everything: But God. Dead religion says try harder. But God says grace is greater. Dead religion says pretend you are fine. But God says come alive in Christ. Dead religion covers the grave. Jesus calls people out of it.`,
+  `This is why Jesus spoke to Sardis and said, Wake up. Strengthen what remains. Remember what you received. Keep it, and repent. Even when there was death in the house, Jesus still called them to wake up. That is mercy. That is grace. That is a holy warning filled with hope.`,
+  `The goal of this devotional is not to leave you condemned. The goal is to bring you back to Jesus. Because conviction is not condemnation when it leads you to repentance. Correction is not rejection when it comes from the Savior who loves you.`,
+  `Maybe this week exposed some dead places. Maybe it exposed empty routine, religious language, public image, private distance, or obedience that has grown cold. Do not run from that. Bring it to Jesus.`,
+  `Jesus does not expose death to embarrass you. He exposes it because He is resurrection and life. He does not call you out to shame you. He calls you out to revive you.`,
+  `You do not need to act alive. You need to be made alive. You do not need more religious pressure. You need resurrection power. You do not need to protect the image. You need to surrender the heart.`,
+  `Grace does not excuse dead religion. Grace raises dead people. Grace teaches us to repent. Grace gives us a new heart, a new life, and a new walk.`,
+  `So today, come alive again. Come back to prayer. Come back to surrender. Come back to the Word. Come back to obedience. Come back to the altar. Come back to Jesus.`,
+  `The same Christ who confronts dead religion is the Christ who gives resurrection life. He died for sinners. He rose from the grave. He saves by grace through faith. And He still awakens hearts today.`,
+  `Live unashamed, not as someone pretending to be alive, but as someone raised by Jesus, filled with grace, and surrendered to the truth.`,
 ];
 
 const reflectionQuestions = [
-  "Where have I kept the form of godliness while resisting the power of God to change me?",
-  "Are there areas where my lips honor God, but my heart is distant from Him?",
-  "What needs to be burned away so the fire of God can burn rightly in me?",
+  "What dead area in my heart has Jesus been exposing this week?",
+  "Am I willing to repent instead of protecting my spiritual image?",
+  "What would it look like for me to come alive again in prayer, obedience, and surrender?",
 ];
 
 const prayerLines = [
-  "Father, in the name of Jesus, I do not want empty religion.",
-  "I do not want form without fire.",
-  "I do not want lips that sound close while my heart lives far.",
-  "Search me. Convict me. Correct me. Bring me back to You.",
-  "Burn away pride. Burn away performance. Burn away secret compromise. Burn away anything that looks spiritual but keeps me from surrender.",
-  "Thank You for loving me enough to confront me. Thank You for calling me deeper. Thank You for not leaving me empty.",
-  "Fill me with Your Spirit. Restore holy hunger. Teach me to obey. Make my faith real in public and in private.",
+  "Father, in the name of Jesus, thank You for mercy that wakes me up.",
+  "Thank You for grace that does not leave me dead.",
+  "I confess every place where I have had religion without life, image without surrender, and routine without obedience.",
+  "Forgive me. Cleanse me. Revive me.",
+  "I do not want to pretend to be alive. I want to be alive in Christ.",
+  "Bring me back to prayer. Bring me back to repentance. Bring me back to Your Word. Bring me back to full surrender.",
+  "Let resurrection life mark my heart, my home, my worship, and my witness.",
   "In Jesus’ name. Amen.",
 ];
 
 const beforeYouGo = [
-  "Dead religion wants the appearance without the altar.",
-  "But real faith lays everything down before Jesus.",
-  "Do not protect what God is trying to purify.",
-  "Let Him light the fire again.",
+  "Dead religion cannot save you.",
+  "But Jesus can raise what religion could never revive.",
+  "Do not stay in the grave of spiritual performance.",
+  "Come alive again in Christ.",
 ];
 
 const rememberLines = [
-  "Form cannot save you.",
-  "Image cannot change you.",
-  "Routine cannot resurrect you.",
-  "Only Jesus can.",
-  "Come back to the altar.",
-  "Come back to surrender.",
-  "Come back to obedience.",
+  "You were dead.",
+  "But God is rich in mercy.",
+  "You are saved by grace.",
+  "You are raised in Christ.",
+  "So repent.",
+  "Surrender.",
+  "Obey.",
   "And live unashamed.",
 ];
 
@@ -100,7 +96,7 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 3 — Close To Church, Far From Christ
+                Day 5 — Come Alive Again
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
                 Unashamed Week 6 Devotional · Dead Religion Can&apos;t Save
@@ -147,14 +143,14 @@ export default function UnashamedDevotionalsPage() {
                 <div>
                   <p className="eyebrow" style={{ marginBottom: "10px" }}>Scripture Focus</p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    2 Timothy 3:5 · Isaiah 29:13
+                    Ephesians 2:1-10 · Revelation 3:1-6
                   </p>
                 </div>
                 <div>
                   <p className="eyebrow" style={{ marginBottom: "10px" }}>Today&apos;s Challenge</p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Before the day ends, spend ten quiet minutes with God. No music. No distractions. No performance.
-                    Ask Him this: Father, where have I had form without fire? Then respond with one act of obedience today.
+                    Spend ten honest minutes with Jesus today. Confess one dead place, surrender one hidden area, and
+                    take one obedient step that shows you are coming alive again in Christ.
                   </p>
                 </div>
               </div>
@@ -168,9 +164,9 @@ export default function UnashamedDevotionalsPage() {
               >
                 <p className="eyebrow" style={{ marginBottom: "10px" }}>Devotional Summary</p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Close To Church, Far From Christ calls us to examine whether we are only close to church activity or truly walking with Jesus. It points us back to surrender, abiding, obedience, and real relationship with Christ.
-                  God is calling us away from empty routine and back into holy fire, repentance, obedience, and real life
-                  in Jesus.
+                  Come Alive Again closes Week 6 by pointing us away from dead religion and back to resurrection life
+                  in Jesus Christ. The Gospel does not teach us to act alive. The Gospel raises dead hearts by grace
+                  through faith and calls us to repentance, surrender, obedience, and bold devotion to Christ.
                 </p>
               </div>
 
@@ -286,7 +282,7 @@ export default function UnashamedDevotionalsPage() {
 
               <div style={{ marginTop: "34px", display: "grid", gap: "10px" }}>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Thank you for joining us for Day 3 of the Unashamed Week 6 Devotional.
+                  Thank you for joining us for Day 5 of the Unashamed Week 6 Devotional.
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
                   Our prayer is that God&apos;s Word challenges your heart, strengthens your faith, and draws you closer to Jesus.
