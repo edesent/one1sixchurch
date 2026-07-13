@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/YJGo3VLIWIbtzKXIl9m1izoojLBMQEb_/45390-SM94A2Ki3NcJM1QdUNnzqYf2gTZLlU.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/yyBdn1v35r6G2TWjVxdMupvjze8H8qXs/45888-kgwke1EKnbgLXYaGRO7pvRb6mBIJFk.mp4";
 
 const reflectionQuestions = [
   "What dead area in my heart has Jesus been exposing this week?",
