@@ -6,41 +6,6 @@ import { SiteHeader } from "../_components/SiteHeader";
 const devotionalVideoUrl =
   "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/yyBdn1v35r6G2TWjVxdMupvjze8H8qXs/45888-kgwke1EKnbgLXYaGRO7pvRb6mBIJFk.mp4";
 
-const reflectionQuestions = [
-  "What dead area in my heart has Jesus been exposing this week?",
-  "Am I willing to repent instead of protecting my spiritual image?",
-  "What would it look like for me to come alive again in prayer, obedience, and surrender?",
-];
-
-const prayerLines = [
-  "Father, in the name of Jesus, thank You for mercy that wakes me up.",
-  "Thank You for grace that does not leave me dead.",
-  "I confess every place where I have had religion without life, image without surrender, and routine without obedience.",
-  "Forgive me. Cleanse me. Revive me.",
-  "I do not want to pretend to be alive. I want to be alive in Christ.",
-  "Bring me back to prayer. Bring me back to repentance. Bring me back to Your Word. Bring me back to full surrender.",
-  "Let resurrection life mark my heart, my home, my worship, and my witness.",
-  "In Jesus’ name. Amen.",
-];
-
-const beforeYouGo = [
-  "Dead religion cannot save you.",
-  "But Jesus can raise what religion could never revive.",
-  "Do not stay in the grave of spiritual performance.",
-  "Come alive again in Christ.",
-];
-
-const rememberLines = [
-  "You were dead.",
-  "But God is rich in mercy.",
-  "You are saved by grace.",
-  "You are raised in Christ.",
-  "So repent.",
-  "Surrender.",
-  "Obey.",
-  "And live unashamed.",
-];
-
 export default function UnashamedDevotionalsPage() {
   return (
     <>
@@ -80,10 +45,10 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 5 — Come Alive Again
+                Day 1 — Not Decorated. Crucified.
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
-                Unashamed Week 6 Devotional · Dead Religion Can&apos;t Save
+                Unashamed Week 7 Devotional · The Cross Before Comfort
               </p>
             </div>
 
@@ -127,138 +92,26 @@ export default function UnashamedDevotionalsPage() {
                 <div>
                   <p className="eyebrow" style={{ marginBottom: "10px" }}>Scripture Focus</p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Ephesians 2:1-10 · Revelation 3:1-6
+                    Luke 9:23 · 2 Corinthians 5:17
                   </p>
                 </div>
                 <div>
                   <p className="eyebrow" style={{ marginBottom: "10px" }}>Today&apos;s Challenge</p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Spend ten honest minutes with Jesus today. Confess one dead place, surrender one hidden area, and
-                    take one obedient step that shows you are coming alive again in Christ.
+                    Identify one area where you have been trying to decorate the old life instead of surrendering it to Jesus. Bring it to the cross today and obey Him without negotiating.
                   </p>
                 </div>
               </div>
 
               <div
                 style={{
-                  marginBottom: "34px",
                   borderLeft: "4px solid #e50914",
                   paddingLeft: "22px",
                 }}
               >
                 <p className="eyebrow" style={{ marginBottom: "10px" }}>Devotional Summary</p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Come Alive Again closes Week 6 by pointing us away from dead religion and back to resurrection life
-                  in Jesus Christ. The Gospel does not teach us to act alive. The Gospel raises dead hearts by grace
-                  through faith and calls us to repentance, surrender, obedience, and bold devotion to Christ.
-                </p>
-              </div>
-
-              <div style={{ marginTop: "34px" }}>
-                <h3
-                  style={{
-                    margin: "0 0 16px",
-                    fontFamily: "var(--font-outfit), Arial, sans-serif",
-                    fontSize: "clamp(1.35rem, 2.4vw, 1.9rem)",
-                    textTransform: "uppercase",
-                  }}
-                >
-                  Reflection Questions
-                </h3>
-                <ol style={{ margin: 0, paddingLeft: "22px", color: "rgba(255,255,255,0.78)", lineHeight: 1.85 }}>
-                  {reflectionQuestions.map((question) => (
-                    <li key={question}>{question}</li>
-                  ))}
-                </ol>
-              </div>
-
-              <div
-                style={{
-                  marginTop: "34px",
-                  borderLeft: "4px solid #e50914",
-                  paddingLeft: "22px",
-                }}
-              >
-                <h3
-                  style={{
-                    margin: "0 0 12px",
-                    fontFamily: "var(--font-outfit), Arial, sans-serif",
-                    fontSize: "clamp(1.35rem, 2.4vw, 1.9rem)",
-                    textTransform: "uppercase",
-                  }}
-                >
-                  Let&apos;s Pray
-                </h3>
-                <div style={{ display: "grid", gap: "10px" }}>
-                  {prayerLines.map((line) => (
-                    <p key={line} style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                      {line}
-                    </p>
-                  ))}
-                </div>
-              </div>
-
-              <div style={{ marginTop: "34px" }}>
-                <h3
-                  style={{
-                    margin: "0 0 16px",
-                    fontFamily: "var(--font-outfit), Arial, sans-serif",
-                    fontSize: "clamp(1.35rem, 2.4vw, 1.9rem)",
-                    textTransform: "uppercase",
-                  }}
-                >
-                  Before You Go
-                </h3>
-                <div style={{ display: "grid", gap: "10px" }}>
-                  {beforeYouGo.map((line) => (
-                    <p key={line} style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                      {line}
-                    </p>
-                  ))}
-                </div>
-              </div>
-
-              <div style={{ marginTop: "34px" }}>
-                <h3
-                  style={{
-                    margin: "0 0 16px",
-                    fontFamily: "var(--font-outfit), Arial, sans-serif",
-                    fontSize: "clamp(1.35rem, 2.4vw, 1.9rem)",
-                    textTransform: "uppercase",
-                  }}
-                >
-                  Remember
-                </h3>
-                <div style={{ display: "grid", gap: "10px" }}>
-                  {rememberLines.map((line) => (
-                    <p key={line} style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                      {line}
-                    </p>
-                  ))}
-                </div>
-              </div>
-
-              <div style={{ marginTop: "34px", display: "grid", gap: "10px" }}>
-                <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Thank you for joining us for Day 5 of the Unashamed Week 6 Devotional.
-                </p>
-                <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Our prayer is that God&apos;s Word challenges your heart, strengthens your faith, and draws you closer to Jesus.
-                </p>
-                <p
-                  style={{
-                    margin: 0,
-                    color: "rgba(255,255,255,0.88)",
-                    fontWeight: 700,
-                    letterSpacing: "0.03em",
-                    textTransform: "uppercase",
-                    lineHeight: 1.85,
-                  }}
-                >
-                  This is One1Six Church Unashamed. One Church For The One. A Family For The Six.
-                </p>
-                <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Until next time. Keep your eyes on Jesus. Stand on truth, and live unashamed. God bless you.
+                  Not Decorated. Crucified. opens Week 7 by calling us away from comfortable Christianity and into real surrender. Jesus did not come to decorate our old life. He came to make us new. Luke 9:23 reminds us that following Jesus means denying ourselves, taking up our cross daily, and following Him. The Gospel does not improve the old self. It crucifies the old life and raises us into new life in Christ.
                 </p>
               </div>
             </article>
