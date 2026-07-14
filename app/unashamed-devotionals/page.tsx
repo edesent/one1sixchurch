@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/yyBdn1v35r6G2TWjVxdMupvjze8H8qXs/45888-kgwke1EKnbgLXYaGRO7pvRb6mBIJFk.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/RoekLdv7XVfzfmORGiJoFcZIxBN9ZQrV/45985-Y824o3OrzauIZ919zeqszrc6CyJ0hC.mp4";
 
 export default function UnashamedDevotionalsPage() {
   return (
@@ -45,7 +45,7 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 1 — Not Decorated. Crucified.
+                Day 2 — Get Off The Throne
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
                 Unashamed Week 7 Devotional · The Cross Before Comfort
@@ -92,13 +92,13 @@ export default function UnashamedDevotionalsPage() {
                 <div>
                   <p className="eyebrow" style={{ marginBottom: "10px" }}>Scripture Focus</p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Luke 9:23 · 2 Corinthians 5:17
+                    Luke 9:23 · Luke 6:46 · 2 Corinthians 10:5
                   </p>
                 </div>
                 <div>
                   <p className="eyebrow" style={{ marginBottom: "10px" }}>Today&apos;s Challenge</p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Identify one area where you have been trying to decorate the old life instead of surrendering it to Jesus. Bring it to the cross today and obey Him without negotiating.
+                    Identify one area where you are still insisting on being in charge. Surrender it to Jesus and take one concrete step of obedience today without negotiating.
                   </p>
                 </div>
               </div>
@@ -111,7 +111,7 @@ export default function UnashamedDevotionalsPage() {
               >
                 <p className="eyebrow" style={{ marginBottom: "10px" }}>Devotional Summary</p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Not Decorated. Crucified. opens Week 7 by calling us away from comfortable Christianity and into real surrender. Jesus did not come to decorate our old life. He came to make us new. Luke 9:23 reminds us that following Jesus means denying ourselves, taking up our cross daily, and following Him. The Gospel does not improve the old self. It crucifies the old life and raises us into new life in Christ.
+                  Get Off The Throne confronts the desire to follow Jesus while still remaining in control. Jesus does not ask for a place beside us. He demands the throne. Luke 9:23 calls us to deny ourselves, Luke 6:46 exposes the contradiction of calling Him Lord without obeying Him, and 2 Corinthians 10:5 commands us to bring every thought under the authority of Christ. You cannot follow Jesus while still insisting on being in charge. Real discipleship begins when self-rule ends and every area of life is surrendered to the Lordship of Jesus.
                 </p>
               </div>
             </article>
