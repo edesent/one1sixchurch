@@ -45,7 +45,7 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 2 — Get Off The Throne
+                Day 3 — Carry It Daily
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
                 Unashamed Week 7 Devotional · The Cross Before Comfort
@@ -92,13 +92,13 @@ export default function UnashamedDevotionalsPage() {
                 <div>
                   <p className="eyebrow" style={{ marginBottom: "10px" }}>Scripture Focus</p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Luke 9:23 · Luke 6:46 · 2 Corinthians 10:5
+                    Luke 9:23 · Galatians 2:20 · Romans 8:13
                   </p>
                 </div>
                 <div>
                   <p className="eyebrow" style={{ marginBottom: "10px" }}>Today&apos;s Challenge</p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Identify one area where you are still insisting on being in charge. Surrender it to Jesus and take one concrete step of obedience today without negotiating.
+                    Identify one repeated temptation or habit that keeps pulling you away from obedience. Remove one source of access today, then replace it with prayer, Scripture, or one direct act of obedience.
                   </p>
                 </div>
               </div>
@@ -111,7 +111,7 @@ export default function UnashamedDevotionalsPage() {
               >
                 <p className="eyebrow" style={{ marginBottom: "10px" }}>Devotional Summary</p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Get Off The Throne confronts the desire to follow Jesus while still remaining in control. Jesus does not ask for a place beside us. He demands the throne. Luke 9:23 calls us to deny ourselves, Luke 6:46 exposes the contradiction of calling Him Lord without obeying Him, and 2 Corinthians 10:5 commands us to bring every thought under the authority of Christ. You cannot follow Jesus while still insisting on being in charge. Real discipleship begins when self-rule ends and every area of life is surrendered to the Lordship of Jesus.
+                  Carry It Daily reminds us that the cross is not a one-time emotional moment. It is a daily decision to deny ourselves and follow Jesus. Luke 9:23 calls us to take up our cross every day, Galatians 2:20 teaches that our old life has been crucified with Christ, and Romans 8:13 calls us to put sinful desires to death by the power of the Holy Spirit. Real discipleship is not occasional surrender. It is choosing the way of Jesus again and again, especially when comfort, temptation, or self-preservation tries to take control.
                 </p>
               </div>
             </article>
