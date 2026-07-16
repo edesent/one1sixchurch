@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/Dw73UaAAcsKEll-Y_Y8xD073nYsqY7gc/46171-GfauNu3fxE6NzGQd6Klqrd0HYRbffZ.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/1U2uMm_OjJazwnxEr_4ouAEOvNqWvefO/46273-0VheIeonYiWCDxp8788lgln4UhbL1X.mp4";
 
 export default function UnashamedDevotionalsPage() {
   return (
@@ -45,7 +45,7 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 3 — Carry It Daily
+                Day 4 — Grace Trains You To Say No
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
                 Unashamed Week 7 Devotional · The Cross Before Comfort
@@ -92,13 +92,14 @@ export default function UnashamedDevotionalsPage() {
                 <div>
                   <p className="eyebrow" style={{ marginBottom: "10px" }}>Scripture Focus</p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Luke 9:23 · Galatians 2:20 · Romans 8:13
+                    Titus 2:11-14 · Romans 8:13 · Luke 9:23
                   </p>
                 </div>
                 <div>
                   <p className="eyebrow" style={{ marginBottom: "10px" }}>Today&apos;s Challenge</p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Identify one repeated temptation or habit that keeps pulling you away from obedience. Remove one source of access today, then replace it with prayer, Scripture, or one direct act of obedience.
+                    Identify one area where you have been calling compromise grace. Surrender it to Jesus today and
+                    choose one clear act of obedience.
                   </p>
                 </div>
               </div>
@@ -111,7 +112,10 @@ export default function UnashamedDevotionalsPage() {
               >
                 <p className="eyebrow" style={{ marginBottom: "10px" }}>Devotional Summary</p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Carry It Daily reminds us that the cross is not a one-time emotional moment. It is a daily decision to deny ourselves and follow Jesus. Luke 9:23 calls us to take up our cross every day, Galatians 2:20 teaches that our old life has been crucified with Christ, and Romans 8:13 calls us to put sinful desires to death by the power of the Holy Spirit. Real discipleship is not occasional surrender. It is choosing the way of Jesus again and again, especially when comfort, temptation, or self-preservation tries to take control.
+                  Grace Trains You To Say No reminds us that the grace of God is not permission to live comfortable
+                  in sin. Grace saves us, but grace also trains us to deny ungodliness, reject worldly desires, and live
+                  surrendered lives that honor Jesus. The cross before comfort means choosing obedience when the flesh
+                  wants control and following Christ without compromise.
                 </p>
               </div>
             </article>
