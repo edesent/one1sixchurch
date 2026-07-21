@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/1xktdbrWZgtzU66JfQQMwX9uPQS-oq1Y/47443-9D76wI83IpwqCAsCf5HcE4UrjNBLGl.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/vSWbu1NB2e022fEgjRTU1etcPKdueU9B/47550-tjzvcLB6fM4OYm9oZhlz8C9ogMjwag.mp4";
 
 export default function UnashamedDevotionalsPage() {
   return (
@@ -15,11 +15,11 @@ export default function UnashamedDevotionalsPage() {
           <Image className="subpage-image" src="/authentic-faith.png" alt="" fill priority sizes="100vw" />
           <div className="subpage-overlay" />
           <div className="subpage-content">
-            <p className="eyebrow">Unashamed World Cup Devotional</p>
-            <h1>When the final whistle blows, only what is surrendered to Jesus will stand.</h1>
+            <p className="eyebrow">Unashamed Devotionals</p>
+            <h1>Daily truth for bold devotion to Christ.</h1>
             <p>
-              Scripture-centered devotional content calling hearts to repentance, surrender, obedience, and bold faith
-              in Christ.
+              Scripture-centered devotional content to strengthen faith, prayer, discipleship, and practical
+              obedience.
             </p>
             <p>Watch, listen, reflect, and live #LIVEUNASHAMED.</p>
           </div>
@@ -33,7 +33,7 @@ export default function UnashamedDevotionalsPage() {
           }}
         >
           <div style={{ width: "min(1120px, 100%)", margin: "0 auto" }}>
-            <div style={{ maxWidth: "820px", marginBottom: "42px" }}>
+            <div style={{ maxWidth: "800px", marginBottom: "42px" }}>
               <p className="eyebrow" style={{ marginBottom: "18px" }}>Featured Devotional</p>
               <h2
                 style={{
@@ -45,10 +45,10 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 1 — Stoppage Time: There Is Still Time
+                Day 2 — Whose Jersey Are You Wearing?
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
-                Unashamed World Cup Devotional · When The Final Whistle Blows
+                Unashamed World Cup Series Devotional · When The Final Whistle Blows
               </p>
             </div>
 
@@ -92,15 +92,14 @@ export default function UnashamedDevotionalsPage() {
                 <div>
                   <p className="eyebrow" style={{ marginBottom: "10px" }}>Scripture Focus</p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    2 Corinthians 6:2 · Hebrews 9:27
+                    2 Timothy 4:7 · Romans 10:9
                   </p>
                 </div>
                 <div>
                   <p className="eyebrow" style={{ marginBottom: "10px" }}>Today&apos;s Challenge</p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Identify one act of obedience you have been postponing. Do it today. Make the call. Confess the
-                    sin. Forgive the person. Return to prayer. Open the Bible. Take the step Jesus has already told you
-                    to take.
+                    Examine one area of your life that does not clearly represent Jesus. Surrender it today. Remove what
+                    needs to be removed, confess what needs to be confessed, and choose loyalty over comfort.
                   </p>
                 </div>
               </div>
@@ -113,10 +112,10 @@ export default function UnashamedDevotionalsPage() {
               >
                 <p className="eyebrow" style={{ marginBottom: "10px" }}>Devotional Summary</p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Stoppage Time: There Is Still Time reminds us that the final whistle has not blown yet. God has
-                  given us another day, but we are not called to waste it. Today is the day of salvation. This devotional
-                  calls us to stop delaying repentance, surrender, forgiveness, and obedience, and to respond to Jesus
-                  while grace is still calling.
+                  Whose Jersey Are You Wearing? challenges us to examine who we truly represent. A jersey can claim an
+                  identity, but a surrendered life proves loyalty. Paul remained faithful to Jesus even when obedience
+                  became costly, and Romans 10:9 reminds us that Jesus is not only Savior — He is Lord. This devotional
+                  calls us to reject divided loyalties, refuse compromise, and represent the King in public and in private.
                 </p>
               </div>
             </article>
