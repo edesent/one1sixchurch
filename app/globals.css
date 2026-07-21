@@ -168,26 +168,18 @@ textarea {
   margin: 0 auto;
 }
 
-.menu-wordmark {
-  display: grid;
-  width: fit-content;
-  color: var(--white);
-  font-family: var(--font-outfit), Arial, sans-serif;
-  font-size: clamp(1.05rem, 1.7vw, 1.45rem);
-  font-weight: 800;
-  line-height: 0.9;
-  letter-spacing: -0.03em;
+.menu-logo {
+  display: flex;
+  align-items: center;
+  width: clamp(180px, 24vw, 280px);
+  min-width: 0;
 }
 
-.menu-wordmark-accent {
-  color: var(--red);
-}
-
-.menu-wordmark small {
-  margin-top: 5px;
-  color: rgba(255, 255, 255, 0.62);
-  font-size: 0.52em;
-  letter-spacing: 0.34em;
+.menu-logo-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: contain;
 }
 
 .menu-close {
