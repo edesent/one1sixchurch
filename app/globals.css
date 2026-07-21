@@ -1345,6 +1345,42 @@ textarea {
     width: 172px;
   }
 
+  .menu-trigger {
+    min-height: 44px;
+    padding-left: 10px;
+  }
+
+  .menu-trigger span {
+    display: none;
+  }
+
+  .menu-overlay {
+    padding: 20px 18px 24px;
+  }
+
+  .menu-close {
+    width: 46px;
+    height: 46px;
+    flex-basis: 46px;
+  }
+
+  .menu-overlay-inner {
+    padding: 36px 0 30px;
+  }
+
+  .menu-links {
+    row-gap: 12px;
+  }
+
+  .menu-links a {
+    font-size: clamp(2.45rem, 13.5vw, 4.15rem);
+    line-height: 0.9;
+  }
+
+  .menu-mission-line {
+    line-height: 1.45;
+  }
+
   .hero-content {
     width: min(100% - 28px, 460px);
   }
