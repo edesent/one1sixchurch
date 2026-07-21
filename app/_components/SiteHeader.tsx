@@ -87,8 +87,11 @@ export function SiteHeader() {
       </div>
 
       <nav className="nav-shell" aria-label="Main navigation">
-        <Link className="brand" href="/" aria-label="ONE1SIX Church home">
-          <Image src="/one1six-logo.png" alt="ONE1SIX Church" width={315} height={133} priority />
+        <Link className="brand-wordmark" href="/" aria-label="ONE1SIX Church home">
+          <span>
+            ONE<span className="brand-wordmark-accent">1</span>SIX
+          </span>
+          <small>CHURCH</small>
         </Link>
 
         <button
