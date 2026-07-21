@@ -118,11 +118,14 @@ export function SiteHeader() {
         aria-hidden={!menuOpen}
       >
         <div className="menu-overlay-top">
-          <Link className="menu-wordmark" href="/" onClick={() => setMenuOpen(false)}>
-            <span>
-              ONE<span className="menu-wordmark-accent">1</span>SIX
-            </span>
-            <small>CHURCH</small>
+          <Link className="menu-logo" href="/" onClick={() => setMenuOpen(false)}>
+            <Image
+              className="menu-logo-image"
+              src="/one1six-official-logo.webp"
+              alt="ONE1SIX Church"
+              width={420}
+              height={195}
+            />
           </Link>
 
           <button
