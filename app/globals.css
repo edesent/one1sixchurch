@@ -1260,12 +1260,31 @@ textarea {
     min-height: 88px;
   }
 
-  .desktop-nav {
-    display: none;
+  .menu-overlay {
+    padding: 24px 24px 30px;
   }
 
-  .mobile-nav {
-    display: block;
+  .menu-overlay-inner {
+    grid-template-columns: 1fr;
+    align-items: start;
+    gap: 38px;
+    margin: 0 auto;
+    padding: 48px 0;
+  }
+
+  .menu-links {
+    grid-template-columns: 1fr;
+    row-gap: 10px;
+  }
+
+  .menu-links a,
+  .menu-links a:nth-child(-n + 4) {
+    grid-column: 1;
+  }
+
+  .menu-socials {
+    justify-content: flex-start;
+    padding-bottom: 0;
   }
 
   .hero {
