@@ -2754,8 +2754,12 @@ body {
     min-height: 72px;
   }
 
-  .brand-wordmark {
-    font-size: 1.4rem;
+  .brand-logo {
+    width: 190px;
+  }
+
+  .menu-logo {
+    width: 184px;
   }
 
   .editorial-section-label,
