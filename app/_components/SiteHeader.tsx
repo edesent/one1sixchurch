@@ -91,7 +91,7 @@ export function SiteHeader() {
         <Link className="brand-logo" href="/" aria-label="ONE1SIX Church home">
           <Image
             className="brand-logo-image"
-            src="/one1six-official-logo.webp"
+            src="/one1six-logo.png"
             alt="ONE1SIX Church"
             width={420}
             height={195}
@@ -121,7 +121,7 @@ export function SiteHeader() {
           <Link className="menu-logo" href="/" onClick={() => setMenuOpen(false)}>
             <Image
               className="menu-logo-image"
-              src="/one1six-official-logo.webp"
+              src="/one1six-logo.png"
               alt="ONE1SIX Church"
               width={420}
               height={195}
