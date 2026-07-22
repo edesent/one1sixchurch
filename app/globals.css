@@ -205,37 +205,39 @@ textarea {
 
 .menu-overlay-inner {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
-  align-items: end;
-  gap: clamp(42px, 8vw, 130px);
+  grid-template-columns: 1fr;
+  align-items: start;
+  gap: 28px;
   width: min(1240px, 100%);
   margin: auto;
-  padding: clamp(38px, 7vh, 86px) 0;
+  padding: clamp(24px, 4vh, 48px) 0;
 }
 
 .menu-links {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(0, 0.9fr);
-  column-gap: clamp(30px, 6vw, 96px);
-  row-gap: clamp(2px, 1vh, 12px);
-  width: min(940px, 100%);
+  grid-template-columns: 1fr;
+  row-gap: clamp(6px, 0.8vh, 12px);
+  width: min(820px, 100%);
 }
 
 .menu-links a {
-  display: inline-flex;
+  display: block;
   width: fit-content;
+  max-width: 100%;
   color: #f4f2e9;
   font-family: var(--font-outfit), Arial, sans-serif;
-  font-size: clamp(3.1rem, 6.2vw, 6.65rem);
+  font-size: clamp(2.8rem, 4.8vw, 5.4rem);
   font-weight: 800;
-  line-height: 0.86;
-  letter-spacing: -0.055em;
+  line-height: 0.92;
+  letter-spacing: -0.05em;
   text-transform: uppercase;
+  white-space: normal;
+  overflow-wrap: anywhere;
   transition: color 0.18s ease, transform 0.18s ease;
 }
 
 .menu-links a:nth-child(-n + 4) {
-  grid-column: 1 / -1;
+  grid-column: 1;
 }
 
 .menu-links a:hover,
@@ -247,9 +249,9 @@ textarea {
 .menu-socials {
   display: flex;
   align-items: center;
-  justify-content: flex-end;
-  gap: 18px;
-  padding-bottom: 8px;
+  justify-content: flex-start;
+  gap: 20px;
+  padding-bottom: 0;
 }
 
 .menu-socials a {
