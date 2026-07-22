@@ -168,7 +168,7 @@ export default function Home() {
           <div className="editorial-foundation-grid">
             <article className="editorial-foundation-feature">
               <div className="editorial-foundation-image">
-                <Image src="/christ-is-the-center.avif" alt="Christ Is The Center — Colossians 1:17" fill sizes="(max-width: 900px) 100vw, 48vw" />
+                <Image src="/chatgpt-image-jul-22-2026-01-57-41-pm.png" alt="Christ Is The Center — Colossians 1:17" fill sizes="(max-width: 900px) 100vw, 48vw" />
               </div>
               <div>
                 <h3>Christ Is The Center.</h3>
