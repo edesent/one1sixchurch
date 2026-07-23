@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/cASJz9BfmMeMMDYRcY24QX31Lx71yj3p/47738-AFaU4SVDU2QH4z54gCOMEyFH7UKS5T.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/bAOsZGq-rJVXrMwD2Frizl2GEqxtqoI5/47835-rmJcQ7edXl75boRmArVY43AEpmGcXU.mp4";
 
 export default function UnashamedDevotionalsPage() {
   return (
@@ -33,7 +33,7 @@ export default function UnashamedDevotionalsPage() {
           }}
         >
           <div style={{ width: "min(1120px, 100%)", margin: "0 auto" }}>
-            <div style={{ maxWidth: "760px", marginBottom: "42px" }}>
+            <div style={{ maxWidth: "820px", marginBottom: "42px" }}>
               <p className="eyebrow" style={{ marginBottom: "18px" }}>Featured Devotional</p>
               <h2
                 style={{
@@ -45,7 +45,7 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 3 — Don&apos;t Walk Off the Field
+                Day 4 — Run for the Crown That Never Fades
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
                 Unashamed World Cup Series Devotional · When The Final Whistle Blows
@@ -92,14 +92,15 @@ export default function UnashamedDevotionalsPage() {
                 <div>
                   <p className="eyebrow" style={{ marginBottom: "10px" }}>Scripture Focus</p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Hebrews 12:1-2 · Revelation 3:11
+                    1 Corinthians 9:24-27 · 2 Timothy 4:8
                   </p>
                 </div>
                 <div>
                   <p className="eyebrow" style={{ marginBottom: "10px" }}>Today&apos;s Challenge</p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Identify one area where you have been tempted to quit. Bring it to Jesus in prayer, fix your eyes
-                    on Him, and take one faithful step of obedience today.
+                    Choose one spiritual discipline you have neglected. Practice it today with intention. Pray and read
+                    Scripture without distraction, fast from something controlling your attention, and train your heart
+                    to seek Jesus.
                   </p>
                 </div>
               </div>
@@ -112,11 +113,11 @@ export default function UnashamedDevotionalsPage() {
               >
                 <p className="eyebrow" style={{ marginBottom: "10px" }}>Devotional Summary</p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Don&apos;t Walk Off the Field reminds us that following Jesus requires endurance. The Christian life
-                  may become difficult, painful, and tiring, but the final whistle has not blown yet. Hebrews calls us
-                  to run with endurance while keeping our eyes on Jesus, and Revelation reminds us to hold tightly to
-                  what we have so no one takes our crown. This devotional calls us to keep running, keep obeying, and
-                  keep trusting Christ when quitting feels easier than continuing.
+                  Run for the Crown That Never Fades reminds us that earthly trophies fade, records are broken, and
+                  applause moves on, but what Christ gives will never fade. The crowd sees the match, but God sees the
+                  private training. We are not saved by discipline. We are saved by grace through Jesus Christ. But grace
+                  does not make us careless. Grace trains us to pray, stand on Scripture, surrender our appetites, lay
+                  aside sin, and run with purpose toward Jesus, our greatest reward.
                 </p>
               </div>
             </article>
