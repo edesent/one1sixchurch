@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/bAOsZGq-rJVXrMwD2Frizl2GEqxtqoI5/47835-rmJcQ7edXl75boRmArVY43AEpmGcXU.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/irswAx_qZuTIKFujpyudfVlAZR8TOHTj/48000-96h1lPIPskhTSRF8TunLHPv6cEfVZy.mp4";
 
 export default function UnashamedDevotionalsPage() {
   return (
@@ -33,8 +33,10 @@ export default function UnashamedDevotionalsPage() {
           }}
         >
           <div style={{ width: "min(1120px, 100%)", margin: "0 auto" }}>
-            <div style={{ maxWidth: "820px", marginBottom: "42px" }}>
-              <p className="eyebrow" style={{ marginBottom: "18px" }}>Featured Devotional</p>
+            <div style={{ maxWidth: "760px", marginBottom: "42px" }}>
+              <p className="eyebrow" style={{ marginBottom: "18px" }}>
+                Featured Devotional
+              </p>
               <h2
                 style={{
                   margin: 0,
@@ -45,7 +47,7 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 4 — Run for the Crown That Never Fades
+                Day 5 — When the Final Whistle Finds You
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
                 Unashamed World Cup Series Devotional · When The Final Whistle Blows
@@ -90,34 +92,41 @@ export default function UnashamedDevotionalsPage() {
                 }}
               >
                 <div>
-                  <p className="eyebrow" style={{ marginBottom: "10px" }}>Scripture Focus</p>
+                  <p className="eyebrow" style={{ marginBottom: "10px" }}>
+                    Scripture Focus
+                  </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    1 Corinthians 9:24-27 · 2 Timothy 4:8
+                    2 Timothy 4:7-8 · Matthew 24:13 · Hebrews 9:27
                   </p>
                 </div>
                 <div>
-                  <p className="eyebrow" style={{ marginBottom: "10px" }}>Today&apos;s Challenge</p>
+                  <p className="eyebrow" style={{ marginBottom: "10px" }}>
+                    Today&apos;s Challenge
+                  </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Choose one spiritual discipline you have neglected. Practice it today with intention. Pray and read
-                    Scripture without distraction, fast from something controlling your attention, and train your heart
-                    to seek Jesus.
+                    Set aside ten quiet minutes today. Ask God to reveal anything unfinished in your walk with Jesus,
+                    write down what He brings to your heart, and take one clear step of repentance or obedience before
+                    the day ends.
                   </p>
                 </div>
               </div>
 
               <div
                 style={{
+                  marginBottom: 0,
                   borderLeft: "4px solid #e50914",
                   paddingLeft: "22px",
                 }}
               >
-                <p className="eyebrow" style={{ marginBottom: "10px" }}>Devotional Summary</p>
+                <p className="eyebrow" style={{ marginBottom: "10px" }}>
+                  Devotional Summary
+                </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Run for the Crown That Never Fades reminds us that earthly trophies fade, records are broken, and
-                  applause moves on, but what Christ gives will never fade. The crowd sees the match, but God sees the
-                  private training. We are not saved by discipline. We are saved by grace through Jesus Christ. But grace
-                  does not make us careless. Grace trains us to pray, stand on Scripture, surrender our appetites, lay
-                  aside sin, and run with purpose toward Jesus, our greatest reward.
+                  When the Final Whistle Finds You closes the Unashamed World Cup Series Devotional with a sober and
+                  hopeful call to finish faithful. Life is temporary, eternity is real, and Jesus is enough. The final
+                  whistle will come, but those who belong to Christ do not face it trusting themselves. Our hope is in
+                  His finished work. Repent quickly, obey fully, hold fast to Christ, and live ready while there is
+                  still time.
                 </p>
               </div>
             </article>
