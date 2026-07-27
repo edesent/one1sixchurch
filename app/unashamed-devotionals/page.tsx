@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/irswAx_qZuTIKFujpyudfVlAZR8TOHTj/48000-96h1lPIPskhTSRF8TunLHPv6cEfVZy.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/RzlT7Iu_HaSQf4N5uA96mW4rSL9Qgnih/49790-GPWiL2HaagWvXYRfLBDeyHE6K84Isb.mp4";
 
 export default function UnashamedDevotionalsPage() {
   return (
@@ -47,10 +47,10 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 5 — When the Final Whistle Finds You
+                Day 1 — When the Word Has the Final Say
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
-                Unashamed World Cup Series Devotional · When The Final Whistle Blows
+                Unashamed Week 8 Devotional · This Generation Needs Truth
               </p>
             </div>
 
@@ -96,7 +96,7 @@ export default function UnashamedDevotionalsPage() {
                     Scripture Focus
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    2 Timothy 4:7-8 · Matthew 24:13 · Hebrews 9:27
+                    2 Timothy 3:16-17 · John 17:17
                   </p>
                 </div>
                 <div>
@@ -104,9 +104,8 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Set aside ten quiet minutes today. Ask God to reveal anything unfinished in your walk with Jesus,
-                    write down what He brings to your heart, and take one clear step of repentance or obedience before
-                    the day ends.
+                    Choose one area where you have been resisting Scripture. Read what God&apos;s Word says about it,
+                    write down one clear act of obedience, and do it today.
                   </p>
                 </div>
               </div>
@@ -122,11 +121,11 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  When the Final Whistle Finds You closes the Unashamed World Cup Series Devotional with a sober and
-                  hopeful call to finish faithful. Life is temporary, eternity is real, and Jesus is enough. The final
-                  whistle will come, but those who belong to Christ do not face it trusting themselves. Our hope is in
-                  His finished work. Repent quickly, obey fully, hold fast to Christ, and live ready while there is
-                  still time.
+                  When the Word Has the Final Say opens Week 8 with a direct call to place Scripture above culture,
+                  emotions, personal opinions, and every competing voice. God&apos;s Word teaches, corrects, exposes, and
+                  trains us in righteousness. We cannot follow Jesus while editing what He said. Let the Word search
+                  your heart, lead you to repentance, and guide you into faithful obedience. Jesus is Lord, Scripture
+                  is truth, and surrender is the way home.
                 </p>
               </div>
             </article>
