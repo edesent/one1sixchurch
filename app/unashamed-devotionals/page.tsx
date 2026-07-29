@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/RzlT7Iu_HaSQf4N5uA96mW4rSL9Qgnih/49790-GPWiL2HaagWvXYRfLBDeyHE6K84Isb.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/LcYsy_QXoLLhhZv3QnjV2o-nk3AYyaf6/50094-qh1v059qAsWT32rNKxGfd0AhuNsnTi.mp4";
 
 export default function UnashamedDevotionalsPage() {
   return (
@@ -47,7 +47,7 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 1 — When the Word Has the Final Say
+                Day 3 — Stop Editing God
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
                 Unashamed Week 8 Devotional · This Generation Needs Truth
@@ -96,7 +96,7 @@ export default function UnashamedDevotionalsPage() {
                     Scripture Focus
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    2 Timothy 3:16-17 · John 17:17
+                    2 Timothy 4:1-2 · Acts 20:27
                   </p>
                 </div>
                 <div>
@@ -104,8 +104,8 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Choose one area where you have been resisting Scripture. Read what God&apos;s Word says about it,
-                    write down one clear act of obedience, and do it today.
+                    Read 2 Timothy 4:1-5. Write down one truth you have been avoiding, then take one clear step of
+                    obedience before the day ends.
                   </p>
                 </div>
               </div>
@@ -121,11 +121,11 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  When the Word Has the Final Say opens Week 8 with a direct call to place Scripture above culture,
-                  emotions, personal opinions, and every competing voice. God&apos;s Word teaches, corrects, exposes, and
-                  trains us in righteousness. We cannot follow Jesus while editing what He said. Let the Word search
-                  your heart, lead you to repentance, and guide you into faithful obedience. Jesus is Lord, Scripture
-                  is truth, and surrender is the way home.
+                  Stop Editing God is a direct call to receive the whole counsel of Scripture without softening the
+                  parts that confront us. We cannot preach grace without repentance, love without holiness, or a Savior
+                  without a Lord. God&apos;s Word does not bend around our preferences; our lives must bow before His truth.
+                  At the cross, truth exposed sin and grace provided the cure. Stop rewriting what God has made clear.
+                  Let the Word correct you, let grace humble you, and let Jesus rule every part of your life.
                 </p>
               </div>
             </article>
