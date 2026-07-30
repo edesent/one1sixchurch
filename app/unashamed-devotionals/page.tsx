@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/LcYsy_QXoLLhhZv3QnjV2o-nk3AYyaf6/50094-qh1v059qAsWT32rNKxGfd0AhuNsnTi.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/pk0Ke_QPOsAibaMgnR268NE-c8hZcr60/50383-5MgO7qxmmH457DumgxuObuq1ins9yA.mp4";
 
 export default function UnashamedDevotionalsPage() {
   return (
@@ -47,7 +47,7 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 3 — Stop Editing God
+                Day 4 — Actor or Witness?
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
                 Unashamed Week 8 Devotional · This Generation Needs Truth
@@ -96,7 +96,7 @@ export default function UnashamedDevotionalsPage() {
                     Scripture Focus
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    2 Timothy 4:1-2 · Acts 20:27
+                    2 Timothy 4:5 · 1 Timothy 4:16
                   </p>
                 </div>
                 <div>
@@ -104,8 +104,8 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Read 2 Timothy 4:1-5. Write down one truth you have been avoiding, then take one clear step of
-                    obedience before the day ends.
+                    Ask someone you trust whether any area of your life does not match what you say you believe.
+                    Listen without defending yourself, then take one clear step of repentance or correction.
                   </p>
                 </div>
               </div>
@@ -121,11 +121,12 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Stop Editing God is a direct call to receive the whole counsel of Scripture without softening the
-                  parts that confront us. We cannot preach grace without repentance, love without holiness, or a Savior
-                  without a Lord. God&apos;s Word does not bend around our preferences; our lives must bow before His truth.
-                  At the cross, truth exposed sin and grace provided the cure. Stop rewriting what God has made clear.
-                  Let the Word correct you, let grace humble you, and let Jesus rule every part of your life.
+                  Actor or Witness? confronts the difference between looking Christian and truly living under the truth
+                  we proclaim. Paul told Timothy to watch both his life and his teaching because the message and the
+                  messenger belong together. We are not saved by performance, but the grace that saves us also changes
+                  us. Jesus calls us out of hiding, into honest repentance, and into a life that points beyond our image
+                  to His power. Take off the mask, walk in the light, and let your life become evidence that Jesus still
+                  transforms people.
                 </p>
               </div>
             </article>
