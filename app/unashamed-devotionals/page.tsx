@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/pk0Ke_QPOsAibaMgnR268NE-c8hZcr60/50383-5MgO7qxmmH457DumgxuObuq1ins9yA.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/cxJ_AK6nNIFut4Ph4GSHLH0C-2T01XUx/50614-9zvPFIkwn1IL2rtZrEerRnWkAsWrUt.mp4";
 
 export default function UnashamedDevotionalsPage() {
   return (
@@ -47,7 +47,7 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 4 — Actor or Witness?
+                Day 5 — Truth Has a Name
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
                 Unashamed Week 8 Devotional · This Generation Needs Truth
@@ -96,7 +96,7 @@ export default function UnashamedDevotionalsPage() {
                     Scripture Focus
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    2 Timothy 4:5 · 1 Timothy 4:16
+                    John 14:6 · John 8:31-32
                   </p>
                 </div>
                 <div>
@@ -104,8 +104,8 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Ask someone you trust whether any area of your life does not match what you say you believe.
-                    Listen without defending yourself, then take one clear step of repentance or correction.
+                    Write down one lie you have been believing. Find one Scripture that speaks God&apos;s truth over it,
+                    read that verse aloud three times today, and take one action that agrees with the truth.
                   </p>
                 </div>
               </div>
@@ -121,12 +121,11 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Actor or Witness? confronts the difference between looking Christian and truly living under the truth
-                  we proclaim. Paul told Timothy to watch both his life and his teaching because the message and the
-                  messenger belong together. We are not saved by performance, but the grace that saves us also changes
-                  us. Jesus calls us out of hiding, into honest repentance, and into a life that points beyond our image
-                  to His power. Take off the mask, walk in the light, and let your life become evidence that Jesus still
-                  transforms people.
+                  Truth Has a Name closes Week 8 by bringing every conversation about truth back to Jesus Christ. Truth
+                  is not merely an idea to defend; He is the Savior and Lord we must follow. Jesus is the way, the truth,
+                  and the life. At the cross, He carried our guilt, and through His resurrection He offers forgiveness,
+                  new life, and real freedom. Reject every lie, continue in His Word, bow to His Lordship, and build your
+                  life on the truth that never changes.
                 </p>
               </div>
             </article>
