@@ -50,7 +50,7 @@ export default function UnashamedDevotionalsPage() {
                 Day 1 — Dead Man Walking
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
-                Unashamed Week 8 Devotional · This Generation Needs Truth
+                Unashamed Water Baptism Devotional Series · Buried. Raised. Unashamed.
               </p>
             </div>
 
