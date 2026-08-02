@@ -96,7 +96,7 @@ export default function UnashamedDevotionalsPage() {
                     Scripture Focus
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    John 14:6 · John 8:31-32
+                    Romans 6:3-4 · Galatians 2:20 · Colossians 2:12
                   </p>
                 </div>
                 <div>
