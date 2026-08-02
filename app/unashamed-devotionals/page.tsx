@@ -122,11 +122,11 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Truth Has a Name closes Week 8 by bringing every conversation about truth back to Jesus Christ. Truth
-                  is not merely an idea to defend; He is the Savior and Lord we must follow. Jesus is the way, the truth,
-                  and the life. At the cross, He carried our guilt, and through His resurrection He offers forgiveness,
-                  new life, and real freedom. Reject every lie, continue in His Word, bow to His Lordship, and build your
-                  life on the truth that never changes.
+                  Dead Man Walking opens the Water Baptism series with a clear declaration: baptism is not a religious
+                  performance but a public testimony that the old life has been crucified with Christ. The water does not
+                  save us—Jesus does. Baptism pictures burial with Christ and resurrection into a new life of repentance,
+                  surrender, obedience, and bold identification with Him. The old self no longer rules. Jesus is Savior,
+                  Jesus is Lord, and those raised with Him are called to walk differently and live unashamed.
                 </p>
               </div>
             </article>
