@@ -104,8 +104,9 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Write down one lie you have been believing. Find one Scripture that speaks God&apos;s truth over it,
-                    read that verse aloud three times today, and take one action that agrees with the truth.
+                    Write down one habit, attitude, or area of compromise from your old life that needs to be buried.
+                    Confess it honestly to Jesus, then take one practical step today to stop feeding it and begin walking
+                    in obedience.
                   </p>
                 </div>
               </div>
