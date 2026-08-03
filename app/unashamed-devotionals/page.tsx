@@ -121,11 +121,11 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Dead Man Walking opens the Water Baptism series with a clear declaration: baptism is not a religious
-                  performance but a public testimony that the old life has been crucified with Christ. The water does not
-                  save us—Jesus does. Baptism pictures burial with Christ and resurrection into a new life of repentance,
-                  surrender, obedience, and bold identification with Him. The old self no longer rules. Jesus is Savior,
-                  Jesus is Lord, and those raised with Him are called to walk differently and live unashamed.
+                  Water in the Desert follows Philip and the Ethiopian official along the road in Acts 8. The official was
+                  reading Isaiah 53, but Philip helped him see that the suffering servant was Jesus—the Savior wounded for
+                  our sins and risen in victory. When water appeared, faith responded with immediate obedience. Baptism did
+                  not save him; Jesus did. But the Gospel produced faith, and faith stepped into the water. When Christ is
+                  revealed, do not delay: believe, surrender, obey, and live unashamed.
                 </p>
               </div>
             </article>
