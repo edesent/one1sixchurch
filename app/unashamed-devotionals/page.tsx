@@ -104,9 +104,8 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Write down one habit, attitude, or area of compromise from your old life that needs to be buried.
-                    Confess it honestly to Jesus, then take one practical step today to stop feeding it and begin walking
-                    in obedience.
+                    Read Acts 8:26-40 and Isaiah 53. Write down what both passages reveal about Jesus, then identify one
+                    act of obedience you have been delaying and take the first step today.
                   </p>
                 </div>
               </div>
