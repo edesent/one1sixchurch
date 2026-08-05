@@ -121,11 +121,11 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Water in the Desert follows Philip and the Ethiopian official along the road in Acts 8. The official was
-                  reading Isaiah 53, but Philip helped him see that the suffering servant was Jesus—the Savior wounded for
-                  our sins and risen in victory. When water appeared, faith responded with immediate obedience. Baptism did
-                  not save him; Jesus did. But the Gospel produced faith, and faith stepped into the water. When Christ is
-                  revealed, do not delay: believe, surrender, obey, and live unashamed.
+                  Day 4 reminds us that baptism is not only a picture of burial, but also of resurrection. Jesus did not
+                  raise us so we could return to the same chains. In Christ, new life changes how we think, speak, respond,
+                  and obey. Transformation does not mean every struggle disappears overnight, but it does mean our direction
+                  changes. Grace is not permission to remain unchanged; it teaches us to say no to sin, yes to God, and walk
+                  in newness of life.
                 </p>
               </div>
             </article>
