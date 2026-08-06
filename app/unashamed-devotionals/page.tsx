@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/P-RLlmnZiIdFQVAPr9xEPySwPp69XYoP/51748-5DZ5zMFUXQcbwtLm5JCfLdviCCp4GO.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/jZHi3BcY_jmCPXZJpPwhxQbRbZByZY57/51985-V4cMlUCRkAClAIw25NPryGUXKtyOxu.mp4";
 
 export default function UnashamedDevotionalsPage() {
   return (
@@ -47,7 +47,7 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 4 — Raised to Live D&#105;fferent
+                Day 5 — Don&apos;t Go Back to the Grave
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
                 Unashamed Water Baptism Devotional Series · Buried. Raised. Unashamed.
@@ -96,7 +96,7 @@ export default function UnashamedDevotionalsPage() {
                     Scripture Focus
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Romans 6:4, 11-14 · 2 Corinthians 5:17 · Colossians 3:1-3
+                    Romans 6:4 · Colossians 2:12 · Galatians 2:20
                   </p>
                 </div>
                 <div>
@@ -104,8 +104,9 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Choose one area of your daily life that needs to change. Write down one specific act of obedience you
-                    will practice today, then do it before the day ends.
+                    Identify one habit, relationship, thought pattern, or hidden compromise connected to your old life.
+                    Surrender it to Jesus, take one practical step to close that door, and ask a trusted believer to pray
+                    with you.
                   </p>
                 </div>
               </div>
@@ -121,11 +122,11 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Day 4 reminds us that baptism is not only a picture of burial, but also of resurrection. Jesus did not
-                  raise us so we could return to the same chains. In Christ, new life changes how we think, speak, respond,
-                  and obey. Transformation does not mean every struggle disappears overnight, but it does mean our direction
-                  changes. Grace is not permission to remain unchanged; it teaches us to say no to sin, yes to God, and walk
-                  in newness of life.
+                  Day 5 reminds us that baptism is not the finish line. It is a declaration that the old life has been
+                  buried and a new life in Christ has begun. We may still face temptation, struggle, and even stumble, but
+                  we no longer belong to the grave. Conviction calls us back to Jesus, while condemnation tries to keep us
+                  down. Through repentance, surrender, obedience, and grace, we can keep walking forward in the resurrection
+                  life Jesus has given us. The grave is behind us. Christ is before us. Buried. Raised. Unashamed.
                 </p>
               </div>
             </article>
