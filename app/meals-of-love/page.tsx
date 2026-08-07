@@ -1,209 +1,273 @@
-import type { Metadata } from "next";
+import {
+  ArrowRight,
+  Droplets,
+  HandHeart,
+  Heart,
+  Package,
+  ShieldCheck,
+  UtensilsCrossed,
+} from "lucide-react";
 import Image from "next/image";
-import { ArrowRight, Droplets, Heart, HeartHandshake, PackageOpen, UtensilsCrossed } from "lucide-react";
 
 import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
-import styles from "./meals-of-love.module.css";
 
-export const metadata: Metadata = {
-  title: "100 Meals of Love | ONE1SIX Church",
-  description:
-    "Help ONE1SIX Church bring food, prayer, hope, and the love of Jesus to our Worcester community through the 100 Meals of Love outreach campaign.",
-};
+const GOAL = 3000;
+const RAISED = 0;
 
-const goal = 3000;
-const raised = 0;
-const percent = Math.min(100, Math.round((raised / goal) * 100));
-const remaining = Math.max(0, goal - raised);
-
-const tiers = [
+const givingLevels = [
   {
     amount: "$10",
     title: "Help Provide A Meal",
-    copy: "Help place a meal and a moment of Christ-centered care into someone’s hands.",
+    copy: "Help us place food directly into the hands of someone in need.",
     icon: UtensilsCrossed,
   },
   {
     amount: "$25",
     title: "Meals + Outreach Supplies",
-    copy: "Help provide food along with practical supplies used during community outreach.",
-    icon: PackageOpen,
+    copy: "Help provide food, water, and practical supplies for outreach.",
+    icon: Package,
   },
   {
     amount: "$50",
     title: "Help Serve Multiple People",
-    copy: "Multiply the impact by helping us care for several neighbors in one outreach.",
-    icon: HeartHandshake,
+    copy: "Multiply your impact as our team serves families and neighbors.",
+    icon: HandHeart,
   },
   {
     amount: "$100",
     title: "Outreach Partner",
-    copy: "Stand with ONE1SIX as we continue showing up consistently for our community.",
+    copy: "Stand with ONE1SIX as we continue bringing the love of Jesus to our city.",
     icon: Heart,
   },
 ];
 
+export const metadata = {
+  title: "100 Meals of Love | ONE1SIX Church",
+  description:
+    "Help ONE1SIX Church bring meals, water, practical resources, prayer, and the love of Jesus to our community.",
+};
+
 export default function MealsOfLovePage() {
+  const percentage = Math.min(100, Math.round((RAISED / GOAL) * 100));
+  const remaining = Math.max(0, GOAL - RAISED);
+
   return (
     <>
       <SiteHeader />
-
-      <main className={styles.page}>
-        <section className={styles.hero}>
-          <div className={styles.texture} aria-hidden="true" />
-          <div className={styles.heroInner}>
-            <div className={styles.logoWrap}>
-              <Image src="/one1six-logo.png" alt="ONE1SIX Church" width={420} height={195} priority />
+      <main className="mol-page">
+        <section className="mol-hero">
+          <div className="mol-grain" aria-hidden="true" />
+          <div className="mol-hero-inner">
+            <div className="mol-brand-lockup">
+              <Image
+                src="/one1six-logo.png"
+                alt="ONE1SIX Church"
+                width={320}
+                height={130}
+                priority
+              />
+              <span>UNASHAMED · WORCESTER, MA</span>
             </div>
 
-            <p className={styles.kicker}>ONE1SIX Community Outreach</p>
-            <h1>
-              <span>100 Meals</span>
-              <span className={styles.red}>Of Love.</span>
-            </h1>
-            <p className={styles.heroCopy}>
-              We are taking the love of Christ beyond the walls of the church — bringing food,
-              prayer, hope, and practical care to people in our Worcester community.
-            </p>
+            <div className="mol-hero-grid">
+              <div className="mol-hero-copy">
+                <p className="mol-kicker">LOVE IN ACTION · 1 JOHN 3:18</p>
+                <h1>
+                  <span>100</span>
+                  <strong>MEALS OF</strong>
+                  <em>LOVE</em>
+                </h1>
+                <p className="mol-lead">
+                  We are taking the love of Christ beyond the walls of the church—bringing meals,
+                  water, practical help, prayer, and hope to people in our community.
+                </p>
+                <div className="mol-scripture">
+                  <span>“</span>
+                  <p>
+                    Let us not love with words or speech but with actions and in truth.
+                    <strong>1 John 3:18</strong>
+                  </p>
+                </div>
+              </div>
 
-            <blockquote className={styles.scripture}>
-              “Let us not love with words or speech but with actions and in truth.”
-              <strong>1 John 3:18</strong>
-            </blockquote>
-
-            <a
-              className={styles.primaryButton}
-              href="https://venmo.com/u/JBLESSED3"
-              target="_blank"
-              rel="noreferrer"
-            >
-              Give With Venmo <ArrowRight size={20} />
-            </a>
-            <p className={styles.venmoLine}>Venmo: <strong>@JBLESSED3</strong> · Jobeth Pacheco</p>
+              <aside className="mol-give-card" aria-label="Donate to 100 Meals of Love">
+                <p className="mol-card-eyebrow">BE PART OF THE MISSION</p>
+                <h2>Your generosity helps love show up.</h2>
+                <p>
+                  Give securely through Venmo to <strong>@JBLESSED3</strong>. Please include
+                  <strong> “100 Meals of Love”</strong> in the payment note.
+                </p>
+                <a
+                  className="mol-venmo-button"
+                  href="https://venmo.com/u/JBLESSED3"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  Give With Venmo <ArrowRight size={20} />
+                </a>
+                <div className="mol-handle">
+                  <span>VENMO</span>
+                  <strong>@JBLESSED3</strong>
+                </div>
+                <p className="mol-small-note">
+                  For giving records or questions, contact info@one1sixchurch.org.
+                </p>
+              </aside>
+            </div>
           </div>
         </section>
 
-        <section className={styles.progressSection} aria-labelledby="campaign-progress">
-          <div className={styles.sectionHeading}>
-            <p>Campaign Progress</p>
-            <h2 id="campaign-progress">Help Us Reach <span>$3,000</span></h2>
-          </div>
-
-          <div className={styles.progressCard}>
-            <div className={styles.progressTopline}>
+        <section className="mol-progress-section" id="progress">
+          <div className="mol-section-shell">
+            <div className="mol-progress-heading">
               <div>
-                <span>Raised</span>
-                <strong>${raised.toLocaleString()}</strong>
+                <p className="mol-section-label">OUR CURRENT GOAL</p>
+                <h2>$3,000 to keep serving our community.</h2>
               </div>
-              <div className={styles.progressGoal}>
-                <span>Goal</span>
-                <strong>${goal.toLocaleString()}</strong>
-              </div>
+              <div className="mol-percent">{percentage}%</div>
             </div>
 
             <div
-              className={styles.progressTrack}
+              className="mol-progress-track"
               role="progressbar"
               aria-valuemin={0}
-              aria-valuemax={goal}
-              aria-valuenow={raised}
-              aria-label={`$${raised} raised of $${goal}`}
+              aria-valuemax={GOAL}
+              aria-valuenow={RAISED}
+              aria-label={`${RAISED} dollars raised of ${GOAL} dollar goal`}
             >
-              <div className={styles.progressFill} style={{ width: `${percent}%` }} />
+              <span style={{ width: `${percentage}%` }} />
             </div>
 
-            <div className={styles.progressBottomline}>
-              <strong>{percent}% Funded</strong>
-              <span>${remaining.toLocaleString()} To Go</span>
+            <div className="mol-progress-stats">
+              <div>
+                <span>RAISED</span>
+                <strong>${RAISED.toLocaleString()}</strong>
+              </div>
+              <div>
+                <span>GOAL</span>
+                <strong>${GOAL.toLocaleString()}</strong>
+              </div>
+              <div>
+                <span>TO GO</span>
+                <strong>${remaining.toLocaleString()}</strong>
+              </div>
             </div>
-            <p className={styles.updated}>Progress is updated as campaign gifts are received.</p>
+
+            <p className="mol-progress-note">
+              This progress is updated as gifts are received and recorded by our outreach team.
+            </p>
           </div>
         </section>
 
-        <section className={styles.missionSection}>
-          <div className={styles.missionCopy}>
-            <p className={styles.sectionLabel}>Love In Action</p>
-            <h2>More Than A Meal. <span>A Moment To Show Jesus.</span></h2>
-            <p>
-              Every outreach gives us an opportunity to meet a practical need while treating people
-              with dignity, listening to their story, praying with them, and pointing them to the hope
-              found in Jesus Christ.
-            </p>
-            <p>
-              Campaign funds help support meals, bottled water, outreach supplies, hygiene resources,
-              and other practical needs connected to serving our community.
-            </p>
-          </div>
+        <section className="mol-impact-section">
+          <div className="mol-section-shell">
+            <div className="mol-impact-heading">
+              <p className="mol-section-label">WHERE YOUR GIFT GOES</p>
+              <h2>More than a meal. <span>A tangible expression of Christ’s love.</span></h2>
+              <p>
+                Our $3,000 campaign goal supports food, bottled water, outreach supplies, hygiene
+                resources, and the practical needs involved in consistently serving people in our city.
+              </p>
+            </div>
 
-          <div className={styles.missionStats}>
-            <article>
-              <UtensilsCrossed size={28} />
-              <strong>Food</strong>
-              <span>Serving practical needs</span>
-            </article>
-            <article>
-              <Droplets size={28} />
-              <strong>Resources</strong>
-              <span>Water and outreach supplies</span>
-            </article>
-            <article>
-              <HeartHandshake size={28} />
-              <strong>Prayer</strong>
-              <span>Showing the compassion of Christ</span>
-            </article>
-          </div>
-        </section>
-
-        <section className={styles.tiersSection}>
-          <div className={styles.sectionHeading}>
-            <p>You Can Be Part</p>
-            <h2>Choose Your <span>Impact</span></h2>
-          </div>
-
-          <div className={styles.tierGrid}>
-            {tiers.map(({ amount, title, copy, icon: Icon }) => (
-              <article className={styles.tierCard} key={amount}>
-                <div className={styles.tierAmount}>{amount}</div>
-                <Icon size={30} />
-                <h3>{title}</h3>
-                <p>{copy}</p>
+            <div className="mol-impact-grid">
+              <article>
+                <UtensilsCrossed size={30} />
+                <span>01</span>
+                <h3>Meals</h3>
+                <p>Food prepared and distributed with dignity and compassion.</p>
               </article>
-            ))}
+              <article>
+                <Droplets size={30} />
+                <span>02</span>
+                <h3>Water</h3>
+                <p>Hydration and basic resources for neighbors facing difficult circumstances.</p>
+              </article>
+              <article>
+                <Package size={30} />
+                <span>03</span>
+                <h3>Supplies</h3>
+                <p>Practical outreach items that help us meet real needs on the ground.</p>
+              </article>
+              <article>
+                <Heart size={30} />
+                <span>04</span>
+                <h3>Prayer + Presence</h3>
+                <p>Every outreach is centered on people, prayer, the Gospel, and the love of Jesus.</p>
+              </article>
+            </div>
           </div>
         </section>
 
-        <section className={styles.giveSection}>
-          <div className={styles.giveCard}>
-            <p className={styles.sectionLabel}>Give Today</p>
-            <h2>Your Generosity Helps Us <span>Show Up.</span></h2>
+        <section className="mol-giving-section" id="give">
+          <div className="mol-section-shell">
+            <div className="mol-giving-title">
+              <p className="mol-section-label">YOU CAN BE PART</p>
+              <h2>Choose your level of impact.</h2>
+            </div>
+
+            <div className="mol-giving-grid">
+              {givingLevels.map((level) => {
+                const Icon = level.icon;
+                return (
+                  <article className="mol-giving-card" key={level.amount}>
+                    <Icon size={28} />
+                    <strong>{level.amount}</strong>
+                    <h3>{level.title}</h3>
+                    <p>{level.copy}</p>
+                    <a
+                      href="https://venmo.com/u/JBLESSED3"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      Give Now <ArrowRight size={17} />
+                    </a>
+                  </article>
+                );
+              })}
+            </div>
+
+            <div className="mol-custom-gift">
+              <div>
+                <ShieldCheck size={27} />
+                <p>
+                  <strong>Want to give another amount?</strong>
+                  Give as God leads. Every gift helps us keep showing up and serving faithfully.
+                </p>
+              </div>
+              <a
+                className="mol-outline-button"
+                href="https://venmo.com/u/JBLESSED3"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Open Venmo @JBLESSED3
+              </a>
+            </div>
+          </div>
+        </section>
+
+        <section className="mol-final-section">
+          <div className="mol-final-cross" aria-hidden="true">†</div>
+          <div className="mol-final-inner">
+            <p className="mol-section-label">ONE CHURCH FOR THE ONE, A FAMILY FOR THE SIX</p>
+            <h2>Love doesn’t just speak. <span>Love shows up.</span></h2>
             <p>
-              Tap below to give securely through Venmo. Please include <strong>“Meals of Love”</strong>
-              in the payment note so we can identify gifts designated for this campaign.
+              Thank you for helping ONE1SIX Church bring hope, dignity, practical care, prayer,
+              and the Gospel of Jesus Christ to our community.
             </p>
             <a
-              className={styles.primaryButton}
+              className="mol-venmo-button mol-final-button"
               href="https://venmo.com/u/JBLESSED3"
               target="_blank"
               rel="noreferrer"
             >
-              Open Venmo <ArrowRight size={20} />
+              Donate Today <Heart size={19} fill="currentColor" />
             </a>
-            <div className={styles.recipientBox}>
-              <span>Payment Recipient</span>
-              <strong>Jobeth Pacheco · @JBLESSED3</strong>
-              <small>Designated for ONE1SIX Church community outreach.</small>
-            </div>
           </div>
         </section>
-
-        <section className={styles.closing}>
-          <Image src="/one1six-official-logo.webp" alt="ONE1SIX Church" width={280} height={130} />
-          <p>One Church For The One, A Family For The Six.</p>
-          <strong>#LiveUnashamed</strong>
-        </section>
       </main>
-
       <SiteFooter />
     </>
   );
