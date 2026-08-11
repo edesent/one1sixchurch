@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/jZHi3BcY_jmCPXZJpPwhxQbRbZByZY57/51985-V4cMlUCRkAClAIw25NPryGUXKtyOxu.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/8VzvlYFDc5NgrGrRdqATWudaPnis56cj/53042-xAYfkkBlusl7b6m2K1mOwcHjYcKi1r.mp4";
 
 export default function UnashamedDevotionalsPage() {
   return (
@@ -47,10 +47,10 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 5 — Don&apos;t Go Back to the Grave
+                Day 2 — I&apos;m Ready
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
-                Unashamed Water Baptism Devotional Series · Buried. Raised. Unashamed.
+                Unashamed Week 9 · I Know What I&apos;m Carrying
               </p>
             </div>
 
@@ -96,7 +96,7 @@ export default function UnashamedDevotionalsPage() {
                     Scripture Focus
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Romans 6:4 · Colossians 2:12 · Galatians 2:20
+                    Romans 1:14–16
                   </p>
                 </div>
                 <div>
@@ -104,9 +104,8 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Identify one habit, relationship, thought pattern, or hidden compromise connected to your old life.
-                    Surrender it to Jesus, take one practical step to close that door, and ask a trusted believer to pray
-                    with you.
+                    Pray, “Jesus, give me one opportunity to represent You today.” Then when that opportunity comes,
+                    do not ignore it. Speak, pray, serve, encourage, and obey.
                   </p>
                 </div>
               </div>
@@ -122,11 +121,12 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Day 5 reminds us that baptism is not the finish line. It is a declaration that the old life has been
-                  buried and a new life in Christ has begun. We may still face temptation, struggle, and even stumble, but
-                  we no longer belong to the grave. Conviction calls us back to Jesus, while condemnation tries to keep us
-                  down. Through repentance, surrender, obedience, and grace, we can keep walking forward in the resurrection
-                  life Jesus has given us. The grave is behind us. Christ is before us. Buried. Raised. Unashamed.
+                  Paul&apos;s words in Romans 1:15 show that biblical readiness is more than excitement—it is surrender.
+                  Because the Gospel had been entrusted to him, Paul could say, “I am ready.” We do not need every answer
+                  before God can use us, and we are not responsible for saving anyone. Jesus saves. The Holy Spirit convicts.
+                  Our responsibility is to remain faithful, available, and obedient when God opens the door. The mission field
+                  may already be in our home, workplace, neighborhood, or daily routine. When you know what you are carrying,
+                  availability becomes worship. Stay ready.
                 </p>
               </div>
             </article>
