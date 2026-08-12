@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/8VzvlYFDc5NgrGrRdqATWudaPnis56cj/53042-xAYfkkBlusl7b6m2K1mOwcHjYcKi1r.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/UbHpVlKyEwmURgjNHOJ_lI_VGaUy7mzD/53197-SwV1iGq7mtV31xZOUQ5fqCNhS4BaY4.mp4";
 
 export default function UnashamedDevotionalsPage() {
   return (
@@ -47,7 +47,7 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 2 — I&apos;m Ready
+                Day 3 — I&apos;m Not Ashamed
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
                 Unashamed Week 9 · I Know What I&apos;m Carrying
@@ -96,7 +96,7 @@ export default function UnashamedDevotionalsPage() {
                     Scripture Focus
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Romans 1:14–16
+                    Romans 1:16 · 1 Corinthians 1:18
                   </p>
                 </div>
                 <div>
@@ -104,8 +104,9 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Pray, “Jesus, give me one opportunity to represent You today.” Then when that opportunity comes,
-                    do not ignore it. Speak, pray, serve, encourage, and obey.
+                    Intentionally mention Jesus in one conversation today. Share something He has done for you, invite
+                    someone to church, offer to pray, or simply explain why the Gospel matters to you. Do not force the
+                    moment, but do not hide when God opens the door.
                   </p>
                 </div>
               </div>
@@ -121,12 +122,13 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Paul&apos;s words in Romans 1:15 show that biblical readiness is more than excitement—it is surrender.
-                  Because the Gospel had been entrusted to him, Paul could say, “I am ready.” We do not need every answer
-                  before God can use us, and we are not responsible for saving anyone. Jesus saves. The Holy Spirit convicts.
-                  Our responsibility is to remain faithful, available, and obedient when God opens the door. The mission field
-                  may already be in our home, workplace, neighborhood, or daily routine. When you know what you are carrying,
-                  availability becomes worship. Stay ready.
+                  Romans 1:16 shows that being unashamed is not about being loud—it is about being convinced. Paul&apos;s
+                  confidence was not in himself but in the Gospel of Jesus Christ, the power of God unto salvation. The
+                  cross may look foolish to the world, but rejection does not make the Gospel powerless. Jesus died for
+                  sinners, was buried, rose again, and is alive. Biblical boldness is not arrogance or noise; it carries
+                  truth with love, compassion without compromise, and confidence in Christ. We do not need to edit Jesus
+                  to make Him easier for culture to accept. Know the Gospel, believe the Gospel, live the Gospel, and share
+                  the Gospel. Stand on truth, walk in love, and live unashamed.
                 </p>
               </div>
             </article>
