@@ -104,9 +104,9 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Intentionally mention Jesus in one conversation today. Share something He has done for you, invite
-                    someone to church, offer to pray, or simply explain why the Gospel matters to you. Do not force the
-                    moment, but do not hide when God opens the door.
+                    Choose one person today who needs Jesus. Pray for them specifically, then take one intentional step:
+                    send a message, start a conversation, share your testimony, invite them to church, or simply tell them
+                    what Jesus has done for you. Do not force it, but do not hide when God opens the door.
                   </p>
                 </div>
               </div>
