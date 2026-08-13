@@ -122,13 +122,13 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Romans 1:16 shows that being unashamed is not about being loud—it is about being convinced. Paul&apos;s
-                  confidence was not in himself but in the Gospel of Jesus Christ, the power of God unto salvation. The
-                  cross may look foolish to the world, but rejection does not make the Gospel powerless. Jesus died for
-                  sinners, was buried, rose again, and is alive. Biblical boldness is not arrogance or noise; it carries
-                  truth with love, compassion without compromise, and confidence in Christ. We do not need to edit Jesus
-                  to make Him easier for culture to accept. Know the Gospel, believe the Gospel, live the Gospel, and share
-                  the Gospel. Stand on truth, walk in love, and live unashamed.
+                  Romans 1:16 reminds us that the Gospel does not become powerful because of our personality, presentation,
+                  or persuasion. It already is the power of God unto salvation. First Corinthians 15:3–4 gives the heart of
+                  that message: Christ died for our sins, was buried, and rose again. We do not improve the Gospel by softening
+                  it, hiding repentance, or removing the cross. Our calling is to proclaim Christ faithfully with truth, love,
+                  and compassion. People do not merely need inspiration or religion—they need Jesus. The Gospel can reach the
+                  broken, the rebellious, the religious, and the forgotten because Jesus still saves. Know what you are carrying.
+                  The Gospel is too powerful to hide.
                 </p>
               </div>
             </article>
