@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/LRd0QJ8csFC8dMTjU--76JnQgk4m18vF/53322-SmvIBh0tx32D4hA255t7rBVCHIyqTZ.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/PC08Gxr684PSH7xKA6MqeAVZzVaEovSf/53448-Fk7VniycPXTGvRkauBlw8g0wckHxV6.mp4";
 
 export default function UnashamedDevotionalsPage() {
   return (
