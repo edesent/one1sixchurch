@@ -122,13 +122,13 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Romans 1:16 reminds us that the Gospel does not become powerful because of our personality, presentation,
-                  or persuasion. It already is the power of God unto salvation. First Corinthians 15:3–4 gives the heart of
-                  that message: Christ died for our sins, was buried, and rose again. We do not improve the Gospel by softening
-                  it, hiding repentance, or removing the cross. Our calling is to proclaim Christ faithfully with truth, love,
-                  and compassion. People do not merely need inspiration or religion—they need Jesus. The Gospel can reach the
-                  broken, the rebellious, the religious, and the forgotten because Jesus still saves. Know what you are carrying.
-                  The Gospel is too powerful to hide.
+                  Romans 1:14–17 brings the entire Week 9 message together. Paul is a debtor because grace reached him. He is
+                  ready because the Gospel was entrusted to him. He is not ashamed because the Gospel is the power of God unto
+                  salvation. And in that Gospel, the righteousness of God is revealed by faith. We are not carrying a slogan,
+                  a brand, or empty religion. We are carrying the good news that Jesus Christ died for sinners, was buried,
+                  rose again, and saves all who trust in Him. The guilty can be forgiven, the broken restored, the lost found,
+                  and the spiritually dead made alive. The series may be ending, but the mission is not. Know what you are
+                  carrying, carry it faithfully, and live unashamed.
                 </p>
               </div>
             </article>
