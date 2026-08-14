@@ -104,9 +104,9 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Choose one person today who needs Jesus. Pray for them specifically, then take one intentional step:
-                    send a message, start a conversation, share your testimony, invite them to church, or simply tell them
-                    what Jesus has done for you. Do not force it, but do not hide when God opens the door.
+                    Write down the name of one person who needs Jesus. Pray for them, then take one intentional step toward
+                    them today: call them, text them, invite them, share your testimony, or simply tell them what Jesus has
+                    done for you. The series may be ending, but the mission is not.
                   </p>
                 </div>
               </div>
