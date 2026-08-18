@@ -104,9 +104,8 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Write down the name of one person who needs Jesus. Pray for them, then take one intentional step toward
-                    them today: call them, text them, invite them, share your testimony, or simply tell them what Jesus has
-                    done for you. The series may be ending, but the mission is not.
+                    Read Romans 5:6–8. Then thank Jesus specifically for His grace in one area of your life. After you pray,
+                    choose one act of obedience that reflects genuine repentance.
                   </p>
                 </div>
               </div>
