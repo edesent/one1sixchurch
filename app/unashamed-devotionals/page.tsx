@@ -50,7 +50,7 @@ export default function UnashamedDevotionalsPage() {
                 Day 2 — The Wrong Man Walked Free
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
-                Unashamed Week 9 · I Know What I&apos;m Carrying
+                Unashamed Week 1 · I&apos;m Barabbas
               </p>
             </div>
 
