@@ -121,13 +121,13 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Romans 1:14–17 brings the entire Week 9 message together. Paul is a debtor because grace reached him. He is
-                  ready because the Gospel was entrusted to him. He is not ashamed because the Gospel is the power of God unto
-                  salvation. And in that Gospel, the righteousness of God is revealed by faith. We are not carrying a slogan,
-                  a brand, or empty religion. We are carrying the good news that Jesus Christ died for sinners, was buried,
-                  rose again, and saves all who trust in Him. The guilty can be forgiven, the broken restored, the lost found,
-                  and the spiritually dead made alive. The series may be ending, but the mission is not. Know what you are
-                  carrying, carry it faithfully, and live unashamed.
+                  Barabbas was guilty. Jesus was innocent. Yet the guilty man was released while the innocent Son was handed
+                  over. Barabbas did not earn his freedom, prove his innocence, fix his past, or negotiate his release. The door
+                  opened while another Man was being delivered. Romans 5 reminds us that while we were still sinners, Christ
+                  died for us. Grace does not make sin small; it shows us how serious sin is and how great the love of Jesus is.
+                  Our forgiveness was not cheap. Christ willingly gave Himself for sinners. Receive grace, let it humble you,
+                  let it lead you to repentance, and let it produce obedience. The wrong man walked free, but Jesus is the One
+                  who willingly went to the cross. Our hope is not in our goodness. Our hope has a name: Jesus.
                 </p>
               </div>
             </article>
