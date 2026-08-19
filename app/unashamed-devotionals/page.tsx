@@ -121,13 +121,13 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Barabbas was guilty. Jesus was innocent. Yet the guilty man was released while the innocent Son was handed
-                  over. Barabbas did not earn his freedom, prove his innocence, fix his past, or negotiate his release. The door
-                  opened while another Man was being delivered. Romans 5 reminds us that while we were still sinners, Christ
-                  died for us. Grace does not make sin small; it shows us how serious sin is and how great the love of Jesus is.
-                  Our forgiveness was not cheap. Christ willingly gave Himself for sinners. Receive grace, let it humble you,
-                  let it lead you to repentance, and let it produce obedience. The wrong man walked free, but Jesus is the One
-                  who willingly went to the cross. Our hope is not in our goodness. Our hope has a name: Jesus.
+                  If Barabbas walked free, who took his place? Jesus. Isaiah 53 shows the great exchange: our transgressions,
+                  His wounds; our guilt, His suffering; our judgment, His cross. Jesus knew no sin, yet He stood in the place of
+                  guilty sinners and bore what we deserved. The cross does not make sin small; it shows us how serious sin is
+                  and how great the grace of God truly is. But grace is not permission to remain in what Jesus died to save us
+                  from. He bore our sins so that we might live unto righteousness. Bring compromise into the light. Confess it.
+                  Repent. Receive grace. Walk differently. Jesus took our place, bore our sin, gave His life, and rose again.
+                  Our sin was serious, but His grace is greater. Our hope is Jesus Christ alone.
                 </p>
               </div>
             </article>
