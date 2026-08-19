@@ -47,7 +47,7 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 2 — The Wrong Man Walked Free
+                Day 3 — He Took My Place
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
                 Unashamed Week 1 · I&apos;m Barabbas
