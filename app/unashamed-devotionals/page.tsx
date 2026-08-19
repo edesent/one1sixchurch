@@ -104,8 +104,8 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Read Romans 5:6–8. Then thank Jesus specifically for His grace in one area of your life. After you pray,
-                    choose one act of obedience that reflects genuine repentance.
+                    Read Isaiah 53:4–6. Ask God to reveal one area you need to surrender. Confess it specifically, then take
+                    one practical step today to turn from it and obey Jesus.
                   </p>
                 </div>
               </div>
