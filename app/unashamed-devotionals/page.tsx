@@ -121,13 +121,13 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  If Barabbas walked free, who took his place? Jesus. Isaiah 53 shows the great exchange: our transgressions,
-                  His wounds; our guilt, His suffering; our judgment, His cross. Jesus knew no sin, yet He stood in the place of
-                  guilty sinners and bore what we deserved. The cross does not make sin small; it shows us how serious sin is
-                  and how great the grace of God truly is. But grace is not permission to remain in what Jesus died to save us
-                  from. He bore our sins so that we might live unto righteousness. Bring compromise into the light. Confess it.
-                  Repent. Receive grace. Walk differently. Jesus took our place, bore our sin, gave His life, and rose again.
-                  Our sin was serious, but His grace is greater. Our hope is Jesus Christ alone.
+                  Barabbas walked out of a prison, but Jesus came to give something greater than an open cell: true freedom.
+                  John 8 reminds us that sin promises freedom but produces slavery, and only the Son can make us free indeed.
+                  We could not erase our guilt, make ourselves righteous, or break sin’s power by human effort. But God sent His
+                  Son. Jesus dealt with sin at the cross, rose again, and brings believers into the Father’s family. Grace does
+                  not free us so we can return comfortably to old chains. It frees us to belong completely to Jesus. Our past,
+                  shame, and temptation do not get the final word. Christ does. The Son has set us free. Leave the chains, walk
+                  in obedience, live as someone who belongs to the Father, and live unashamed.
                 </p>
               </div>
             </article>
