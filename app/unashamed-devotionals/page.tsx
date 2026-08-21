@@ -96,7 +96,7 @@ export default function UnashamedDevotionalsPage() {
                     Scripture Focus
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Isaiah 53:4–6 · 2 Corinthians 5:21 · 1 Peter 2:24
+                    John 8:34–36 · Romans 8:1–3 · Galatians 4:4–7
                   </p>
                 </div>
                 <div>
