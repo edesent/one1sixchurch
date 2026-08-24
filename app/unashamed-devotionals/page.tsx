@@ -50,7 +50,7 @@ export default function UnashamedDevotionalsPage() {
                 Day 1 — The Bill Had My Name On It
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
-                Unashamed Week 1 · I&apos;m Barabbas
+                Unashamed Week 2 · He Took My Place
               </p>
             </div>
 
