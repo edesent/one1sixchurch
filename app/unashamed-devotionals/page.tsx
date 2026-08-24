@@ -104,8 +104,8 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Read John 8:34–36. Identify one chain Jesus is calling you to leave behind. Remove one practical doorway
-                    that keeps pulling you back toward it, then thank Jesus out loud: “The Son has set me free, and I will walk in obedience.”
+                    Read Isaiah 53:4–6 slowly. Write down one sin or area of rebellion you have been minimizing. Name it
+                    honestly before God. Confess it, repent, and surrender that area to Jesus today.
                   </p>
                 </div>
               </div>
