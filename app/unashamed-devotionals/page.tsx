@@ -121,13 +121,13 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Barabbas walked out of a prison, but Jesus came to give something greater than an open cell: true freedom.
-                  John 8 reminds us that sin promises freedom but produces slavery, and only the Son can make us free indeed.
-                  We could not erase our guilt, make ourselves righteous, or break sin’s power by human effort. But God sent His
-                  Son. Jesus dealt with sin at the cross, rose again, and brings believers into the Father’s family. Grace does
-                  not free us so we can return comfortably to old chains. It frees us to belong completely to Jesus. Our past,
-                  shame, and temptation do not get the final word. Christ does. The Son has set us free. Leave the chains, walk
-                  in obedience, live as someone who belongs to the Father, and live unashamed.
+                  Before we talk about the cross, we have to talk about the bill. Isaiah 53 puts the ownership of the problem
+                  on us: our offenses, our wrongdoings, our guilt, our rebellion, our sin. Romans 3 reminds us that all have
+                  sinned, and Romans 6 teaches that sin earns death. The bill had our name on it. But God did not ignore the debt.
+                  He dealt with it through Jesus. Salvation is free to the sinner, but it was not cheap. Grace cost Jesus His
+                  blood. He stood where guilty sinners should have stood, carried what we could not carry, and took what we
+                  deserved. Stop minimizing sin, stop comparing yourself to others, confess it, repent, believe, and surrender.
+                  The guilt was ours, the cross was His, and Jesus took our place.
                 </p>
               </div>
             </article>
