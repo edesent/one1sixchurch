@@ -121,13 +121,12 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Before we talk about the cross, we have to talk about the bill. Isaiah 53 puts the ownership of the problem
-                  on us: our offenses, our wrongdoings, our guilt, our rebellion, our sin. Romans 3 reminds us that all have
-                  sinned, and Romans 6 teaches that sin earns death. The bill had our name on it. But God did not ignore the debt.
-                  He dealt with it through Jesus. Salvation is free to the sinner, but it was not cheap. Grace cost Jesus His
-                  blood. He stood where guilty sinners should have stood, carried what we could not carry, and took what we
-                  deserved. Stop minimizing sin, stop comparing yourself to others, confess it, repent, believe, and surrender.
-                  The guilt was ours, the cross was His, and Jesus took our place.
+                  Before there was Calvary, God was already teaching the language of substitution. In Genesis 22, Isaac is
+                  spared and God provides a ram in his place. In Exodus 12, the lamb dies and the household lives. Then John 1
+                  identifies Jesus as the Lamb of God. The pattern points to Christ: guilt must be dealt with, and God provides
+                  the Substitute. We cannot atone for sin through regret, religion, or self-punishment. Jesus, the righteous One,
+                  willingly stood in the place of sinners, died on the cross, and rose again. You do not have to become your own
+                  savior. God provided the Lamb. His name is Jesus. Repent, believe, trust His finished work, and live unashamed.
                 </p>
               </div>
             </article>
