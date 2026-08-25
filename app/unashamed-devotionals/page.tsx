@@ -104,8 +104,8 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Read Isaiah 53:4–6 slowly. Write down one sin or area of rebellion you have been minimizing. Name it
-                    honestly before God. Confess it, repent, and surrender that area to Jesus today.
+                    Read Genesis 22:7–14, then read John 1:29. Write down this sentence: “God provided the Lamb, and His name
+                    is Jesus.” Thank Him specifically for what He has done for you, and choose to trust His finished work today.
                   </p>
                 </div>
               </div>
