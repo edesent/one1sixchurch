@@ -47,7 +47,11 @@ export default function HaircutRegistrationPage() {
 
             <form className={styles.form} action="https://formsubmit.co/info@one1sixchurch.org" method="POST">
               <input type="hidden" name="_subject" value="New Back-to-School Haircut Registration" />
-              <input type="hidden" name="_captcha" value="false" />
+              <input
+                type="hidden"
+                name="_autoresponse"
+                value={`Blessings,\n\nThank you for registering your child for the ONE1SIX Church Back-to-School Haircut Drive. We have received your registration request.\n\nPlease remember that submitting the form does not automatically confirm a specific appointment time. Our team will contact you with your child's assigned time and final event details.\n\nEvent: Saturday, August 29, 2026 | 10:00 AM–3:00 PM\n\nONE1SIX CHURCH | UNASHAMED\nOne Church For The One, A Family For The Six.\ninfo@one1sixchurch.org\none1sixchurch.org`}
+              />
               <input type="hidden" name="_template" value="box" />
               <input type="hidden" name="_next" value="https://one1sixchurch.org/haircut-registration/thank-you" />
               <input type="hidden" name="Source" value="ONE1SIX Haircut Drive Registration Page" />
