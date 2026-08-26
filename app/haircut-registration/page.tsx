@@ -76,8 +76,8 @@ export default function HaircutRegistrationPage() {
                 </div>
 
                 <label>
-                  Email Address <span>Optional</span>
-                  <input name="Email Address" type="email" inputMode="email" autoComplete="email" />
+                  Email Address <b>*</b>
+                  <input name="email" type="email" inputMode="email" autoComplete="email" required />
                 </label>
               </fieldset>
 
