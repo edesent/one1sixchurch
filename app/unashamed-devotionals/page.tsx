@@ -121,12 +121,12 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Before there was Calvary, God was already teaching the language of substitution. In Genesis 22, Isaac is
-                  spared and God provides a ram in his place. In Exodus 12, the lamb dies and the household lives. Then John 1
-                  identifies Jesus as the Lamb of God. The pattern points to Christ: guilt must be dealt with, and God provides
-                  the Substitute. We cannot atone for sin through regret, religion, or self-punishment. Jesus, the righteous One,
-                  willingly stood in the place of sinners, died on the cross, and rose again. You do not have to become your own
-                  savior. God provided the Lamb. His name is Jesus. Repent, believe, trust His finished work, and live unashamed.
+                  The case against us was real: sin, guilt, and condemnation. But the Gospel gives believers what we could never
+                  give ourselves—justification. God does not pretend sin never happened; Jesus dealt with our guilt at the cross.
+                  The cross is where justice and mercy meet. Romans 5 teaches that, having been justified by faith, we have peace
+                  with God through Jesus Christ. Justification is not a mood; it is God's verdict in Christ. Feelings may change,
+                  shame may accuse, and the past may replay the case, but Christ's finished work does not change. If repentance is
+                  needed, repent. Do not confuse conviction with condemnation. Run to Jesus, stand on the Gospel, and live unashamed.
                 </p>
               </div>
             </article>
