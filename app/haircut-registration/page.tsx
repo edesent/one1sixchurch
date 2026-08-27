@@ -26,7 +26,7 @@ export default function HaircutRegistrationPage() {
 
             <aside className={styles.spotsCard} aria-label="Event capacity">
               <Users size={30} aria-hidden="true" />
-              <strong>19 Spots Available</strong>
+              <strong>10 Spots Available</strong>
               <span>Limited availability — registration required</span>
             </aside>
           </div>
