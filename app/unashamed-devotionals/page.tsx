@@ -96,7 +96,7 @@ export default function UnashamedDevotionalsPage() {
                     Scripture Focus
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Genesis 22:7–14 · Exodus 12:1–13 · John 1:29
+                    Romans 3:23–26 · Romans 5:1, 8–9
                   </p>
                 </div>
                 <div>
