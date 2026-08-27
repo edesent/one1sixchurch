@@ -104,8 +104,8 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Read Genesis 22:7–14, then read John 1:29. Write down this sentence: “God provided the Lamb, and His name
-                    is Jesus.” Thank Him specifically for what He has done for you, and choose to trust His finished work today.
+                    Read Romans 5:1 slowly. Write down this sentence: “JUSTIFICATION IS NOT A MOOD. IT IS GOD'S VERDICT IN
+                    CHRIST.” When shame speaks today, answer it with Scripture and stand on what Jesus has finished.
                   </p>
                 </div>
               </div>
