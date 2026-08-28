@@ -121,12 +121,12 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  The case against us was real: sin, guilt, and condemnation. But the Gospel gives believers what we could never
-                  give ourselves—justification. God does not pretend sin never happened; Jesus dealt with our guilt at the cross.
-                  The cross is where justice and mercy meet. Romans 5 teaches that, having been justified by faith, we have peace
-                  with God through Jesus Christ. Justification is not a mood; it is God's verdict in Christ. Feelings may change,
-                  shame may accuse, and the past may replay the case, but Christ's finished work does not change. If repentance is
-                  needed, repent. Do not confuse conviction with condemnation. Run to Jesus, stand on the Gospel, and live unashamed.
+                  Jesus did not open the cell so we could keep living like prisoners. First Peter 2:24 teaches that Christ bore
+                  our sins so that we might die to sin and live for righteousness. Galatians 3:13 reminds us that Christ redeemed
+                  us from the curse, and Romans 8:1 declares there is now no condemnation for those who are in Christ Jesus. Grace
+                  is not permission to go back; grace is power to walk forward. The cell may be familiar, but familiar does not
+                  mean freedom. Leave the chains, close the doorways that pull you backward, repent when you fall, keep following
+                  Jesus, and live like someone Christ has truly set free. Don't go back to the cell. Live unashamed.
                 </p>
               </div>
             </article>
