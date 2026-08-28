@@ -104,8 +104,8 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Read Romans 5:1 slowly. Write down this sentence: “JUSTIFICATION IS NOT A MOOD. IT IS GOD'S VERDICT IN
-                    CHRIST.” When shame speaks today, answer it with Scripture and stand on what Jesus has finished.
+                    Identify one doorway that keeps pulling you toward an old chain. Close it today. Delete it, block it,
+                    walk away from it, or confess it. Then read 1 Peter 2:24 and choose one practical act of obedience.
                   </p>
                 </div>
               </div>
