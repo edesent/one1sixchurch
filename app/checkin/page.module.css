@@ -1,0 +1,240 @@
+.page {
+  min-height: 100vh;
+  background: #080808;
+  color: #fff;
+}
+
+.hero {
+  padding: 72px 22px 54px;
+  background:
+    radial-gradient(circle at top right, rgba(192, 0, 0, 0.32), transparent 38%),
+    linear-gradient(135deg, #050505 0%, #111 62%, #210000 100%);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.heroInner {
+  width: min(1120px, 100%);
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1.5fr 0.8fr;
+  gap: 38px;
+  align-items: end;
+}
+
+.eyebrow,
+.kicker {
+  margin: 0 0 14px;
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  font-size: 0.78rem;
+  font-weight: 900;
+  letter-spacing: 0.16em;
+  color: #ff4242;
+}
+
+.hero h1 {
+  margin: 0;
+  max-width: 760px;
+  font-size: clamp(2.6rem, 7vw, 5.7rem);
+  line-height: 0.93;
+  letter-spacing: -0.055em;
+  text-transform: uppercase;
+}
+
+.lead {
+  max-width: 740px;
+  margin: 25px 0 8px;
+  font-size: clamp(1.05rem, 2vw, 1.3rem);
+  line-height: 1.65;
+  color: #e8e8e8;
+}
+
+.spanish {
+  max-width: 720px;
+  margin: 0;
+  line-height: 1.55;
+  color: #aaa;
+}
+
+.eventCard {
+  padding: 25px;
+  border: 1px solid rgba(255,255,255,.15);
+  border-radius: 20px;
+  background: rgba(255,255,255,.055);
+  backdrop-filter: blur(10px);
+}
+
+.eventCard div {
+  display: flex;
+  gap: 13px;
+  align-items: flex-start;
+  padding: 10px 0;
+  font-weight: 750;
+  line-height: 1.45;
+}
+
+.eventCard svg {
+  flex: 0 0 auto;
+  color: #ff3030;
+}
+
+.checkinSection {
+  padding: 55px 20px 80px;
+  background: #f2f2f2;
+  color: #111;
+}
+
+.formCard {
+  width: min(820px, 100%);
+  margin: 0 auto;
+  overflow: hidden;
+  border-radius: 24px;
+  background: #fff;
+  box-shadow: 0 28px 90px rgba(0,0,0,.18);
+}
+
+.formIntro {
+  padding: 34px 34px 25px;
+  border-bottom: 1px solid #e7e7e7;
+}
+
+.formIntro h2 {
+  margin: 0 0 12px;
+  font-size: clamp(2rem, 4.5vw, 3rem);
+  line-height: 1;
+  letter-spacing: -0.04em;
+  text-transform: uppercase;
+}
+
+.formIntro p:last-child {
+  margin: 0;
+  color: #5a5a5a;
+  line-height: 1.6;
+}
+
+.form {
+  padding: 32px 34px 36px;
+  display: grid;
+  gap: 23px;
+}
+
+.form label {
+  display: grid;
+  gap: 7px;
+  font-size: 0.96rem;
+  font-weight: 850;
+}
+
+.form label > span {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #777;
+}
+
+.form b {
+  color: #c40000;
+}
+
+.form input,
+.form select {
+  width: 100%;
+  min-height: 53px;
+  padding: 0 14px;
+  border: 1px solid #cfcfcf;
+  border-radius: 10px;
+  background: #fff;
+  color: #111;
+  font: inherit;
+  font-weight: 650;
+  outline: none;
+}
+
+.form input:focus,
+.form select:focus {
+  border-color: #b50000;
+  box-shadow: 0 0 0 3px rgba(181,0,0,.11);
+}
+
+.twoColumns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+}
+
+.confirmation {
+  grid-template-columns: auto 1fr;
+  align-items: flex-start;
+  gap: 12px !important;
+  padding: 18px;
+  border: 1px solid #e3e3e3;
+  border-radius: 12px;
+  background: #fafafa;
+}
+
+.confirmation input {
+  width: 19px;
+  min-height: 19px;
+  margin-top: 2px;
+}
+
+.confirmation span {
+  color: #333 !important;
+  font-size: .9rem !important;
+  line-height: 1.5;
+}
+
+.submitButton {
+  min-height: 58px;
+  border: 0;
+  border-radius: 11px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  background: #b90000;
+  color: #fff;
+  font: inherit;
+  font-size: 1rem;
+  font-weight: 950;
+  letter-spacing: .04em;
+  cursor: pointer;
+  transition: transform .15s ease, background .15s ease;
+}
+
+.submitButton:hover {
+  background: #d00000;
+  transform: translateY(-1px);
+}
+
+.privacyNote {
+  margin: -3px 0 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  color: #777;
+  font-size: .79rem;
+  text-align: center;
+}
+
+@media (max-width: 760px) {
+  .hero {
+    padding-top: 52px;
+  }
+
+  .heroInner,
+  .twoColumns {
+    grid-template-columns: 1fr;
+  }
+
+  .heroInner {
+    gap: 28px;
+  }
+
+  .formIntro,
+  .form {
+    padding-left: 21px;
+    padding-right: 21px;
+  }
+}
