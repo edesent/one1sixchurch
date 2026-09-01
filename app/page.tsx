@@ -60,7 +60,7 @@ export default function Home() {
             <div className="editorial-hero-bottom">
               <p>Authentic Faith · Fearless Love · Unwavering Devotion To Christ</p>
               <div className="editorial-actions">
-                <Link className="editorial-button editorial-button-red" href="/contact-us">
+                <Link className="editorial-button editorial-button-red" href="/start-here">
                   Plan Your Visit <ArrowRight size={19} />
                 </Link>
                 <Link className="editorial-button editorial-button-line" href="/unashamed-devotionals">
@@ -113,7 +113,7 @@ export default function Home() {
               We are unashamed of the Gospel of Jesus Christ. We exist to reach the one, welcome the six, and build disciples who refuse to hide their faith.
             </p>
             <p className="editorial-slogan">One Church For The One, A Family For The Six.</p>
-            <Link className="editorial-button editorial-button-red" href="/contact-us">
+            <Link className="editorial-button editorial-button-red" href="/start-here">
               Connect With Us <ArrowRight size={19} />
             </Link>
           </div>
