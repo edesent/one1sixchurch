@@ -51,7 +51,7 @@ export default function WhoIs116Page() {
             <p className="ois-slogan">One Church For The One, A Family For The Six.</p>
 
             <div className="ois-actions">
-              <Link className="outline-button" href="/contact-us">
+              <Link className="outline-button" href="/start-here">
                 Plan Your Visit <ArrowRight size={18} />
               </Link>
               <Link className="red-button" href="/unashamed-devotionals">
