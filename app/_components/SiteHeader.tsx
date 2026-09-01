@@ -12,7 +12,7 @@ const navItems = [
   { label: "Our Leaders", href: "/our-leaders" },
   { label: "Our Beliefs", href: "/the-foundation" },
   { label: "Devotionals", href: "/unashamed-devotionals" },
-  { label: "Connect", href: "/contact-us" },
+  { label: "Start Here", href: "/start-here" },
 ];
 
 function FacebookIcon() {
