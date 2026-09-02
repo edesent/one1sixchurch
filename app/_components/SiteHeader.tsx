@@ -8,11 +8,12 @@ import { useEffect, useState } from "react";
 
 const navItems = [
   { label: "Home", href: "/" },
+  { label: "Visit", href: "/plan-your-visit" },
+  { label: "Start Here", href: "/start-here" },
   { label: "Who We Are", href: "/who-is-116" },
   { label: "Our Leaders", href: "/our-leaders" },
   { label: "Our Beliefs", href: "/the-foundation" },
   { label: "Devotionals", href: "/unashamed-devotionals" },
-  { label: "Start Here", href: "/start-here" },
 ];
 
 function FacebookIcon() {
