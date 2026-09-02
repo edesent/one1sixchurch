@@ -77,10 +77,10 @@ export function SiteFooter() {
             <p>Sundays at 1:00 PM</p>
           </div>
           <div>
-            <h3>Location</h3>
-            <p>
-              <MapPin size={18} /> Currently gathering in Worcester, MA
-            </p>
+            <h3>Plan Your Visit</h3>
+            <a href="/plan-your-visit">
+              <MapPin size={18} /> Sunday details in Worcester, MA
+            </a>
           </div>
         </div>
       </div>
