@@ -371,6 +371,5 @@
   .photoPair { min-height: 360px; }
   .photoMain { inset: 0 7% 7% 0; }
   .photoInset { width: 44%; height: 38%; border-width: 5px; }
-  .photoMark { top: 12px; font-size: 1rem; padding: 8px 11px; }
   .directory { padding-left: 14px; padding-right: 14px; }
 }
