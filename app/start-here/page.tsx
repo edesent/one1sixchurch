@@ -156,7 +156,6 @@ export default function StartHerePage() {
                 sizes="(max-width: 900px) 48vw, 19vw"
               />
             </div>
-            <div className={styles.photoMark}>1<span>✝</span>6</div>
           </div>
         </section>
 
