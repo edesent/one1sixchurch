@@ -44,7 +44,7 @@ export default function Home() {
         <section className={styles.hero}>
           <Image
             className={styles.heroImage}
-            src="/homepage-worship-sanctuary.jpg"
+            src="/homepage-worship-sanctuary-v2.jpg"
             alt="ONE1SIX Church worship gathering in Worcester"
             fill
             priority
