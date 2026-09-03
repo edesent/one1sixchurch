@@ -91,8 +91,8 @@ export default function PlanYourVisitPage() {
               <p className={styles.label}>LET US EXPECT YOU</p>
               <h2>YOU WILL NOT WALK IN <span>ALONE.</span></h2>
               <p>
-                Send us your name and the best way to reach you. We will reply with the confirmed
-                location and anything you need for your first Sunday.
+                Send us your name and the best way to reach you. We will personally welcome you
+                and help with anything you need for your first Sunday.
               </p>
               <p className={styles.direct}>
                 Prefer to email? <a href="mailto:info@one1sixchurch.org?subject=Planning%20My%20Visit">info@one1sixchurch.org</a>
