@@ -132,6 +132,12 @@ export default async function TapPage({
           <Link className={styles.visitButton} href="/plan-your-visit">
             <CalendarDays size={21} />{text.visit}<ArrowUpRight size={20} />
           </Link>
+          <div className={styles.serviceDetails}>
+            <strong>{text.schedule}</strong>
+            <a href="https://www.google.com/maps/search/?api=1&query=1048+Main+St+Worcester+MA+01603" target="_blank" rel="noreferrer">
+              {text.address} <ArrowUpRight size={14} />
+            </a>
+          </div>
         </div>
       </section>
 
