@@ -11,7 +11,7 @@ const steps = [
   { title:"Devotionals", copy:"Grow deeper in Scripture through our UNASHAMED devotional series.", href:"/unashamed-devotionals", icon:BookOpen },
   { title:"Groups", copy:"Find community, discipleship, and people who will walk with you.", href:"mailto:info@one1sixchurch.org?subject=ONE1SIX%20Groups", icon:Users },
   { title:"Give", copy:"Partner with the mission as we proclaim the Gospel and serve Worcester.", href:"https://venmo.com/u/One1SixChurch", icon:CircleDollarSign, external:true },
-  { title:"Outreach", copy:"See how ONE1SIX carries the love of Jesus beyond the walls.", href:"/meals-of-love", icon:HandHeart },
+  { title:"Outreach", copy:"Join Outreach Night every Tuesday from 7:00 PM to 8:00 PM.", href:"/meals-of-love", icon:HandHeart },
   { title:"Watch + Listen", copy:"Watch sermons, devotionals, worship moments, and ministry content.", href:"https://youtube.com/@one1sixchurch", icon:PlayCircle, external:true },
 ];
 
