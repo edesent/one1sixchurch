@@ -71,8 +71,8 @@ export default function Home() {
             </div>
           </div>
           <div className={styles.gatherBar}>
-            <p><span>Gather With Us</span><strong>Sundays · 1:00 PM</strong></p>
-            <p><MapPin size={18} /> Worcester, Massachusetts</p>
+            <p><span>Gather With Us</span><strong>Sundays · 4:30 PM–6:00 PM</strong></p>
+            <p><MapPin size={18} /> 1048 Main St · Worcester, MA 01603</p>
             <Link href="/plan-your-visit">Get Visit Details <ArrowRight size={17} /></Link>
           </div>
         </section>
