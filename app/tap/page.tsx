@@ -25,6 +25,7 @@ const copy = {
     visit: "Join Us This Sunday",
     schedule: "Sundays · 4:30 PM–6:00 PM",
     outreach: "Tuesdays · Outreach Night · 7:00 PM–8:00 PM",
+    bibleStudy: "Wednesdays · Bible Study · 7:00 PM–8:00 PM",
     address: "1048 Main St · Worcester, MA 01603",
     directory: "ONE1SIX DIRECTORY",
     what: "WHAT DO YOU NEED",
