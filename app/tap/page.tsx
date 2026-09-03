@@ -56,18 +56,18 @@ const primaryLinks = [
 const socialLinks = [
   {
     label: "Instagram",
+    shortLabel: "IG",
     href: "https://www.instagram.com/one1sixchurch",
-    icon: Instagram,
   },
   {
     label: "YouTube",
+    shortLabel: "YT",
     href: "https://youtube.com/@one1sixchurch",
-    icon: Youtube,
   },
   {
     label: "TikTok",
+    shortLabel: "TT",
     href: "https://www.tiktok.com/@one1sixchurch",
-    icon: Play,
   },
 ];
 
