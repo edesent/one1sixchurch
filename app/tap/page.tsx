@@ -76,6 +76,7 @@ const copy = {
 } as const;
 
 const links = [
+  { href: "/first-time", icon: MessageCircleHeart },
   { href: "/plan-your-visit", icon: CalendarDays },
   { href: "/#prayer", icon: HeartHandshake },
   { href: "mailto:info@one1sixchurch.org?subject=ONE1SIX%20Groups", icon: Users },
