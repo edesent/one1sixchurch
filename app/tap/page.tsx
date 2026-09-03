@@ -64,6 +64,7 @@ const copy = {
     giveLabel: "OFRENDA · APOYA LA MISIÓN",
     giveCopy: "Ofrenda de forma segura por Venmo",
     links: [
+      ["Primera Vez Aquí", "Cuéntanos quién eres y escoge tu próximo paso."],
       ["Planifica Tu Visita", "Todo lo que necesitas para tu primer domingo."],
       ["Oración", "Permite que nuestra familia de fe ore contigo."],
       ["Grupos", "Encuentra comunidad y crezcamos juntos."],
