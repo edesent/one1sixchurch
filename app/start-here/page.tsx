@@ -10,7 +10,7 @@ const steps = [
   { title:"Prayer", copy:"Share what you are carrying and let our church family stand with you.", href:"/#prayer", icon:HeartHandshake },
   { title:"Devotionals", copy:"Grow deeper in Scripture through our UNASHAMED devotional series.", href:"/unashamed-devotionals", icon:BookOpen },
   { title:"Groups", copy:"Find community, discipleship, and people who will walk with you.", href:"mailto:info@one1sixchurch.org?subject=ONE1SIX%20Groups", icon:Users },
-  { title:"Give", copy:"Partner with the mission as we proclaim the Gospel and serve Worcester.", href:"https://venmo.com/u/JBLESSED3", icon:CircleDollarSign, external:true },
+  { title:"Give", copy:"Partner with the mission as we proclaim the Gospel and serve Worcester.", href:"https://venmo.com/u/One1SixChurch", icon:CircleDollarSign, external:true },
   { title:"Outreach", copy:"See how ONE1SIX carries the love of Jesus beyond the walls.", href:"/meals-of-love", icon:HandHeart },
   { title:"Watch + Listen", copy:"Watch sermons, devotionals, worship moments, and ministry content.", href:"https://youtube.com/@one1sixchurch", icon:PlayCircle, external:true },
 ];
