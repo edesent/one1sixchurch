@@ -11,7 +11,7 @@ const expectations = [
   {
     icon: Clock3,
     title: "When We Gather",
-    copy: "Sunday worship is from 4:30 PM to 6:00 PM. Outreach Night is every Tuesday from 7:00 PM to 8:00 PM.",
+    copy: "Sunday worship is from 4:30 PM to 6:00 PM. Outreach Night is Tuesday from 7:00 PM to 8:00 PM, and Bible Study is Wednesday from 7:00 PM to 8:00 PM.",
   },
   {
     icon: MapPin,
