@@ -25,7 +25,7 @@ export default function ContactUsPage() {
             <div className="contact-page-copy">
               <p className="eyebrow">Connect With ONE1SIX</p>
               <h2>Send us a message.</h2>
-              <p>Use the form below for prayer, questions, or this week&apos;s gathering location.</p>
+              <p>Use the form below for prayer, questions, or help planning your visit.</p>
             </div>
             <ContactForm source="Contact Us Page" />
           </div>
