@@ -16,7 +16,7 @@ const expectations = [
   {
     icon: MapPin,
     title: "Where We Gather",
-    copy: "We gather in Worcester, Massachusetts. As ONE1SIX transitions into its church home, contact us for this Sunday’s confirmed address and entrance details.",
+    copy: "We gather at 1048 Main St, Worcester, MA 01603. Tap the address below for directions to our church home.",
   },
   {
     icon: Shirt,
