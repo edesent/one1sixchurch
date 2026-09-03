@@ -35,6 +35,7 @@ const copy = {
     giveLabel: "GIVE · SUPPORT THE MISSION",
     giveCopy: "Give securely through Venmo",
     links: [
+      ["First Time Here", "Tell us who you are and choose your next step."],
       ["Plan Your Visit", "Everything you need for your first Sunday."],
       ["Prayer", "Let our church family stand with you."],
       ["Groups", "Find community and grow together."],
