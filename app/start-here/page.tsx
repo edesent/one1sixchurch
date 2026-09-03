@@ -39,7 +39,7 @@ export default function StartHerePage(){
           <Sparkles size={32} strokeWidth={1.8} />
           <p className={styles.label}>NEW TO ONE1SIX?</p>
           <h2>YOUR FIRST VISIT<br /><span>STARTS HERE.</span></h2>
-          <p>Find the Sunday time, current location process, what to expect, and how we will personally welcome you.</p>
+          <p>Find our Sunday schedule, 1048 Main St location, what to expect, and how we will personally welcome you.</p>
         </div>
         <Link href="/plan-your-visit">Plan Your Visit <ArrowRight size={19} /></Link>
       </section>
