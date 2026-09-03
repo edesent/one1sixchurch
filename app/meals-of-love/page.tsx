@@ -100,7 +100,7 @@ export default function MealsOfLovePage() {
                 </p>
                 <a
                   className="mol-venmo-button"
-                  href="https://venmo.com/u/JBLESSED3"
+                  href="https://venmo.com/u/One1SixChurch"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -217,7 +217,7 @@ export default function MealsOfLovePage() {
                     <h3>{level.title}</h3>
                     <p>{level.copy}</p>
                     <a
-                      href="https://venmo.com/u/JBLESSED3"
+                      href="https://venmo.com/u/One1SixChurch"
                       target="_blank"
                       rel="noreferrer"
                     >
@@ -238,7 +238,7 @@ export default function MealsOfLovePage() {
               </div>
               <a
                 className="mol-outline-button"
-                href="https://venmo.com/u/JBLESSED3"
+                href="https://venmo.com/u/One1SixChurch"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -259,7 +259,7 @@ export default function MealsOfLovePage() {
             </p>
             <a
               className="mol-venmo-button mol-final-button"
-              href="https://venmo.com/u/JBLESSED3"
+              href="https://venmo.com/u/One1SixChurch"
               target="_blank"
               rel="noreferrer"
             >
