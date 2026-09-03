@@ -11,7 +11,7 @@ const expectations = [
   {
     icon: Clock3,
     title: "When We Gather",
-    copy: "Our Sunday gathering begins at 1:00 PM. Arriving a few minutes early gives us time to welcome you personally.",
+    copy: "Our Sunday gathering is from 4:30 PM to 6:00 PM. Arriving a few minutes early gives us time to welcome you personally.",
   },
   {
     icon: MapPin,
