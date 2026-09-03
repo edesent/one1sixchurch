@@ -76,6 +76,7 @@ export function SiteFooter() {
             <h3>Service Times</h3>
             <p>Sundays · 4:30 PM–6:00 PM</p>
             <p>Tuesdays · Outreach Night · 7:00 PM–8:00 PM</p>
+            <p>Wednesdays · Bible Study · 7:00 PM–8:00 PM</p>
           </div>
           <div>
             <h3>Plan Your Visit</h3>
