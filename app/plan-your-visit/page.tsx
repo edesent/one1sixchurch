@@ -60,7 +60,7 @@ export default function PlanYourVisitPage() {
         <section className={styles.quickFacts}>
           <div><span>Sunday Gathering</span><strong>4:30 PM–6:00 PM</strong></div>
           <div><span>Location</span><a href="https://www.google.com/maps/search/?api=1&query=1048+Main+St+Worcester+MA+01603" target="_blank" rel="noreferrer">1048 Main St, Worcester, MA 01603</a></div>
-          <div><span>Questions?</span><a href="tel:+17743861924">774.386.1924</a></div>
+          <div><span>Tuesday Outreach Night</span><strong>7:00 PM–8:00 PM</strong></div>
         </section>
 
         <section className={styles.expect}>
