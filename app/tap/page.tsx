@@ -51,6 +51,7 @@ const copy = {
       "Ya sea tu primera visita o estés listo para tu próximo paso con Jesús—aquí hay un lugar para ti.",
     visit: "Acompáñanos Este Domingo",
     schedule: "Domingos · 4:30 PM–6:00 PM",
+    outreach: "Martes · Outreach Night · 7:00 PM–8:00 PM",
     address: "1048 Main St · Worcester, MA 01603",
     directory: "DIRECTORIO ONE1SIX",
     what: "¿QUÉ NECESITAS",
