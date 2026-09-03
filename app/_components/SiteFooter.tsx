@@ -74,7 +74,7 @@ export function SiteFooter() {
           </div>
           <div>
             <h3>Service Times</h3>
-            <p>Sundays at 1:00 PM</p>
+            <p>Sundays · 4:30 PM–6:00 PM</p>
           </div>
           <div>
             <h3>Plan Your Visit</h3>
