@@ -15,7 +15,7 @@ export default function ContactUsPage() {
           <div className="subpage-content">
             <p className="eyebrow">Contact Us</p>
             <h1>Need prayer, have questions, or want to plan your visit?</h1>
-            <p>Gather with us Sundays from 4:30 PM to 6:00 PM at 1048 Main St, Worcester, MA 01603.</p>
+            <p>Gather with us Sundays from 4:30 PM to 6:00 PM and Tuesdays for Outreach Night from 7:00 PM to 8:00 PM at 1048 Main St, Worcester, MA 01603.</p>
             <p>Email info@one1sixchurch.org or call/text 774.386.1924 to plan your visit, send a prayer request, ask a question, or take your next step.</p>
           </div>
         </section>
