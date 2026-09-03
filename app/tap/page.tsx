@@ -190,9 +190,9 @@ export default function TapPage() {
 
       <footer className={styles.footer}>
         <div className={styles.socials}>
-          {socialLinks.map(({ label, href, icon: Icon }) => (
+          {socialLinks.map(({ label, shortLabel, href }) => (
             <a href={href} target="_blank" rel="noreferrer" aria-label={label} key={label}>
-              <Icon size={21} />
+              <span>{shortLabel}</span>
             </a>
           ))}
         </div>
