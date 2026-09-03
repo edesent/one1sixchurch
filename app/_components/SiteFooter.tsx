@@ -79,7 +79,7 @@ export function SiteFooter() {
           <div>
             <h3>Plan Your Visit</h3>
             <a href="/plan-your-visit">
-              <MapPin size={18} /> Sunday details in Worcester, MA
+              <MapPin size={18} /> 1048 Main St, Worcester, MA 01603
             </a>
           </div>
         </div>
