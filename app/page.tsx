@@ -71,7 +71,7 @@ export default function Home() {
             </div>
           </div>
           <div className={styles.gatherBar}>
-            <p><span>Weekly Gatherings</span><strong>Sundays · 4:30–6:00 PM<br />Tuesdays · Outreach Night · 7:00–8:00 PM</strong></p>
+            <p><span>Weekly Gatherings</span><strong>Sundays · 4:30–6:00 PM<br />Tuesdays · Outreach Night · 7:00–8:00 PM<br />Wednesdays · Bible Study · 7:00–8:00 PM</strong></p>
             <p><MapPin size={18} /> 1048 Main St · Worcester, MA 01603</p>
             <Link href="/plan-your-visit">Get Visit Details <ArrowRight size={17} /></Link>
           </div>
