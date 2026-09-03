@@ -155,7 +155,7 @@ export default async function TapPage({
         </div>
 
         <a className={styles.giveCard} href="https://venmo.com/u/One1SixChurch" target="_blank" rel="noreferrer">
-          <span classCircleDollarSign size={27} />
+          <CircleDollarSign size={27} />
           <span><small>{text.giveLabel}</small><strong>@One1SixChurch</strong><em>{text.giveCopy}</em></span>
           <ArrowUpRight size={22} />
         </a>
