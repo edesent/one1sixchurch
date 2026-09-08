@@ -131,25 +131,20 @@ export default function Home() {
         </section>
 
         <section className={styles.life}>
-          <div className={styles.lifeShade} />
-          <Image
-            className={styles.lifeImage}
-            src="/authentic-faith.png"
-            alt="Faith and worship at ONE1SIX Church"
-            fill
-            sizes="100vw"
-          />
-          <div className={styles.lifeInner}>
-            <p className={styles.label}>THIS IS CHURCH TOO</p>
-            <h2>FAITH THAT LEAVES<br /><span>THE BUILDING.</span></h2>
-            <p>
-              We believe the Gospel must be seen as well as heard. ONE1SIX serves Worcester through
-              meals, prayer, outreach, generosity, and the faithful presence of people who love Jesus.
-            </p>
-            <Link className={styles.primaryButton} href="/meals-of-love">
-              See Our Outreach <ArrowRight size={19} />
-            </Link>
-          </div>
+          <Link
+            className={styles.lifeArtworkLink}
+            href="/meals-of-love"
+            aria-label="See ONE1SIX Church outreach and Meals of Love"
+          >
+            <Image
+              className={styles.lifeArtwork}
+              src="/11191.png"
+              alt="ONE1SIX Church outreach: Faith That Leaves The Building"
+              width={1672}
+              height={941}
+              sizes="100vw"
+            />
+          </Link>
         </section>
 
         <section className={styles.foundation}>
