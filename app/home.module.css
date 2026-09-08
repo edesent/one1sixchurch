@@ -39,13 +39,9 @@
 .stepCard h3 { margin:50px 0 0; font-family:var(--font-outfit),Arial,sans-serif; font-size:1.75rem; line-height:1; text-transform:uppercase; }
 .stepCard p { margin:16px 0 0; color:rgba(255,255,255,.58); line-height:1.65; }
 .stepCard span { display:flex; align-items:center; gap:7px; margin-top:auto; padding-top:28px; color:#fff; font-family:var(--font-outfit),Arial,sans-serif; font-size:.76rem; font-weight:800; letter-spacing:.07em; text-transform:uppercase; }
-.life { position:relative; isolation:isolate; display:grid; align-items:center; min-height:720px; }
-.lifeImage { z-index:-3; object-fit:cover; object-position:center; }
-.lifeShade { position:absolute; inset:0; z-index:-2; background:linear-gradient(90deg,rgba(0,0,0,.95),rgba(0,0,0,.68) 55%,rgba(0,0,0,.25)); }
-.lifeInner { width:min(1240px,calc(100% - 40px)); margin:0 auto; padding:100px 0; }
-.life h2 { max-width:850px; }
-.lifeInner>p:not(.label) { max-width:620px; margin:27px 0 0; color:rgba(255,255,255,.76); font-size:1.06rem; line-height:1.75; }
-.life .primaryButton { margin-top:32px; }
+.life { position:relative; background:#050505; line-height:0; }
+.lifeArtworkLink { display:block; width:100%; }
+.lifeArtwork { display:block; width:100%; height:auto; }
 .foundation { display:grid; grid-template-columns:1fr 1fr; gap:clamp(45px,8vw,120px); width:min(1180px,calc(100% - 40px)); margin:0 auto; padding:clamp(95px,12vw,170px) 0; }
 .foundation h2 { max-width:650px; }
 .foundation>div:last-child { align-self:end; }
