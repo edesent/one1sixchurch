@@ -28,7 +28,7 @@ const copy = {
     prayerAction: "REQUEST PRAYER",
     giveTitle: "GIVE",
     giveCopy: "Support the mission of ONE1SIX.",
-    giveAction: "@ONE1SIXCHURCH",
+    giveAction: "GIVING CENTER",
     growTitle: "GROW + CONNECT",
     growCopy: "Find community and grow in the Word.",
     groups: "GROUPS",
