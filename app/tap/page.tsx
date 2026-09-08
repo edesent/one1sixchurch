@@ -137,7 +137,7 @@ export default async function TapPage({
             <span className={styles.icon}><CircleDollarSign size={23} /></span>
             <div className={styles.copy}><strong>{text.giveTitle}</strong><small>{text.giveCopy}</small></div>
             <div className={styles.actions}>
-              <a href="https://venmo.com/u/One1SixChurch" target="_blank" rel="noreferrer">{text.giveAction}<ArrowUpRight size={13} /></a>
+              <Link href={`/give${langQuery}`}>{text.giveAction}<ArrowUpRight size={13} /></Link>
             </div>
           </article>
 
