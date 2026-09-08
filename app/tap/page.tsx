@@ -57,7 +57,7 @@ const copy = {
     prayerAction: "PEDIR ORACIÓN",
     giveTitle: "DAR",
     giveCopy: "Apoya la misión de ONE1SIX.",
-    giveAction: "@ONE1SIXCHURCH",
+    giveAction: "CENTRO DE OFRENDAS",
     growTitle: "CRECE + CONÉCTATE",
     growCopy: "Encuentra comunidad y crece en la Palabra.",
     groups: "GRUPOS",
