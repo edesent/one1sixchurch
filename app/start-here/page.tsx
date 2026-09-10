@@ -37,11 +37,11 @@ export default function StartHerePage(){
       <section className={styles.firstVisit}>
         <div>
           <Sparkles size={32} strokeWidth={1.8} />
-          <p className={styles.label}>NEW TO ONE1SIX?</p>
-          <h2>YOUR FIRST VISIT<br /><span>STARTS HERE.</span></h2>
-          <p>Find our Sunday schedule, 1048 Main St location, what to expect, and how we will personally welcome you.</p>
+          <p className={styles.label}>WELCOME HOME / BIENVENIDO A CASA</p>
+          <h2>LET'S GET<br /><span>CONNECTED.</span></h2>
+          <p>Complete our bilingual Digital Connection Card so we can welcome you, pray with you, and help you take your next step with Jesus.</p>
         </div>
-        <Link href="/first-time">First Time Here <ArrowRight size={19} /></Link>
+        <Link href="/first-time">Open Connection Card <ArrowRight size={19} /></Link>
       </section>
 
       <section className={styles.directory}>
