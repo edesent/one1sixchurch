@@ -29,6 +29,7 @@ const copy = {
     giveTitle: "GIVE",
     giveCopy: "Support the mission of ONE1SIX.",
     giveAction: "GIVING CENTER",
+    textGiving: "TEXT TO GIVE · (833) 680-2135",
     growTitle: "GROW + CONNECT",
     growCopy: "Find community and grow in the Word.",
     groups: "GROUPS",
