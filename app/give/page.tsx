@@ -133,13 +133,9 @@ export default async function GivePage({
               <h2>{text.handle}</h2>
               <span>{text.giveNowCopy}</span>
             </div>
-            <button
-              className={`tithely-give-button ${styles.tithelyButton}`}
-              data-form="70a68a4d-2f9e-40fd-a859-672fa486a22f"
-              type="button"
-            >
+            <a href="https://give.tithe.ly/?formId=70a68a4d-2f9e-40fd-a859-672fa486a22f" target="_blank" rel="noreferrer">
               {text.giveAction}<ArrowUpRight size={17} />
-            </button>
+            </a>
           </article>
 
           <article className={styles.actionCard}>
