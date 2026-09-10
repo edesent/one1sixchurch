@@ -145,7 +145,7 @@ export default async function GivePage({
               <h2>ONE1SIX GIVING</h2>
               <span>{text.recurringCopy}</span>
             </div>
-            <a href="sms:+18336802135?body=GIVE">
+            <a href="sms:+18336802135">
               {text.recurringAction}<ArrowUpRight size={17} />
             </a>
           </article>
