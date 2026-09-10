@@ -139,7 +139,7 @@ export default async function TapPage({
             <span className={styles.icon}><CircleDollarSign size={23} /></span>
             <div className={styles.copy}><strong>{text.giveTitle}</strong><small>{text.giveCopy}</small></div>
             <div className={styles.actions}>
-              <Link href={`/give${langQuery}`}>{text.giveAction}<ArrowUpRight size={13} /></Link>
+              <a href="https://give.tithe.ly/?formId=70a68a4d-2f9e-40fd-a859-672fa486a22f" target="_blank" rel="noreferrer">{text.giveAction}<ArrowUpRight size={13} /></a>
               <a href="sms:+18336802135?body=GIVE">{text.textGiving}<ArrowUpRight size={13} /></a>
             </div>
           </article>
