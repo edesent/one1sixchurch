@@ -66,7 +66,7 @@ const copy = {
     outreachCopy: "Nos ayuda a servir nuestra ciudad con comida, oración, ayuda práctica y el Evangelio.",
     future: "FUTURO + EDIFICIO",
     futureCopy: "Ayuda a prepararnos para crecimiento, recursos de ministerio y futuras necesidades de instalaciones.",
-    note: "Al dar por Venmo, puedes escribir el propósito de tu ofrenda en el memo.",
+    note: "Usa nuestro formulario seguro de Tithe.ly para ofrendas únicas o recurrentes, o envía un texto al (833) 680-2135.",
     why: "POR QUÉ DAMOS",
     verse: "Cada uno dé como propuso en su corazón: no con tristeza, ni por necesidad, porque Dios ama al dador alegre.",
     reference: "2 CORINTIOS 9:7",
