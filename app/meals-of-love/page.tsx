@@ -105,7 +105,7 @@ export default function MealsOfLovePage() {
                 <p className="mol-card-eyebrow">BE PART OF THE MISSION</p>
                 <h2>Your generosity helps love show up.</h2>
                 <p>
-                  Give securely through Venmo to <strong>@JBLESSED3</strong>. Please include
+                  Give securely through Venmo to <strong>@One1SixChurch</strong>. Please include
                   <strong> “100 Meals of Love”</strong> in the payment note.
                 </p>
                 <a
@@ -118,7 +118,7 @@ export default function MealsOfLovePage() {
                 </a>
                 <div className="mol-handle">
                   <span>VENMO</span>
-                  <strong>@JBLESSED3</strong>
+                  <strong>@One1SixChurch</strong>
                 </div>
                 <p className="mol-small-note">
                   For giving records or questions, contact info@one1sixchurch.org.
@@ -278,7 +278,7 @@ export default function MealsOfLovePage() {
                 target="_blank"
                 rel="noreferrer"
               >
-                Open Venmo @JBLESSED3
+                Open Venmo @One1SixChurch
               </a>
             </div>
           </div>
