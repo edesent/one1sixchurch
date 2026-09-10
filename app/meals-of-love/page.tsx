@@ -170,6 +170,32 @@ export default function MealsOfLovePage() {
           </div>
         </section>
 
+        <section className="mol-story-section">
+          <div className="mol-section-shell">
+            <div className="mol-story-heading">
+              <div>
+                <p className="mol-section-label">THIS IS CHURCH TOO</p>
+                <h2>Prepared with love.<br /><span>Served with dignity.</span></h2>
+              </div>
+              <p>Every bag, every pot, and every meal represents a real person who deserves to be seen, loved, and reminded that Jesus has not forgotten them.</p>
+            </div>
+            <div className="mol-photo-grid">
+              <figure className="mol-photo-feature">
+                <Image src="/meals-of-love-volunteers-packing.jpg" alt="ONE1SIX volunteers packing meals" fill sizes="(max-width: 680px) 100vw, 58vw" />
+                <figcaption>Hands ready to serve.</figcaption>
+              </figure>
+              <figure>
+                <Image src="/meals-of-love-preparing-food.jpg" alt="A ONE1SIX volunteer preparing hot food" fill sizes="(max-width: 680px) 100vw, 42vw" />
+                <figcaption>Made with care.</figcaption>
+              </figure>
+              <figure>
+                <Image src="/meals-of-love-hot-meals.jpg" alt="Hot meals prepared for the Worcester community" fill sizes="(max-width: 680px) 100vw, 42vw" />
+                <figcaption>Real meals. Real love.</figcaption>
+              </figure>
+            </div>
+          </div>
+        </section>
+
         <section className="mol-impact-section">
           <div className="mol-section-shell">
             <div className="mol-impact-heading">
