@@ -134,9 +134,13 @@ export default async function GivePage({
               <h2>{text.handle}</h2>
               <span>{text.giveNowCopy}</span>
             </div>
-            <a href="https://venmo.com/u/One1SixChurch" target="_blank" rel="noreferrer">
+            <button
+              className={`tithely-give-button ${styles.tithelyButton}`}
+              data-form="70a68a4d-2f9e-40fd-a859-672fa486a22f"
+              type="button"
+            >
               {text.giveAction}<ArrowUpRight size={17} />
-            </a>
+            </button>
           </article>
 
           <article className={styles.actionCard}>
