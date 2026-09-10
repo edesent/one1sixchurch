@@ -59,6 +59,7 @@ const copy = {
     giveTitle: "DAR",
     giveCopy: "Apoya la misión de ONE1SIX.",
     giveAction: "CENTRO DE OFRENDAS",
+    textGiving: "TEXT PARA DAR · (833) 680-2135",
     growTitle: "CRECE + CONÉCTATE",
     growCopy: "Encuentra comunidad y crece en la Palabra.",
     groups: "GRUPOS",
