@@ -58,6 +58,15 @@ export default function MealsOfLovePage() {
       <SiteHeader />
       <main className="mol-page">
         <section className="mol-hero">
+          <Image
+            className="mol-hero-photo"
+            src="/meals-of-love-volunteers-packing.jpg"
+            alt="ONE1SIX Church volunteers preparing meals for Worcester neighbors"
+            fill
+            priority
+            sizes="100vw"
+          />
+          <div className="mol-hero-photo-shade" aria-hidden="true" />
           <div className="mol-grain" aria-hidden="true" />
           <div className="mol-hero-inner">
             <div className="mol-brand-lockup">
