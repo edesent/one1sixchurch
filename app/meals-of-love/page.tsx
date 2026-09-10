@@ -11,6 +11,7 @@ import Image from "next/image";
 
 import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
+import "./meals-of-love.css";
 
 const GOAL = 3000;
 const RAISED = 0;
