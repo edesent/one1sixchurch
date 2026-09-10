@@ -10,7 +10,7 @@ const steps = [
   { title:"Prayer", copy:"Share what you are carrying and let our church family stand with you.", href:"/#prayer", icon:HeartHandshake },
   { title:"Devotionals", copy:"Grow in the Word through UNASHAMED devotionals and Wednesday Bible Study from 7:00 PM to 8:00 PM.", href:"/unashamed-devotionals", icon:BookOpen },
   { title:"Groups", copy:"Find community, discipleship, and people who will walk with you.", href:"mailto:info@one1sixchurch.org?subject=ONE1SIX%20Groups", icon:Users },
-  { title:"Give", copy:"Give securely through Tithe.ly or use Text Giving to support the mission of ONE1SIX.", href:"/give", icon:CircleDollarSign },
+  { title:"Give", copy:"Give securely through Tithe.ly or use Text Giving to support the mission of ONE1SIX.", href:"https://give.tithe.ly/?formId=70a68a4d-2f9e-40fd-a859-672fa486a22f", icon:CircleDollarSign, external:true },
   { title:"Outreach", copy:"Join Outreach Night every Tuesday from 7:00 PM to 8:00 PM.", href:"/meals-of-love", icon:HandHeart },
   { title:"Watch + Listen", copy:"Watch sermons, devotionals, worship moments, and ministry content.", href:"https://youtube.com/@one1sixchurch", icon:PlayCircle, external:true },
 ];
