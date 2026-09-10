@@ -37,7 +37,7 @@ const copy = {
     outreachCopy: "Helps us serve our city with meals, prayer, practical care, and the Gospel.",
     future: "FUTURE + BUILDING",
     futureCopy: "Helps prepare for growth, ministry resources, and future facility needs.",
-    note: "When giving through Venmo, you can include the purpose of your gift in the memo.",
+    note: "Use our secure Tithe.ly form for one-time or recurring gifts, or text (833) 680-2135 to give from your phone.",
     why: "WHY WE GIVE",
     verse: "Each of you should give what you have decided in your heart to give, not reluctantly or under compulsion, for God loves a cheerful giver.",
     reference: "2 CORINTHIANS 9:7",
