@@ -140,6 +140,7 @@ export default async function TapPage({
             <div className={styles.copy}><strong>{text.giveTitle}</strong><small>{text.giveCopy}</small></div>
             <div className={styles.actions}>
               <Link href={`/give${langQuery}`}>{text.giveAction}<ArrowUpRight size={13} /></Link>
+              <a href="sms:+18336802135">{text.textGiving}<ArrowUpRight size={13} /></a>
             </div>
           </article>
 
