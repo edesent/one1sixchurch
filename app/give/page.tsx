@@ -91,7 +91,6 @@ export default async function GivePage({
 
   return (
     <main className={styles.page}>
-      <Script src="https://static.tithely.com/give/give.js" strategy="afterInteractive" />
       <section className={styles.hero}>
         <Image
           className={styles.heroImage}
