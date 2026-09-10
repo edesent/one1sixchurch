@@ -150,7 +150,7 @@ export default async function GivePage({
               <h2>ONE1SIX GIVING</h2>
               <span>{text.recurringCopy}</span>
             </div>
-            <a href="mailto:info@one1sixchurch.org?subject=Recurring%20Giving%20at%20ONE1SIX">
+            <a href="sms:+18336802135">
               {text.recurringAction}<ArrowUpRight size={17} />
             </a>
           </article>
