@@ -262,7 +262,7 @@ export default function MealsOfLovePage() {
                     <h3>{level.title}</h3>
                     <p>{level.copy}</p>
                     <a
-                      href="https://venmo.com/u/One1SixChurch"
+                      href="https://give.tithe.ly/?formId=70a68a4d-2f9e-40fd-a859-672fa486a22f"
                       target="_blank"
                       rel="noreferrer"
                     >
