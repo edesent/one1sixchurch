@@ -105,14 +105,23 @@ export default function MealsOfLovePage() {
                 <p className="mol-card-eyebrow">BE PART OF THE MISSION</p>
                 <h2>Your generosity helps love show up.</h2>
                 <p>
-                  Give securely through Venmo to <strong>@One1SixChurch</strong>. Please include
-                  <strong> “100 Meals of Love”</strong> in the payment note.
+                  Give securely through Tithely or Venmo to <strong>@One1SixChurch</strong>. When
+                  using Venmo, please include <strong>“100 Meals of Love”</strong> in the payment note.
                 </p>
+                <a
+                  className="mol-venmo-button"
+                  href="https://give.tithe.ly/?formId=70a68a4d-2f9e-40fd-a859-672fa486a22f"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  Give With Tithely <ArrowRight size={20} />
+                </a>
                 <a
                   className="mol-venmo-button"
                   href="https://venmo.com/u/One1SixChurch"
                   target="_blank"
                   rel="noreferrer"
+                  style={{ marginTop: 12 }}
                 >
                   Give With Venmo <ArrowRight size={20} />
                 </a>
