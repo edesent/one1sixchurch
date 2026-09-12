@@ -304,7 +304,7 @@ export default function MealsOfLovePage() {
             </p>
             <a
               className="mol-venmo-button mol-final-button"
-              href="https://venmo.com/u/One1SixChurch"
+              href="https://give.tithe.ly/?formId=70a68a4d-2f9e-40fd-a859-672fa486a22f"
               target="_blank"
               rel="noreferrer"
             >
