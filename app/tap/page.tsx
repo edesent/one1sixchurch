@@ -123,7 +123,6 @@ export default async function TapPage({
             <div className={styles.copy}><strong>{text.newTitle}</strong><small>{text.newCopy}</small></div>
             <div className={styles.actions}>
               <Link href={`/first-time${langQuery}`}>{text.connect}<ArrowUpRight size={13} /></Link>
-              <Link href={`/plan-your-visit${langQuery}`}>{text.plan}<ArrowUpRight size={13} /></Link>
             </div>
           </article>
 
