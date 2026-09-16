@@ -10,6 +10,7 @@ const navItems = [
   { label: "Home", href: "/" },
   { label: "Visit", href: "/plan-your-visit" },
   { label: "Start Here", href: "/start-here" },
+  { label: "Membership", href: "/membership" },
   { label: "Who We Are", href: "/who-is-116" },
   { label: "Our Leaders", href: "/our-leaders" },
   { label: "Our Beliefs", href: "/the-foundation" },
