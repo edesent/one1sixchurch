@@ -1,8 +1,8 @@
 .page { background:#060606; color:#fff; overflow:hidden; }
 .page * { min-width:0; }
 .hero { position:relative; isolation:isolate; display:grid; align-items:end; min-height:760px; }
-.heroImage { z-index:-3; object-fit:cover; object-position:center; filter:saturate(.75) contrast(1.06); }
-.heroShade { position:absolute; inset:0; z-index:-2; background:linear-gradient(90deg,rgba(0,0,0,.88) 0%,rgba(0,0,0,.54) 54%,rgba(0,0,0,.16)),linear-gradient(180deg,rgba(0,0,0,.12),rgba(0,0,0,.2) 60%,rgba(0,0,0,.82)); }
+.heroImage { z-index:-3; object-fit:cover; object-position:center; filter:saturate(.92) contrast(1.03) brightness(1.04); }
+.heroShade { position:absolute; inset:0; z-index:-2; background:linear-gradient(90deg,rgba(0,0,0,.68) 0%,rgba(0,0,0,.3) 50%,rgba(0,0,0,.04)),linear-gradient(180deg,rgba(0,0,0,.04),rgba(0,0,0,.1) 60%,rgba(0,0,0,.64)); }
 .heroInner { width:min(1240px,calc(100% - 40px)); margin:0 auto; padding:120px 0 155px; }
 .kicker,.label { margin:0; color:#e0192b; font-family:var(--font-outfit),Arial,sans-serif; font-size:.78rem; font-weight:800; letter-spacing:.15em; text-transform:uppercase; }
 .hero h1 { max-width:900px; margin:20px 0 0; font-family:var(--font-outfit),Arial,sans-serif; font-size:clamp(4.6rem,10vw,9.6rem); font-weight:800; line-height:.81; letter-spacing:-.065em; text-transform:uppercase; text-shadow:0 14px 50px rgba(0,0,0,.45); }
