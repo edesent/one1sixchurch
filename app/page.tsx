@@ -101,6 +101,25 @@ export default function Home() {
           </div>
         </section>
 
+        <section className={styles.kidsFeature}>
+          <div className={styles.kidsFeatureArt} aria-hidden="true">
+            <span className={styles.kidsMiniTop}>UNASHAMED</span>
+            <span className={styles.kidsMiniMain}>K<span>✝</span>DS</span>
+            <span className={styles.kidsMiniBottom}>FAITH • FUN • FRIENDSHIP</span>
+          </div>
+          <div className={styles.kidsFeatureCopy}>
+            <p className={styles.kidsLabel}>CHURCH IS FOR THEM TOO</p>
+            <h2>YOUR CHILDREN HAVE A <span>PLACE HERE.</span></h2>
+            <p>
+              While you worship and receive the Word, your little ones can learn about Jesus,
+              enjoy meaningful activities, and build friendships through UNASHAMED KIDS.
+            </p>
+            <Link className={styles.kidsButton} href="/unashamed-kids">
+              Explore UNASHAMED KIDS <ArrowRight size={18} />
+            </Link>
+          </div>
+        </section>
+
         <section className={styles.next}>
           <div className={styles.sectionHeading}>
             <div>
