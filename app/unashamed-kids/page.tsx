@@ -78,14 +78,15 @@ export default function UnashamedKidsPage() {
               <p className={styles.spanishNote}>También hablamos español.</p>
             </div>
 
-            <div className={styles.kidsBadge} aria-label="UNASHAMED KIDS">
-              <div className={styles.badgeRing}>
-                <span className={styles.unashamed}>UNASHAMED</span>
-                <span className={styles.kids}>
-                  K<span className={styles.star}><Star fill="currentColor" aria-hidden="true" /><b>✝</b></span>DS
-                </span>
-                <span className={styles.ministry}>KIDS MINISTRY</span>
-              </div>
+            <div className={styles.kidsBadge}>
+              <Image
+                className={styles.originalKidsArt}
+                src="/unashamed-kids-original-art.jpg"
+                alt="UNASHAMED KIDS ministry"
+                fill
+                priority
+                sizes="(max-width: 980px) 90vw, 44vw"
+              />
             </div>
           </div>
 
