@@ -26,7 +26,7 @@ const expectations = [
   {
     icon: Users,
     title: "Bringing Your Family",
-    copy: "Bringing children or arriving with family? Send us a message beforehand and we will personally help you understand the current setup.",
+    copy: "Children have a place at UNASHAMED KIDS while parents attend the worship gathering. Arrive a few minutes early and our team will guide your family.",
   },
 ];
 
