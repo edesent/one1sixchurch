@@ -29,6 +29,20 @@
 .welcomeCopy>p:not(.label) { max-width:570px; margin:27px 0 0; color:#4f4f4f; font-size:1.05rem; line-height:1.78; }
 .welcomeCopy .signature { color:#a30d18!important; font-family:var(--font-outfit),Arial,sans-serif; font-weight:800; text-transform:uppercase; }
 .textLink { display:inline-flex; align-items:center; gap:8px; width:fit-content; margin-top:28px; padding-bottom:5px; border-bottom:2px solid #c1121f; font-family:var(--font-outfit),Arial,sans-serif; font-size:.8rem; font-weight:800; letter-spacing:.06em; text-transform:uppercase; }
+.kidsFeature { display:grid; grid-template-columns:.88fr 1.12fr; align-items:center; gap:clamp(45px,8vw,110px); padding:clamp(80px,10vw,135px) max(20px,calc((100vw - 1180px)/2)); background:#ffe600; color:#08101e; }
+.kidsFeatureArt { position:relative; isolation:isolate; display:grid; place-items:center; align-content:center; aspect-ratio:1; padding:35px; border:10px solid #fff; border-radius:50%; background:#07101e; box-shadow:14px 14px 0 #00b9f2, -14px -14px 0 #ff1f2d; text-align:center; transform:rotate(-2deg); }
+.kidsFeatureArt::before { content:""; position:absolute; inset:-36px; z-index:-1; background:radial-gradient(circle at 8% 30%,#ff1f2d 0 7px,transparent 8px),radial-gradient(circle at 93% 20%,#00b9f2 0 9px,transparent 10px),radial-gradient(circle at 88% 82%,#77ed19 0 8px,transparent 9px); }
+.kidsMiniTop,.kidsMiniBottom { color:#fff; font-family:var(--font-outfit),Arial,sans-serif; font-weight:800; letter-spacing:.13em; }
+.kidsMiniTop { font-size:clamp(1.35rem,3vw,2.7rem); }
+.kidsMiniMain { color:#fff; font-family:var(--font-outfit),Arial,sans-serif; font-size:clamp(4.8rem,10vw,8.5rem); font-weight:800; line-height:.8; letter-spacing:-.08em; text-shadow:0 7px 0 #10284d; }
+.kidsMiniMain span { display:inline-grid; place-items:center; width:.7em; height:.7em; color:#fff; background:#ff1f2d; clip-path:polygon(50% 0,61% 35%,98% 35%,68% 57%,79% 94%,50% 72%,21% 94%,32% 57%,2% 35%,39% 35%); font-size:.3em; vertical-align:.45em; }
+.kidsMiniBottom { margin-top:20px; color:#ffe600; font-size:.68rem; }
+.kidsLabel { margin:0; color:#c41020; font-family:var(--font-outfit),Arial,sans-serif; font-size:.78rem; font-weight:800; letter-spacing:.15em; text-transform:uppercase; }
+.kidsFeatureCopy h2 { margin:18px 0 0; font-family:var(--font-outfit),Arial,sans-serif; font-size:clamp(3.2rem,6vw,6.2rem); font-weight:800; line-height:.86; letter-spacing:-.055em; text-transform:uppercase; }
+.kidsFeatureCopy h2 span { display:block; color:#008ab7; }
+.kidsFeatureCopy>p:not(.kidsLabel) { max-width:610px; margin:26px 0 0; color:#3d4653; font-size:1.05rem; line-height:1.75; }
+.kidsButton { display:inline-flex; align-items:center; gap:8px; min-height:54px; margin-top:30px; padding:0 24px; background:#07101e; color:#fff; box-shadow:6px 6px 0 #00b9f2; font-family:var(--font-outfit),Arial,sans-serif; font-size:.8rem; font-weight:800; letter-spacing:.055em; text-transform:uppercase; transition:.18s ease; }
+.kidsButton:hover { transform:translateY(-2px); }
 .next { width:min(1280px,calc(100% - 40px)); margin:0 auto; padding:clamp(90px,11vw,155px) 0; }
 .sectionHeading { display:grid; grid-template-columns:1fr minmax(280px,.42fr); align-items:end; gap:60px; margin-bottom:58px; }
 .sectionHeading>p { margin:0; color:rgba(255,255,255,.63); line-height:1.75; }
