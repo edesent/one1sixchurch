@@ -77,15 +77,9 @@ export default function UnashamedKidsPage() {
               <p className={styles.spanishNote}>También hablamos español.</p>
             </div>
 
-            <div className={styles.kidsBadge}>
-              <Image
-                className={styles.originalKidsArt}
-                src="/unashamed-kids-original-art.jpg"
-                alt="UNASHAMED KIDS ministry"
-                fill
-                priority
-                sizes="(max-width: 980px) 90vw, 44vw"
-              />
+            <div className={styles.kidsBadge} aria-label="UNASHAMED KIDS — Friendship, Jesus, Faith">
+              <div className={styles.originalKidsLogo} aria-hidden="true" />
+              <p className={styles.badgeSlogan}>FRIENDSHIP <span>•</span> JESUS <span>•</span> FAITH</p>
             </div>
           </div>
 
