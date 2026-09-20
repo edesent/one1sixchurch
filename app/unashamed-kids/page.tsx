@@ -101,7 +101,7 @@ export default function UnashamedKidsPage() {
               KIDS gives children room to learn at their level while parents participate in the
               worship gathering with confidence and peace of mind.
             </p>
-            <p className={styles.familyLine}>Faith • Fun • Friendship</p>
+            <p className={styles.familyLine}>Friendship • Jesus • Faith</p>
           </div>
         </section>
 
