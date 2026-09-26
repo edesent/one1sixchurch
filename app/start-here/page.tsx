@@ -7,6 +7,7 @@ import { SiteHeader } from "../_components/SiteHeader";
 import styles from "./start-here.module.css";
 
 const steps = [
+  { title:"Discipleship", copy:"Follow Jesus, grow in the Word, serve others, and help someone else follow Him. Explore your next step in English or Spanish.", href:"/discipleship", icon:BookOpen },
   { title:"Prayer", copy:"Share what you are carrying and let our church family stand with you.", href:"/#prayer", icon:HeartHandshake },
   { title:"Devotionals", copy:"Grow in the Word through UNASHAMED devotionals and Wednesday Bible Study from 7:00 PM to 8:00 PM.", href:"/unashamed-devotionals", icon:BookOpen },
   { title:"Groups", copy:"Find community, discipleship, and people who will walk with you.", href:"mailto:info@one1sixchurch.org?subject=ONE1SIX%20Groups", icon:Users },
