@@ -11,6 +11,7 @@ const navItems = [
   { label: "Visit", href: "/plan-your-visit" },
   { label: "UNASHAMED KIDS", href: "/unashamed-kids" },
   { label: "Start Here", href: "/start-here" },
+  { label: "Discipleship", href: "/discipleship" },
   { label: "Membership", href: "/membership" },
   { label: "Who We Are", href: "/who-is-116" },
   { label: "Our Leaders", href: "/our-leaders" },
