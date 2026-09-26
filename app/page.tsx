@@ -102,10 +102,14 @@ export default function Home() {
         </section>
 
         <section className={styles.kidsFeature}>
-          <div className={styles.kidsFeatureArt} aria-hidden="true">
-            <span className={styles.kidsMiniTop}>UNASHAMED</span>
-            <span className={styles.kidsMiniMain}>K<span>✝</span>DS</span>
-            <span className={styles.kidsMiniBottom}>FAITH • FUN • FRIENDSHIP</span>
+          <div className={styles.kidsFeatureArt}>
+            <Image
+              src="/unashamed-kids-circle-art.jpg"
+              alt="UNASHAMED KIDS — Friendship • Jesus • Faith"
+              fill
+              sizes="(max-width: 600px) 86vw, (max-width: 1000px) 500px, 520px"
+              style={{ objectFit: "cover", borderRadius: "50%" }}
+            />
           </div>
           <div className={styles.kidsFeatureCopy}>
             <p className={styles.kidsLabel}>CHURCH IS FOR THEM TOO</p>
