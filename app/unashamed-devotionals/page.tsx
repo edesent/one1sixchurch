@@ -121,12 +121,12 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Jesus did not open the cell so we could keep living like prisoners. First Peter 2:24 teaches that Christ bore
-                  our sins so that we might die to sin and live for righteousness. Galatians 3:13 reminds us that Christ redeemed
-                  us from the curse, and Romans 8:1 declares there is now no condemnation for those who are in Christ Jesus. Grace
-                  is not permission to go back; grace is power to walk forward. The cell may be familiar, but familiar does not
-                  mean freedom. Leave the chains, close the doorways that pull you backward, repent when you fall, keep following
-                  Jesus, and live like someone Christ has truly set free. Don't go back to the cell. Live unashamed.
+                  God&apos;s mercy met Lot while he hesitated. Genesis 19 shows that the angels took him by the hand because
+                  the Lord was compassionate toward him. Ephesians 2 reminds us that God, rich in mercy and great in love, made us
+                  alive with Christ. Mercy does not leave us where grace found us. It pulls us out of familiar bondage when we
+                  cannot rescue ourselves. Conviction is not condemnation; it is mercy warning us not to die where God has called
+                  us to leave. Jesus rescues those who cannot rescue themselves. Stop confusing familiarity with safety. Surrender
+                  the compromise, obey today, and follow Jesus forward. When mercy pulls you out, don&apos;t look back. Live unashamed.
                 </p>
               </div>
             </article>
