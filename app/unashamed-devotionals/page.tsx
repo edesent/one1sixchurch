@@ -64,6 +64,7 @@ export default function UnashamedDevotionalsPage() {
               }}
             >
               <video
+                aria-label="Unashamed Week 10 Day 1 devotional video"
                 controls
                 preload="metadata"
                 playsInline
