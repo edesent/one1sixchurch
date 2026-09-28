@@ -47,10 +47,10 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 5 — Don't Go Back To The Cell
+                Day 1 — When Mercy Pulls You Out
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
-                Unashamed Week 2 · He Took My Place
+                Unashamed Week 10 · DON&apos;T LOOK BACK
               </p>
             </div>
 
