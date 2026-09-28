@@ -104,8 +104,8 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Identify one doorway that keeps pulling you toward an old chain. Close it today. Delete it, block it,
-                    walk away from it, or confess it. Then read 1 Peter 2:24 and choose one practical act of obedience.
+                    Identify one area where you have been delaying obedience. Write it down, pray over it, and take one
+                    clear, practical step away from compromise and closer to Jesus today.
                   </p>
                 </div>
               </div>
