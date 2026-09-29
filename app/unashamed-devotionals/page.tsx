@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/WxtZ40-fsE39iJNv56LNJxMf8zLTAk7e/15895-5KqvVM35hEo0MkTT7fYWO64FyRIk4P.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/vHcfEni2ApSD9UxgEg-doARqO-yrOU4n/16185-cHcmbzhcto153NVymfikcPXfGqJg3x.mp4";
 
 export default function UnashamedDevotionalsPage() {
   return (
@@ -47,7 +47,7 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 1 — When Mercy Pulls You Out
+                Day 2 — Don&apos;t Let Nostalgia Lie to You
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
                 Unashamed Week 10 · DON&apos;T LOOK BACK
@@ -64,7 +64,7 @@ export default function UnashamedDevotionalsPage() {
               }}
             >
               <video
-                aria-label="Unashamed Week 10 Day 1 devotional video"
+                aria-label="Unashamed Week 10 Day 2 devotional video"
                 controls
                 preload="metadata"
                 playsInline
@@ -97,7 +97,7 @@ export default function UnashamedDevotionalsPage() {
                     Scripture Focus
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Genesis 19:15–16 · Ephesians 2:4–5
+                    Genesis 19:17 · Numbers 11:4–6 · Luke 17:32
                   </p>
                 </div>
                 <div>
@@ -105,8 +105,9 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Identify one area where you have been delaying obedience. Write it down, pray over it, and take one
-                    clear, practical step away from compromise and closer to Jesus today.
+                    Write down one thing from your past that temptation tries to make attractive. Beside it, write the
+                    truth about what it cost you. Then choose one Scripture about your freedom in Christ and read it
+                    aloud today.
                   </p>
                 </div>
               </div>
@@ -122,12 +123,13 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  God&apos;s mercy met Lot while he hesitated. Genesis 19 shows that the angels took him by the hand because
-                  the Lord was compassionate toward him. Ephesians 2 reminds us that God, rich in mercy and great in love, made us
-                  alive with Christ. Mercy does not leave us where grace found us. It pulls us out of familiar bondage when we
-                  cannot rescue ourselves. Conviction is not condemnation; it is mercy warning us not to die where God has called
-                  us to leave. Jesus rescues those who cannot rescue themselves. Stop confusing familiarity with safety. Surrender
-                  the compromise, obey today, and follow Jesus forward. When mercy pulls you out, don&apos;t look back. Live unashamed.
+                  Nostalgia can make chains look like souvenirs. Israel remembered Egypt&apos;s food but forgot
+                  Pharaoh&apos;s whips. Genesis 19 warns us not to look back, Numbers 11 shows how bondage can be
+                  romanticized when obedience becomes uncomfortable, and Jesus says in Luke 17:32,
+                  &ldquo;Remember Lot&apos;s wife.&rdquo; Nostalgia edits memory: it highlights temporary pleasure and
+                  hides spiritual cost. But Jesus carried the guilt of our past at the cross and rose to open a new
+                  future. Do not romanticize what He rescued you from. Remember the whole story, stand on Scripture,
+                  and keep following Jesus forward. Live unashamed.
                 </p>
               </div>
             </article>
