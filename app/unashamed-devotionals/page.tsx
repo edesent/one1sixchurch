@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/vHcfEni2ApSD9UxgEg-doARqO-yrOU4n/16185-cHcmbzhcto153NVymfikcPXfGqJg3x.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/Fdnlosjyv9ML1HnjMBiXSH-C-aeJM6XZ/16412-iZj13yIhmqENm1yXkT9RO1LxOKfa2S.mp4";
 
 export default function UnashamedDevotionalsPage() {
   return (
@@ -47,7 +47,7 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 2 — Don&apos;t Let Nostalgia Lie to You
+                Day 3 — Stop Negotiating With Your Chains
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
                 Unashamed Week 10 · DON&apos;T LOOK BACK
@@ -64,7 +64,7 @@ export default function UnashamedDevotionalsPage() {
               }}
             >
               <video
-                aria-label="Unashamed Week 10 Day 2 devotional video"
+                aria-label="Unashamed Week 10 Day 3 devotional video"
                 controls
                 preload="metadata"
                 playsInline
@@ -97,7 +97,7 @@ export default function UnashamedDevotionalsPage() {
                     Scripture Focus
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Genesis 19:17 · Numbers 11:4–6 · Luke 17:32
+                    Genesis 19:17, 26 · Romans 6:6, 12–14 · James 1:22
                   </p>
                 </div>
                 <div>
@@ -105,9 +105,8 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Write down one thing from your past that temptation tries to make attractive. Beside it, write the
-                    truth about what it cost you. Then choose one Scripture about your freedom in Christ and read it
-                    aloud today.
+                    Identify one compromise you have tolerated. Remove one source of access today. Then confess it to
+                    God and ask a mature believer to help you remain accountable.
                   </p>
                 </div>
               </div>
@@ -123,13 +122,13 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Nostalgia can make chains look like souvenirs. Israel remembered Egypt&apos;s food but forgot
-                  Pharaoh&apos;s whips. Genesis 19 warns us not to look back, Numbers 11 shows how bondage can be
-                  romanticized when obedience becomes uncomfortable, and Jesus says in Luke 17:32,
-                  &ldquo;Remember Lot&apos;s wife.&rdquo; Nostalgia edits memory: it highlights temporary pleasure and
-                  hides spiritual cost. But Jesus carried the guilt of our past at the cross and rose to open a new
-                  future. Do not romanticize what He rescued you from. Remember the whole story, stand on Scripture,
-                  and keep following Jesus forward. Live unashamed.
+                  Freedom in Christ is not permission to manage the sin that once enslaved us. Genesis 19 warns against
+                  looking back with divided attachment. Romans 6 teaches that our old self was crucified with Christ,
+                  so sin is no longer our rightful master. James 1 commands us to be doers of the Word, not hearers
+                  only. We are not saved by obedience; Jesus purchased salvation with His blood, and we are declared
+                  righteous through faith in Him. Yet the grace that saves us also transforms us. Bring compromise
+                  into the light, remove access, confess sin, seek accountability, and walk in the freedom Christ has
+                  already secured. Stop negotiating with your chains. You belong to Jesus. Live unashamed.
                 </p>
               </div>
             </article>
