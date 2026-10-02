@@ -13,7 +13,7 @@ const content = {
     photoAlt: "Pastor Jobeth V. Pacheco and his wife Wilmary, known as Mary, of ONE1SIX Church",
     caption: "Serving together. Following Jesus.",
     pastorRole: "Founder & Lead Pastor",
-    maryRole: "Serving alongside Pastor Jobeth",
+    maryRole: "Lead Pastor",
     welcomeLabel: "A PERSONAL WELCOME",
     welcomeTitle: "There is a place for you here.",
     welcome: [
@@ -22,8 +22,8 @@ const content = {
       "Come as you are. Let us seek Jesus together.",
     ],
     meetLabel: "THE PEOPLE BEHIND THE WELCOME",
-    jobethBio: "Jobeth V. Pacheco is the founder and lead pastor of ONE1SIX Church in Worcester, Massachusetts. His heart for ministry centers on biblical preaching, discipleship, and proclaiming the Gospel without fear or compromise. He leads with a desire to help people know Christ, grow in Scripture, and put their faith into practice.",
-    maryBio: "Wilmary, affectionately known as Mary, serves alongside her husband, Pastor Jobeth, in the life and ministry of ONE1SIX Church. Together, they share a commitment to following Jesus, loving people, and building a church family where others can find belonging and grow in faith.",
+    jobethBio: "Born in New York and raised in Puerto Rico, Jobeth V. Pacheco is the founder and lead pastor of ONE1SIX Church in Worcester, Massachusetts. Also known as JBlessed, “La Bocina de Cristo,” he shares the message of Christ through Christian urban music as well as preaching and teaching. A husband and father of five, his heart for ministry centers on biblical preaching, discipleship, and proclaiming the Gospel without fear or compromise.",
+    maryBio: "Wilmary, affectionately known as Mary, serves with her husband, Pastor Jobeth, as a lead pastor of ONE1SIX Church. Together, they are parents of five children and share a commitment to following Jesus, loving people, and building a church family where others can find belonging and grow in faith.",
     dnaLabel: "THE HEART OF OUR MINISTRY",
     dnaTitle: "One mission. An unashamed faith.",
     values: [
@@ -47,7 +47,7 @@ const content = {
     photoAlt: "El Pastor Jobeth V. Pacheco y su esposa Wilmary, conocida como Mary, de ONE1SIX Church",
     caption: "Sirviendo juntos. Siguiendo a Jesús.",
     pastorRole: "Fundador y Pastor Principal",
-    maryRole: "Sirviendo junto al Pastor Jobeth",
+    maryRole: "Pastora Principal",
     welcomeLabel: "UNA BIENVENIDA PERSONAL",
     welcomeTitle: "Aquí hay un lugar para ti.",
     welcome: [
@@ -56,8 +56,8 @@ const content = {
       "Ven tal como eres. Busquemos a Jesús juntos.",
     ],
     meetLabel: "LAS PERSONAS QUE TE DAN LA BIENVENIDA",
-    jobethBio: "Jobeth V. Pacheco es el fundador y pastor principal de ONE1SIX Church en Worcester, Massachusetts. Su corazón por el ministerio se centra en la predicación bíblica, el discipulado y la proclamación del Evangelio sin temor ni compromiso con el error. Su deseo es ayudar a las personas a conocer a Cristo, crecer en las Escrituras y poner su fe en práctica.",
-    maryBio: "Wilmary, conocida cariñosamente como Mary, sirve junto a su esposo, el Pastor Jobeth, en la vida y el ministerio de ONE1SIX Church. Juntos comparten el compromiso de seguir a Jesús, amar a las personas y edificar una familia de fe donde otros puedan encontrar un lugar y crecer en su caminar con Cristo.",
+    jobethBio: "Nacido en Nueva York y criado en Puerto Rico, Jobeth V. Pacheco es el fundador y pastor principal de ONE1SIX Church en Worcester, Massachusetts. También conocido como JBlessed, “La Bocina de Cristo,” comparte el mensaje de Cristo a través de la música urbana cristiana, la predicación y la enseñanza. Es esposo y padre de cinco hijos. Su corazón por el ministerio se centra en la predicación bíblica, el discipulado y la proclamación del Evangelio sin temor ni compromiso con el error.",
+    maryBio: "Wilmary, conocida cariñosamente como Mary, sirve con su esposo, el Pastor Jobeth, como pastora principal de ONE1SIX Church. Juntos son padres de cinco hijos y comparten el compromiso de seguir a Jesús, amar a las personas y edificar una familia de fe donde otros puedan encontrar un lugar y crecer en su caminar con Cristo.",
     dnaLabel: "EL CORAZÓN DE NUESTRO MINISTERIO",
     dnaTitle: "Una misión. Una fe sin vergüenza.",
     values: [
