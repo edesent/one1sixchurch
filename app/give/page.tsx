@@ -3,6 +3,7 @@ import {
   ArrowUpRight,
   Building2,
   CalendarClock,
+  CircleDollarSign,
   HandHeart,
   Heart,
   Landmark,
@@ -27,6 +28,9 @@ const copy = {
     giveNowCopy: "Give securely through the official ONE1SIX Church Tithe.ly giving form.",
     giveAction: "OPEN SECURE GIVING FORM",
     handle: "TITHE.LY GIVING",
+    venmo: "VENMO GIVING",
+    venmoCopy: "Support ONE1SIX Church through Venmo using @One1SixChurch.",
+    venmoAction: "OPEN VENMO",
     recurring: "TEXT GIVING",
     recurringCopy: "Give quickly from your phone by sending a text to our dedicated giving number.",
     recurringAction: "TEXT GIVE TO (833) 680-2135",
@@ -37,7 +41,7 @@ const copy = {
     outreachCopy: "Helps us serve our city with meals, prayer, practical care, and the Gospel.",
     future: "FUTURE + BUILDING",
     futureCopy: "Helps prepare for growth, ministry resources, and future facility needs.",
-    note: "Use our secure Tithe.ly form for one-time or recurring gifts, or text (833) 680-2135 to give from your phone.",
+    note: "Use our secure Tithe.ly form for one-time or recurring gifts, give through Venmo at @One1SixChurch, or text (833) 680-2135 to give from your phone.",
     why: "WHY WE GIVE",
     verse: "Each of you should give what you have decided in your heart to give, not reluctantly or under compulsion, for God loves a cheerful giver.",
     reference: "2 CORINTHIANS 9:7",
@@ -56,6 +60,9 @@ const copy = {
     giveNowCopy: "Da de forma segura mediante el formulario oficial de Tithe.ly de ONE1SIX Church.",
     giveAction: "ABRIR FORMULARIO SEGURO",
     handle: "TITHE.LY GIVING",
+    venmo: "DAR POR VENMO",
+    venmoCopy: "Apoya a ONE1SIX Church mediante Venmo usando @One1SixChurch.",
+    venmoAction: "ABRIR VENMO",
     recurring: "DONACIÓN POR TEXTO",
     recurringCopy: "Da rápidamente desde tu teléfono enviando un mensaje a nuestro número dedicado.",
     recurringAction: "TEXT GIVE TO (833) 680-2135",
@@ -66,7 +73,7 @@ const copy = {
     outreachCopy: "Nos ayuda a servir nuestra ciudad con comida, oración, ayuda práctica y el Evangelio.",
     future: "FUTURO + EDIFICIO",
     futureCopy: "Ayuda a prepararnos para crecimiento, recursos de ministerio y futuras necesidades de instalaciones.",
-    note: "Usa nuestro formulario seguro de Tithe.ly para ofrendas únicas o recurrentes, o envía un texto al (833) 680-2135.",
+    note: "Usa nuestro formulario seguro de Tithe.ly para ofrendas únicas o recurrentes, da por Venmo a @One1SixChurch, o envía un texto al (833) 680-2135.",
     why: "POR QUÉ DAMOS",
     verse: "Cada uno dé como propuso en su corazón: no con tristeza, ni por necesidad, porque Dios ama al dador alegre.",
     reference: "2 CORINTIOS 9:7",
@@ -138,6 +145,18 @@ export default async function GivePage({
             </div>
             <a href="https://give.tithe.ly/?formId=70a68a4d-2f9e-40fd-a859-672fa486a22f" target="_blank" rel="noreferrer">
               {text.giveAction}<ArrowUpRight size={17} />
+            </a>
+          </article>
+
+          <article className={styles.actionCard}>
+            <div className={styles.actionIcon}><CircleDollarSign size={26} /></div>
+            <div>
+              <p>{text.venmo}</p>
+              <h2>@One1SixChurch</h2>
+              <span>{text.venmoCopy}</span>
+            </div>
+            <a href="https://venmo.com/u/One1SixChurch" target="_blank" rel="noopener noreferrer">
+              {text.venmoAction}<ArrowUpRight size={17} />
             </a>
           </article>
 
