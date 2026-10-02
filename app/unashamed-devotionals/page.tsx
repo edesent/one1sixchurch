@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/BCF2IPQftqAX-ww4RyuRF2LazH8c2Qis/16579-TibcskCeqTzQFPF9wuQ1WcWepIMadd.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/qo8FFIlxbhyu0IeCnubm4hHhOytv1dqf/16748-WVUyqSDrBz2sgNn7MmkNVSIkGqYNJS.mp4";
 
 export default function UnashamedDevotionalsPage() {
   return (
@@ -47,7 +47,7 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 4 — Remember the Rescue, Not the Bondage
+                Day 5 — Keep Your Eyes on Jesus
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
                 Unashamed Week 10 · DON&apos;T LOOK BACK
@@ -64,7 +64,7 @@ export default function UnashamedDevotionalsPage() {
               }}
             >
               <video
-                aria-label="Unashamed Week 10 Day 4 devotional video"
+                aria-label="Unashamed Week 10 Day 5 devotional video"
                 controls
                 preload="metadata"
                 playsInline
@@ -97,7 +97,7 @@ export default function UnashamedDevotionalsPage() {
                     Scripture Focus
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Luke 17:32–33 · 2 Corinthians 5:17 · 1 Timothy 1:12–16
+                    Philippians 3:12–14 · Hebrews 12:1–3
                   </p>
                 </div>
                 <div>
@@ -105,8 +105,8 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Write three sentences: what you need to confess or bring to Jesus, how He has shown you mercy, and
-                    one step of obedience you will take today. Pray through them honestly.
+                    Read Hebrews 12:1–3. Identify one distraction or sin to set aside, then take one concrete step
+                    today to obey Jesus in that area.
                   </p>
                 </div>
               </div>
@@ -122,14 +122,14 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Your past can become a testimony without becoming your home. Jesus&apos; warning to remember
-                  Lot&apos;s wife calls us not to cling to the life He has told us to surrender. Paul did not hide his
-                  sinful past, but his testimony placed Christ&apos;s mercy at the center. Grace does not call evil
-                  good; it brings guilty people to the Savior who forgives and makes them new. In Christ, your past no
-                  longer defines your standing before God. Tell the truth about the darkness, point people toward the
-                  Light, take responsibility where needed, and bring painful memories to Jesus for healing. You can
-                  confess your failure without making it your identity. Remember the rescue, not the bondage. Let
-                  Jesus be the hero of your story. Live unashamed.
+                  This week&apos;s warning was clear: do not look back. Hebrews gives us the direction—look to Jesus.
+                  Paul presses forward because Christ first took hold of him. Grace comes first. We do not run to earn
+                  God&apos;s love; through faith in Christ, we run because we have been received by grace. Jesus obeyed
+                  perfectly, bore our sins at the cross, rose again, and accomplished what we never could. Now His
+                  Spirit strengthens us to lay aside every weight and the sin that entangles us. When guilt speaks,
+                  remember His finished work. When temptation calls, remember His worth. When suffering comes,
+                  remember His endurance. The goal is not simply to leave Sodom—the goal is to follow Christ. The
+                  series ends today, but your walk with Jesus continues. Keep your eyes on Him. Live unashamed.
                 </p>
               </div>
             </article>
