@@ -11,12 +11,13 @@ import {
 } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
+import { SiteHeader } from "../_components/SiteHeader";
 
 import styles from "./give.module.css";
 
 const copy = {
   en: {
-    back: "BACK TO DIRECTORY",
+    back: "BACK TO HOME",
     eyebrow: "ONE1SIX GIVING",
     title: "GENEROSITY",
     accent: "IS WORSHIP.",
@@ -45,7 +46,7 @@ const copy = {
     footer: "ONE CHURCH FOR THE ONE. A FAMILY FOR THE SIX.",
   },
   es: {
-    back: "VOLVER AL DIRECTORIO",
+    back: "VOLVER AL INICIO",
     eyebrow: "GENEROSIDAD ONE1SIX",
     title: "GENEROSIDAD",
     accent: "ES ADORACIÓN.",
@@ -90,7 +91,9 @@ export default async function GivePage({
   const text = copy[language];
 
   return (
-    <main className={styles.page}>
+    <>
+      <SiteHeader />
+      <main className={styles.page}>
       <section className={styles.hero}>
         <Image
           className={styles.heroImage}
@@ -104,7 +107,7 @@ export default async function GivePage({
 
         <div className={styles.heroInner}>
           <div className={styles.topRow}>
-            <Link className={styles.back} href={`/tap?lang=${language}`}>
+            <Link className={styles.back} href="/">
               <ArrowLeft size={16} /> {text.back}
             </Link>
             <nav className={styles.language} aria-label="Language">
@@ -189,6 +192,7 @@ export default async function GivePage({
       </section>
 
       <footer className={styles.footer}>{text.footer}</footer>
-    </main>
+      </main>
+    </>
   );
 }
