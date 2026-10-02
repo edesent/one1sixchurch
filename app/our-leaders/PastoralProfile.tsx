@@ -105,7 +105,7 @@ export function PastoralProfile() {
         <div className={styles.heroCopy}>
           <p className={styles.label}>{copy.label}</p>
           <h1 id="pastoral-title">{copy.title[0]} <span>{copy.title[1]}</span></h1>
-          <p className={styles.names}>Jobeth &amp; Mary Pacheco</p>
+          <p className={styles.names}>Jobeth &amp; Wilmary Pacheco</p>
           <p className={styles.intro}>{copy.intro}</p>
           <div className={styles.identity}>
             <div><strong>Pastor Jobeth V. Pacheco</strong><span>{copy.pastorRole}</span></div>
