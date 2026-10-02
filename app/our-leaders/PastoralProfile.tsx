@@ -22,8 +22,8 @@ const content = {
       "Come as you are. Let us seek Jesus together.",
     ],
     meetLabel: "THE PEOPLE BEHIND THE WELCOME",
-    jobethBio: "Born in New York and raised in Puerto Rico, Jobeth V. Pacheco is the founder and lead pastor of ONE1SIX Church in Worcester, Massachusetts. Also known as JBlessed, “La Bocina de Cristo,” he shares the message of Christ through Christian urban music as well as preaching and teaching. A husband and father of five, his heart for ministry centers on biblical preaching, discipleship, and proclaiming the Gospel without fear or compromise.",
-    maryBio: "Wilmary, affectionately known as Mary, serves with her husband, Pastor Jobeth, as a lead pastor of ONE1SIX Church. Together, they are parents of five children and share a commitment to following Jesus, loving people, and building a church family where others can find belonging and grow in faith.",
+    jobethBio: "Born in New York and raised in Puerto Rico, Jobeth V. Pacheco is the founder and lead pastor of ONE1SIX Church in Worcester, Massachusetts. Also known as JBlessed, “La Bocina de Cristo,” he shares the message of Christ through Christian urban music as well as preaching and teaching. A husband and father of six, his heart for ministry centers on biblical preaching, discipleship, and proclaiming the Gospel without fear or compromise.",
+    maryBio: "Wilmary, affectionately known as Mary, serves with her husband, Pastor Jobeth, as a lead pastor of ONE1SIX Church. Together, they are parents of six children and share a commitment to following Jesus, loving people, and building a church family where others can find belonging and grow in faith.",
     dnaLabel: "THE HEART OF OUR MINISTRY",
     dnaTitle: "One mission. An unashamed faith.",
     values: [
@@ -56,8 +56,8 @@ const content = {
       "Ven tal como eres. Busquemos a Jesús juntos.",
     ],
     meetLabel: "LAS PERSONAS QUE TE DAN LA BIENVENIDA",
-    jobethBio: "Nacido en Nueva York y criado en Puerto Rico, Jobeth V. Pacheco es el fundador y pastor principal de ONE1SIX Church en Worcester, Massachusetts. También conocido como JBlessed, “La Bocina de Cristo,” comparte el mensaje de Cristo a través de la música urbana cristiana, la predicación y la enseñanza. Es esposo y padre de cinco hijos. Su corazón por el ministerio se centra en la predicación bíblica, el discipulado y la proclamación del Evangelio sin temor ni compromiso con el error.",
-    maryBio: "Wilmary, conocida cariñosamente como Mary, sirve con su esposo, el Pastor Jobeth, como pastora principal de ONE1SIX Church. Juntos son padres de cinco hijos y comparten el compromiso de seguir a Jesús, amar a las personas y edificar una familia de fe donde otros puedan encontrar un lugar y crecer en su caminar con Cristo.",
+    jobethBio: "Nacido en Nueva York y criado en Puerto Rico, Jobeth V. Pacheco es el fundador y pastor principal de ONE1SIX Church en Worcester, Massachusetts. También conocido como JBlessed, “La Bocina de Cristo,” comparte el mensaje de Cristo a través de la música urbana cristiana, la predicación y la enseñanza. Es esposo y padre de seis hijos. Su corazón por el ministerio se centra en la predicación bíblica, el discipulado y la proclamación del Evangelio sin temor ni compromiso con el error.",
+    maryBio: "Wilmary, conocida cariñosamente como Mary, sirve con su esposo, el Pastor Jobeth, como pastora principal de ONE1SIX Church. Juntos son padres de seis hijos y comparten el compromiso de seguir a Jesús, amar a las personas y edificar una familia de fe donde otros puedan encontrar un lugar y crecer en su caminar con Cristo.",
     dnaLabel: "EL CORAZÓN DE NUESTRO MINISTERIO",
     dnaTitle: "Una misión. Una fe sin vergüenza.",
     values: [
