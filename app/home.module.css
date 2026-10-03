@@ -76,5 +76,5 @@
 .media h2 { max-width:860px; margin:18px 0 24px; font-family:var(--font-outfit),Arial,sans-serif; font-size:clamp(2.75rem,6vw,5.6rem); font-weight:800; line-height:.9; letter-spacing:-.055em; text-transform:uppercase; }
 .media h2 span { color:#e0192b; }
 .media>p:not(.label) { max-width:720px; color:rgba(255,255,255,.68); line-height:1.75; }
-.video { display:block; width:100%; max-height:75svh; margin-top:28px; background:#000; border:1px solid rgba(255,255,255,.16); }
+.video { display:block; width:100%; aspect-ratio:16/9; object-fit:contain; max-height:75svh; margin-top:28px; background:#000; border:1px solid rgba(255,255,255,.16); }
 @media(max-width:600px){.media{width:calc(100% - 28px);padding-bottom:78px}}
