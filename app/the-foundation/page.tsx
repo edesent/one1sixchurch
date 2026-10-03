@@ -1,4 +1,11 @@
+import type { Metadata } from "next";
 import { SubPage } from "../_components/SubPage";
+
+export const metadata: Metadata = {
+  title: "Our Beliefs | ONE1SIX Church",
+  description:
+    "Discover the foundation of ONE1SIX Church in Worcester, Massachusetts: God the Father, Son, and Holy Spirit, Jesus Christ at the center, and the authority of Scripture.",
+};
 
 export default function TheFoundationPage() {
   return (
