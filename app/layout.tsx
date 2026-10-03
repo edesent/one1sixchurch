@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter, Outfit } from "next/font/google";
 import Script from "next/script";
 import "./globals.css";
+import { WhatsAppContact } from "./_components/WhatsAppContact";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -29,6 +30,7 @@ export default function RootLayout({
     <html lang="en" className={`${inter.variable} ${outfit.variable}`}>
       <body>
         {children}
+        <WhatsAppContact />
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-BR4LX8W86L"
           strategy="afterInteractive"
