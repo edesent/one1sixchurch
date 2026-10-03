@@ -17,9 +17,9 @@ const nextSteps = [
   {
     title: "Watch + Listen",
     copy: "Sermons, devotionals, and Gospel-centered teaching.",
-    href: "https://youtube.com/@one1sixchurch",
+    href: "/unashamed-devotionals",
     icon: PlayCircle,
-    external: true,
+    external: false,
   },
   {
     title: "Grow In The Word",
@@ -80,8 +80,8 @@ export default function Home() {
         <section className={styles.welcome}>
           <div className={styles.welcomePhoto}>
             <Image
-              src="/fearless-love.png"
-              alt="People finding community at ONE1SIX Church"
+              src="/jobeth-and-mary-pastoral.jpg"
+              alt="Pastors Jobeth and Wilmary Mary Pacheco welcoming you to ONE1SIX Church"
               fill
               sizes="(max-width: 900px) 100vw, 50vw"
             />
@@ -94,9 +94,18 @@ export default function Home() {
               grow deeper, there is room for you here. We preach Scripture without compromise,
               love people without conditions, and follow Jesus together.
             </p>
+            <p>
+              Jobeth &amp; Wilmary “Mary” Pacheco are our lead pastors and parents of six children.
+              Born in New York and raised in Puerto Rico, Jobeth brings a heart for biblical preaching
+              and discipleship. Together, they welcome you to grow with our church family.
+            </p>
+            <p className={styles.signature}>Jobeth &amp; Mary · Lead Pastors</p>
             <p className={styles.signature}>One Church For The One. A Family For The Six.</p>
             <Link className={styles.textLink} href="/who-is-116">
               Meet Our Church <ArrowRight size={18} />
+            </Link>
+            <Link className={styles.textLink} href="/our-leaders">
+              Meet Our Pastors <ArrowRight size={18} />
             </Link>
           </div>
         </section>
@@ -151,6 +160,24 @@ export default function Home() {
               );
             })}
           </div>
+        </section>
+
+        <section className={styles.media} aria-labelledby="featured-devotional-title">
+          <p className={styles.label}>WATCH + LISTEN · FEATURED DEVOTIONAL</p>
+          <h2 id="featured-devotional-title">KEEP YOUR EYES <span>ON JESUS.</span></h2>
+          <p>UNASHAMED · Week 10 · DON&apos;T LOOK BACK · Day 5</p>
+          <p>
+            Watch the devotional here, then reflect on Philippians 3:12–14 and Hebrews 12:1–3.
+            Christ has taken hold of us. Keep following Him with faith and obedience.
+          </p>
+          <video className={styles.video} aria-label="Keep Your Eyes on Jesus — Week 10 Day 5 devotional"
+            controls preload="none" playsInline>
+            <source src="https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/qo8FFIlxbhyu0IeCnubm4hHhOytv1dqf/16748-WVUyqSDrBz2sgNn7MmkNVSIkGqYNJS.mp4" type="video/mp4" />
+            Your browser does not support video playback.
+          </video>
+          <Link className={styles.textLink} href="/unashamed-devotionals">
+            Read The Devotional &amp; Scripture Focus <ArrowRight size={18} />
+          </Link>
         </section>
 
         <section className={styles.life}>
