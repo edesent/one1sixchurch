@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/qo8FFIlxbhyu0IeCnubm4hHhOytv1dqf/16748-WVUyqSDrBz2sgNn7MmkNVSIkGqYNJS.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/X05L-nH48UUBKnKdQsvPqHi4vCWon1i_/17817-sDrfvP5IixLtngK5SYxUK4lUODg6O7.mp4";
 
 export default function UnashamedDevotionalsPage() {
   return (
@@ -47,10 +47,10 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 5 — Keep Your Eyes on Jesus
+                Day 1 — Still Standing by His Mercy
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
-                Unashamed Week 10 · DON&apos;T LOOK BACK
+                Unashamed Week 11 · WOOD FOR FIRE
               </p>
             </div>
 
@@ -64,7 +64,7 @@ export default function UnashamedDevotionalsPage() {
               }}
             >
               <video
-                aria-label="Unashamed Week 10 Day 5 devotional video"
+                aria-label="Unashamed Week 11 Day 1 Still Standing by His Mercy devotional video"
                 controls
                 preload="metadata"
                 playsInline
@@ -97,7 +97,7 @@ export default function UnashamedDevotionalsPage() {
                     Scripture Focus
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Philippians 3:12–14 · Hebrews 12:1–3
+                    Luke 13:1–9 · Romans 2:4
                   </p>
                 </div>
                 <div>
@@ -105,8 +105,8 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Read Hebrews 12:1–3. Identify one distraction or sin to set aside, then take one concrete step
-                    today to obey Jesus in that area.
+                    Name one sin or attitude you have been excusing. Confess it to God, and take one specific step
+                    today to turn away from it.
                   </p>
                 </div>
               </div>
@@ -122,14 +122,16 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  This week&apos;s warning was clear: do not look back. Hebrews gives us the direction—look to Jesus.
-                  Paul presses forward because Christ first took hold of him. Grace comes first. We do not run to earn
-                  God&apos;s love; through faith in Christ, we run because we have been received by grace. Jesus obeyed
-                  perfectly, bore our sins at the cross, rose again, and accomplished what we never could. Now His
-                  Spirit strengthens us to lay aside every weight and the sin that entangles us. When guilt speaks,
-                  remember His finished work. When temptation calls, remember His worth. When suffering comes,
-                  remember His endurance. The goal is not simply to leave Sodom—the goal is to follow Christ. The
-                  series ends today, but your walk with Jesus continues. Keep your eyes on Him. Live unashamed.
+                  You are still here. What are you doing with the mercy that brought you here? In Luke 13, Jesus
+                  calls His listeners to repent and tells the story of a fig tree that has received time and
+                  opportunity but produced no fruit. The gardener asks for more time and offers care so something
+                  can change. God&apos;s kindness leads us to repentance; His patience calls us to turn toward Him
+                  today. We cannot produce enough fruit to purchase salvation. Jesus died for sinners and rose
+                  again. We are saved by grace through faith in Christ, and good works grow from a life changed
+                  by that grace. Come to Jesus, confess what is real, and let His Word reach the places you have
+                  kept closed. Fruit may begin with an apology, telling the truth, forgiving someone, or turning
+                  away from a sin you keep feeding. Still standing by His mercy. Now turn toward Him.
+                  Keep your eyes on Jesus. Live unashamed.
                 </p>
               </div>
             </article>
