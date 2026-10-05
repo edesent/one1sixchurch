@@ -106,6 +106,18 @@ export default function UnashamedKidsPage() {
           </div>
         </section>
 
+        <figure style={{ margin: 0, padding: "0 16px 64px", background: "#fff" }}>
+          <img
+            src="/unashamed-kids-collage.jpg"
+            alt="UNASHAMED KIDS at ONE1SIX Church: children learning, creating, and playing together. Growing in faith. Growing together. Creciendo en la fe. Creciendo juntos."
+            width={1672}
+            height={941}
+            loading="lazy"
+            decoding="async"
+            style={{ display: "block", width: "100%", maxWidth: "1180px", height: "auto", margin: "0 auto", borderRadius: "20px" }}
+          />
+        </figure>
+
         <section className={styles.experience}>
           <div className={styles.sectionHeading}>
             <p className={styles.label}>WHAT THEY WILL EXPERIENCE</p>
