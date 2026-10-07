@@ -12,6 +12,7 @@ const navItems = [
   { label: "UNASHAMED KIDS", href: "/unashamed-kids" },
   { label: "Start Here", href: "/start-here" },
   { label: "Give", href: "/give" },
+  { label: "Outreach", href: "/meals-of-love" },
   { label: "Discipleship", href: "/discipleship" },
   { label: "Membership", href: "/membership" },
   { label: "Who We Are", href: "/who-is-116" },
