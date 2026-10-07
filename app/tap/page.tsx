@@ -165,6 +165,7 @@ export default async function TapPage({
             <div className={styles.copy}><strong>{text.serveTitle}</strong><small>{text.serveCopy}</small></div>
             <div className={styles.actions}>
               <Link href="/meals-of-love">{text.serveAction}<ArrowUpRight size={13} /></Link>
+              <Link href={`/south-worcester-neighborhood-center${langQuery}`}>{language === "es" ? "SIRVE EN SOUTH WORCESTER" : "SERVE IN SOUTH WORCESTER"}<ArrowUpRight size={13} /></Link>
             </div>
           </article>
         </div>
