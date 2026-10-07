@@ -18,7 +18,9 @@ const text = {
     join: "VOLUNTEER WITH ONE1SIX", learn: "ABOUT THE CENTER", location: "COMMUNITY CENTER",
     directions: "GET DIRECTIONS", aboutLabel: "OUR NEIGHBORS. OUR COMMUNITY.",
     aboutTitle: "South Worcester Neighborhood Center",
-    about: "South Worcester Neighborhood Center supports local individuals and families with food and connections to community resources. Its work helps neighbors access practical support and opportunities.",
+    about: "South Worcester Neighborhood Center helps strengthen families and build a stronger community. Through its food pantry, the center supports neighbors facing food insecurity with groceries for their households.",
+    resources: "Its mission reaches beyond food: helping individuals and families connect with housing resources, employment opportunities, health services, and education. By connecting neighbors with resources and support, the center helps people take practical steps toward greater stability.",
+    welcome: "If you or someone you know needs food, reach out. Asking for help should never be a source of shame. The center is a place to begin finding support for you and your family.",
     role: "ONE1SIX participates through volunteer service as part of our church outreach. We want to serve with humility, care, and respect for every person.",
     centerLink: "VISIT THE CENTER'S WEBSITE", valuesLabel: "FAITH IN ACTION",
     valuesTitle: "Serving people. Loving our city.",
@@ -30,8 +32,8 @@ const text = {
     callTitle: "Your next step could be serving.",
     callCopy: "Interested in joining ONE1SIX as a volunteer at the center? Contact our church outreach team to ask about opportunities, tasks, and scheduling.",
     email: "CONTACT OUR OUTREACH TEAM", other: "100 MEALS OF LOVE",
-    info: "Need help from the center?",
-    infoCopy: "Call South Worcester Neighborhood Center directly at (508) 757-8344 for current services, hours, and requirements.",
+    info: "Need groceries for your family?",
+    infoCopy: "Visit South Worcester Neighborhood Center at 47 Camp Street, Worcester, and ask about food pantry assistance for your household. Call (508) 757-8344 to confirm current pantry hours and the check-in process. You do not have to face food insecurity alone.",
     call: "CALL THE CENTER",
     scripture: "Our inspiration: love expressed through action and truth.",
 } as const;
@@ -92,7 +94,10 @@ export default function SouthWorcesterPage() {
           <div className={`${styles.shell} ${styles.aboutGrid}`}>
             <div><p className={styles.eyebrow}>{text.aboutLabel}</p><h2 className={styles.heading}>{text.aboutTitle}</h2></div>
             <div>
-              <p>{text.about}</p><p>{text.role}</p>
+              <p>{text.about}</p>
+              <p>{text.resources}</p>
+              <p><strong>{text.welcome}</strong></p>
+              <p>{text.role}</p>
               <a className={styles.textLink} href="https://swnic.weebly.com/" target="_blank" rel="noopener noreferrer">{text.centerLink}<ArrowUpRight size={17} aria-hidden="true" /></a>
             </div>
           </div>
