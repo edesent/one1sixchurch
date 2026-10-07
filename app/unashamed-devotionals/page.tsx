@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/X05L-nH48UUBKnKdQsvPqHi4vCWon1i_/17817-sDrfvP5IixLtngK5SYxUK4lUODg6O7.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/XQjXFiO9jfBoZsGA7DBhCn5Vz0UOeHEo/18241-7aKfVobTXjRbqgj5ZS1Aw7aLrhzB4O.mp4";
 
 export default function UnashamedDevotionalsPage() {
   return (
@@ -47,7 +47,7 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 1 — Still Standing by His Mercy
+                Day 2 — Repentance Goes Deeper Than Regret
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
                 Unashamed Week 11 · WOOD FOR FIRE
@@ -64,7 +64,7 @@ export default function UnashamedDevotionalsPage() {
               }}
             >
               <video
-                aria-label="Unashamed Week 11 Day 1 Still Standing by His Mercy devotional video"
+                aria-label="Unashamed Week 11 Day 2 Repentance Goes Deeper Than Regret devotional video"
                 controls
                 preload="metadata"
                 playsInline
@@ -97,7 +97,7 @@ export default function UnashamedDevotionalsPage() {
                     Scripture Focus
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Luke 13:1–9 · Romans 2:4
+                    2 Corinthians 7:9–10 · Luke 3:8 · Luke 19:1–10
                   </p>
                 </div>
                 <div>
@@ -105,8 +105,8 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Name one sin or attitude you have been excusing. Confess it to God, and take one specific step
-                    today to turn away from it.
+                    Identify one sin you need to turn from. Confess it to God, then take one concrete step today
+                    that changes how you respond to it.
                   </p>
                 </div>
               </div>
@@ -122,15 +122,16 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  You are still here. What are you doing with the mercy that brought you here? In Luke 13, Jesus
-                  calls His listeners to repent and tells the story of a fig tree that has received time and
-                  opportunity but produced no fruit. The gardener asks for more time and offers care so something
-                  can change. God&apos;s kindness leads us to repentance; His patience calls us to turn toward Him
-                  today. We cannot produce enough fruit to purchase salvation. Jesus died for sinners and rose
-                  again. We are saved by grace through faith in Christ, and good works grow from a life changed
-                  by that grace. Come to Jesus, confess what is real, and let His Word reach the places you have
-                  kept closed. Fruit may begin with an apology, telling the truth, forgiving someone, or turning
-                  away from a sin you keep feeding. Still standing by His mercy. Now turn toward Him.
+                  You can cry over your sin and still keep feeding it. Repentance goes deeper than feeling bad:
+                  it turns toward God. Paul rejoiced because the Corinthians&apos; sorrow led them to repentance.
+                  John called people to bear fruit that shows a changed direction through generosity, honesty,
+                  and refusing to exploit others. When Jesus came near to Zacchaeus, his response reached the
+                  way he used his money: he committed to generosity and repayment. He did not purchase salvation;
+                  Jesus came to seek and save the lost. Repentance is not sinless perfection, but neither is it
+                  protecting the same sin while promising to change. Bring the struggle into the light, confess
+                  it, and take the next obedient step. Your tears cannot wash away your sin. Jesus gave His life
+                  for sinners and rose again. Forgiveness rests on His finished work, and His Spirit strengthens
+                  us to obey. Let your sorrow bring you to Jesus. Let His grace move you into obedience.
                   Keep your eyes on Jesus. Live unashamed.
                 </p>
               </div>
