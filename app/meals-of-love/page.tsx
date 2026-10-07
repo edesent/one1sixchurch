@@ -8,6 +8,7 @@ import {
   UtensilsCrossed,
 } from "lucide-react";
 import Image from "next/image";
+import Link from "next/link";
 
 import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
@@ -202,6 +203,21 @@ export default function MealsOfLovePage() {
                 <figcaption>Real meals. Real love.</figcaption>
               </figure>
             </div>
+          </div>
+        </section>
+
+        <section className="mol-story-section" aria-labelledby="community-volunteers">
+          <div className="mol-section-shell">
+            <div className="mol-story-heading">
+              <div>
+                <p className="mol-section-label">SERVING OUR NEIGHBORS</p>
+                <h2 id="community-volunteers">Love shows up.<br /><span>Beyond the meal.</span></h2>
+              </div>
+              <p>As part of our outreach, ONE1SIX Church is serving as volunteers at South Worcester Neighborhood Center. Learn about the center and connect with our outreach team to get involved.</p>
+            </div>
+            <Link className="mol-outline-button" href="/south-worcester-neighborhood-center">
+              South Worcester Neighborhood Center <ArrowRight size={18} aria-hidden="true" />
+            </Link>
           </div>
         </section>
 
