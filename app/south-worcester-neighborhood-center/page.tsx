@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 import { ArrowLeft, ArrowUpRight, Building2, HandHeart, HeartHandshake, MapPin, Phone, Users } from "lucide-react";
 import { SiteHeader } from "../_components/SiteHeader";
 import { SiteFooter } from "../_components/SiteFooter";
@@ -10,8 +11,7 @@ export const metadata: Metadata = {
   description: "ONE1SIX Church serves as volunteers at South Worcester Neighborhood Center. Learn about this part of our Worcester outreach and connect with our team.",
 };
 
-const copy = {
-  en: {
+const text = {
     back: "BACK TO OUTREACH", eyebrow: "ONE1SIX OUTREACH · WORCESTER, MA",
     title: "LOVE", accent: "SHOWS UP.",
     lead: "As part of our outreach, ONE1SIX Church is serving as volunteers at South Worcester Neighborhood Center. We are grateful for the opportunity to serve our neighbors and put our faith into action.",
@@ -34,51 +34,21 @@ const copy = {
     infoCopy: "Call South Worcester Neighborhood Center directly at (508) 757-8344 for current services, hours, and requirements.",
     call: "CALL THE CENTER",
     scripture: "Our inspiration: love expressed through action and truth.",
-  },
-  es: {
-    back: "VOLVER A OUTREACH", eyebrow: "OUTREACH ONE1SIX · WORCESTER, MA",
-    title: "EL AMOR", accent: "SE HACE PRESENTE.",
-    lead: "Como parte de nuestro outreach, ONE1SIX Church está sirviendo como voluntarios en South Worcester Neighborhood Center. Agradecemos la oportunidad de servir a nuestros vecinos y poner nuestra fe en acción.",
-    join: "SIRVE CON ONE1SIX", learn: "CONOCE EL CENTRO", location: "CENTRO COMUNITARIO",
-    directions: "CÓMO LLEGAR", aboutLabel: "NUESTROS VECINOS. NUESTRA COMUNIDAD.",
-    aboutTitle: "South Worcester Neighborhood Center",
-    about: "South Worcester Neighborhood Center apoya a personas y familias de la comunidad con alimentos y acceso a recursos comunitarios. Su labor ayuda a los vecinos a encontrar apoyo práctico y oportunidades.",
-    role: "ONE1SIX participa mediante el servicio voluntario como parte del outreach de nuestra iglesia. Queremos servir con humildad, cuidado y respeto por cada persona.",
-    centerLink: "VISITA LA PÁGINA DEL CENTRO", valuesLabel: "FE EN ACCIÓN",
-    valuesTitle: "Sirviendo a las personas. Amando nuestra ciudad.",
-    cards: [
-      { title: "Hacernos presentes", body: "Creemos que el amor se hace visible cuando dedicamos tiempo a servir a nuestros vecinos." },
-      { title: "Honrar a cada persona", body: "Queremos que cada encuentro refleje compasión, dignidad y respeto." },
-      { title: "Servir juntos", body: "El voluntariado ofrece a nuestra familia de la iglesia otra manera de contribuir a la vida de nuestra comunidad." },
-    ],
-    callTitle: "Tu próximo paso puede ser servir.",
-    callCopy: "¿Te interesa servir con ONE1SIX como voluntario en el centro? Contacta al equipo de outreach de nuestra iglesia para conocer las oportunidades, las tareas y los horarios.",
-    email: "CONTACTA A NUESTRO EQUIPO", other: "100 MEALS OF LOVE",
-    info: "¿Necesitas ayuda del centro?",
-    infoCopy: "Llama directamente a South Worcester Neighborhood Center al (508) 757-8344 para consultar los servicios, horarios y requisitos actuales.",
-    call: "LLAMA AL CENTRO",
-    scripture: "Nuestra inspiración: amar con hechos y en verdad.",
-  },
 } as const;
 
-export default async function SouthWorcesterPage({ searchParams }: { searchParams: Promise<{ lang?: string }> }) {
-  const language = (await searchParams).lang === "es" ? "es" : "en";
-  const text = copy[language];
+export default function SouthWorcesterPage() {
   const icons = [HandHeart, HeartHandshake, Users];
-  const subject = language === "es" ? "Voluntariado ONE1SIX - South Worcester Neighborhood Center" : "ONE1SIX Volunteering - South Worcester Neighborhood Center";
+  const subject = "ONE1SIX Volunteering - South Worcester Neighborhood Center";
 
   return (
     <>
       <SiteHeader />
-      <main className={styles.page} lang={language}>
+      <main className={styles.page} lang="en">
         <section className={styles.hero}>
           <div className={styles.shell}>
             <div className={styles.top}>
               <Link href="/meals-of-love" className={styles.back}><ArrowLeft size={16} aria-hidden="true" />{text.back}</Link>
-              <nav className={styles.language} aria-label={language === "es" ? "Idioma" : "Language"}>
-                <Link href="/south-worcester-neighborhood-center?lang=en" aria-current={language === "en" ? "page" : undefined}>EN</Link>
-                <Link href="/south-worcester-neighborhood-center?lang=es" aria-current={language === "es" ? "page" : undefined}>ESP</Link>
-              </nav>
+
             </div>
             <div className={styles.heroGrid}>
               <div>
@@ -98,6 +68,23 @@ export default async function SouthWorcesterPage({ searchParams }: { searchParam
                 <p><Phone size={18} aria-hidden="true" /><a href="tel:+15087578344">(508) 757-8344</a></p>
                 <a href="https://www.google.com/maps/search/?api=1&query=South%20Worcester%20Neighborhood%20Center%2047%20Camp%20Street%20Worcester%20MA" target="_blank" rel="noopener noreferrer" className={styles.textLink}>{text.directions}<ArrowUpRight size={17} aria-hidden="true" /></a>
               </aside>
+            </div>
+          </div>
+        </section>
+        <section className={styles.gallery} aria-labelledby="outreach-photos">
+          <div className={styles.shell}>
+            <p className={styles.eyebrow}>AT SOUTH WORCESTER NEIGHBORHOOD CENTER</p>
+            <h2 className={styles.heading} id="outreach-photos">Hands ready to serve.</h2>
+            <p className={styles.galleryIntro}>A look inside the center: volunteers working together and food ready to support our neighbors.</p>
+            <div className={styles.photoGrid}>
+              <figure>
+                <Image src="/south-worcester-volunteers-moving-produce.jpg" alt="Volunteers moving boxes of produce at South Worcester Neighborhood Center" width={1536} height={1152} sizes="(max-width: 680px) 100vw, 64vw" />
+                <figcaption>Serving together.</figcaption>
+              </figure>
+              <figure>
+                <Image src="/south-worcester-food-pantry-supplies.jpg" alt="Boxes of food and prepared grocery bags at South Worcester Neighborhood Center" width={1152} height={1536} sizes="(max-width: 680px) 100vw, 36vw" />
+                <figcaption>Practical care for our community.</figcaption>
+              </figure>
             </div>
           </div>
         </section>
@@ -131,7 +118,7 @@ export default async function SouthWorcesterPage({ searchParams }: { searchParam
             <div><h3>{text.info}</h3><p>{text.infoCopy}</p><a className={styles.textLink} href="tel:+15087578344">{text.call}<Phone size={16} aria-hidden="true" /></a></div>
           </div>
         </section>
-        <div className={styles.scripture}><div className={styles.shell}><p>{text.scripture}</p><strong>{language === "es" ? "1 JUAN 3:18" : "1 JOHN 3:18"}</strong></div></div>
+        <div className={styles.scripture}><div className={styles.shell}><p>{text.scripture}</p><strong>1 JOHN 3:18</strong></div></div>
       </main>
       <SiteFooter />
     </>
