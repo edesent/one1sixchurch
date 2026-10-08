@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/XQjXFiO9jfBoZsGA7DBhCn5Vz0UOeHEo/18241-7aKfVobTXjRbqgj5ZS1Aw7aLrhzB4O.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/mX7WJHKC2GbQ0PxWk3uiHFqob55_GuQ1/18320-qcK8M45bisJX43rnIh94GtE7QxpxfQ.mp4";
 
 export default function UnashamedDevotionalsPage() {
   return (
@@ -47,7 +47,7 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 2 — Repentance Goes Deeper Than Regret
+                Day 3 — Let Him Work the Soil
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
                 Unashamed Week 11 · WOOD FOR FIRE
@@ -64,7 +64,7 @@ export default function UnashamedDevotionalsPage() {
               }}
             >
               <video
-                aria-label="Unashamed Week 11 Day 2 Repentance Goes Deeper Than Regret devotional video"
+                aria-label="Unashamed Week 11 Day 3 Let Him Work the Soil devotional video"
                 controls
                 preload="metadata"
                 playsInline
@@ -97,7 +97,7 @@ export default function UnashamedDevotionalsPage() {
                     Scripture Focus
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    2 Corinthians 7:9–10 · Luke 3:8 · Luke 19:1–10
+                    Luke 13:6–9 · Hebrews 12:10–11 · Psalm 139:23–24
                   </p>
                 </div>
                 <div>
@@ -105,8 +105,8 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Identify one sin you need to turn from. Confess it to God, then take one concrete step today
-                    that changes how you respond to it.
+                    Read Psalm 139:23–24. Ask God to search your heart, then take one specific step of obedience
+                    in an area His Word exposes.
                   </p>
                 </div>
               </div>
@@ -122,17 +122,18 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  You can cry over your sin and still keep feeding it. Repentance goes deeper than feeling bad:
-                  it turns toward God. Paul rejoiced because the Corinthians&apos; sorrow led them to repentance.
-                  John called people to bear fruit that shows a changed direction through generosity, honesty,
-                  and refusing to exploit others. When Jesus came near to Zacchaeus, his response reached the
-                  way he used his money: he committed to generosity and repayment. He did not purchase salvation;
-                  Jesus came to seek and save the lost. Repentance is not sinless perfection, but neither is it
-                  protecting the same sin while promising to change. Bring the struggle into the light, confess
-                  it, and take the next obedient step. Your tears cannot wash away your sin. Jesus gave His life
-                  for sinners and rose again. Forgiveness rests on His finished work, and His Spirit strengthens
-                  us to obey. Let your sorrow bring you to Jesus. Let His grace move you into obedience.
-                  Keep your eyes on Jesus. Live unashamed.
+                  You want your life to change. But will you let God touch what you have buried? In Luke 13,
+                  the gardener asks for more time for the fruitless fig tree and commits to digging around it
+                  and caring for the soil. This picture invites us to open our hearts to God&apos;s Word rather
+                  than protecting the pride and sin He exposes. David asks God to search his heart and lead
+                  him in the everlasting way. Hebrews 12 teaches that the Father trains His children for their
+                  good, so they may share in His holiness. His correction is part of His care, not rejection.
+                  Hardship does not automatically mean punishment for a specific sin. Ask God for wisdom to
+                  obey. Jesus bore our sins at the cross and rose again; we are received by grace through faith
+                  in Him. Our growth does not purchase our place in God&apos;s family. His Spirit works in us,
+                  His Word tells us the truth, and we respond with obedience. Confess what is wrong, receive
+                  correction that agrees with Scripture, ask for prayer, and take the step you have been
+                  postponing. Let Him work the soil. Keep your eyes on Jesus. Live unashamed.
                 </p>
               </div>
             </article>
