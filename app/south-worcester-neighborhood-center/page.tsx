@@ -7,18 +7,18 @@ import { SiteFooter } from "../_components/SiteFooter";
 import styles from "./community.module.css";
 
 export const metadata: Metadata = {
-  title: "South Worcester Neighborhood Center Outreach | ONE1SIX Church",
-  description: "ONE1SIX Church serves as volunteers at South Worcester Neighborhood Center. Learn about this part of our Worcester outreach and connect with our team.",
+  title: "South Worcester Neighborhood Improvement Center Outreach | ONE1SIX Church",
+  description: "ONE1SIX Church serves as volunteers at South Worcester Neighborhood Improvement Center. Learn about this part of our Worcester outreach and connect with our team.",
 };
 
 const text = {
     back: "BACK TO OUTREACH", eyebrow: "ONE1SIX OUTREACH · WORCESTER, MA",
     title: "LOVE", accent: "SHOWS UP.",
-    lead: "As part of our outreach, ONE1SIX Church is serving as volunteers at South Worcester Neighborhood Center. We are grateful for the opportunity to serve our neighbors and put our faith into action.",
+    lead: "As part of our outreach, ONE1SIX Church is serving as volunteers at South Worcester Neighborhood Improvement Center. We are grateful for the opportunity to serve our neighbors and put our faith into action.",
     join: "VOLUNTEER WITH ONE1SIX", learn: "ABOUT THE CENTER", location: "COMMUNITY CENTER",
     directions: "GET DIRECTIONS", aboutLabel: "OUR NEIGHBORS. OUR COMMUNITY.",
-    aboutTitle: "South Worcester Neighborhood Center",
-    about: "South Worcester Neighborhood Center helps strengthen families and build a stronger community. Through its food pantry, the center supports neighbors facing food insecurity with groceries for their households.",
+    aboutTitle: "South Worcester Neighborhood Improvement Center",
+    about: "South Worcester Neighborhood Improvement Center helps strengthen families and build a stronger community. Through its food pantry, the center supports neighbors facing food insecurity with groceries for their households.",
     resources: "Its mission reaches beyond food: helping individuals and families connect with housing resources, employment opportunities, health services, and education. By connecting neighbors with resources and support, the center helps people take practical steps toward greater stability.",
     welcome: "If you or someone you know needs food, reach out. Asking for help should never be a source of shame. The center is a place to begin finding support for you and your family.",
     role: "ONE1SIX participates through volunteer service as part of our church outreach. We want to serve with humility, care, and respect for every person.",
@@ -33,14 +33,14 @@ const text = {
     callCopy: "Interested in joining ONE1SIX as a volunteer at the center? Contact our church outreach team to ask about opportunities, tasks, and scheduling.",
     email: "CONTACT OUR OUTREACH TEAM", other: "100 MEALS OF LOVE",
     info: "Need groceries for your family?",
-    infoCopy: "Visit South Worcester Neighborhood Center at 47 Camp Street, Worcester, and ask about food pantry assistance for your household. Call (508) 757-8344 to confirm current pantry hours and the check-in process. You do not have to face food insecurity alone.",
+    infoCopy: "Visit South Worcester Neighborhood Improvement Center at 47 Camp Street, Worcester, and ask about food pantry assistance for your household. Call (508) 757-8344 to confirm current pantry hours and the check-in process. You do not have to face food insecurity alone.",
     call: "CALL THE CENTER",
     scripture: "Our inspiration: love expressed through action and truth.",
 } as const;
 
 export default function SouthWorcesterPage() {
   const icons = [HandHeart, HeartHandshake, Users];
-  const subject = "ONE1SIX Volunteering - South Worcester Neighborhood Center";
+  const subject = "ONE1SIX Volunteering - South Worcester Neighborhood Improvement Center";
 
   return (
     <>
@@ -62,29 +62,33 @@ export default function SouthWorcesterPage() {
                   <a href="#about-center" className={styles.outline}>{text.learn}</a>
                 </div>
               </div>
-              <aside className={styles.centerCard} aria-label="South Worcester Neighborhood Center">
+              <aside className={styles.centerCard} aria-label="South Worcester Neighborhood Improvement Center">
                 <Building2 size={46} strokeWidth={1.4} aria-hidden="true" />
                 <p className={styles.eyebrow}>{text.location}</p>
-                <h2>South Worcester<br />Neighborhood Center</h2>
+                <h2>South Worcester<br />Neighborhood<br />Improvement Center</h2>
                 <p><MapPin size={19} aria-hidden="true" /><span>47 Camp Street<br />Worcester, MA 01603</span></p>
                 <p><Phone size={18} aria-hidden="true" /><a href="tel:+15087578344">(508) 757-8344</a></p>
-                <a href="https://www.google.com/maps/search/?api=1&query=South%20Worcester%20Neighborhood%20Center%2047%20Camp%20Street%20Worcester%20MA" target="_blank" rel="noopener noreferrer" className={styles.textLink}>{text.directions}<ArrowUpRight size={17} aria-hidden="true" /></a>
+                <a href="https://www.google.com/maps/search/?api=1&query=South%20Worcester%20Neighborhood%20Improvement%20Center%2047%20Camp%20Street%20Worcester%20MA" target="_blank" rel="noopener noreferrer" className={styles.textLink}>{text.directions}<ArrowUpRight size={17} aria-hidden="true" /></a>
               </aside>
             </div>
           </div>
         </section>
         <section className={styles.gallery} aria-labelledby="outreach-photos">
           <div className={styles.shell}>
-            <p className={styles.eyebrow}>AT SOUTH WORCESTER NEIGHBORHOOD CENTER</p>
+            <p className={styles.eyebrow}>AT SOUTH WORCESTER NEIGHBORHOOD IMPROVEMENT CENTER</p>
             <h2 className={styles.heading} id="outreach-photos">Hands ready to serve.</h2>
-            <p className={styles.galleryIntro}>A look inside the center: volunteers working together and food ready to support our neighbors.</p>
+            <p className={styles.galleryIntro}>A look at the center and the care happening inside: volunteers working together and food ready to support our neighbors.</p>
+            <figure className={styles.centerExterior}>
+              <Image src="/south-worcester-improvement-center-building.jpg" alt="Exterior of South Worcester Neighborhood Improvement Center, with its building sign visible" width={1536} height={1152} sizes="(max-width: 1180px) 100vw, 1180px" />
+              <figcaption>South Worcester Neighborhood Improvement Center · 47 Camp Street, Worcester</figcaption>
+            </figure>
             <div className={styles.photoGrid}>
               <figure>
-                <Image src="/south-worcester-volunteers-moving-produce.jpg" alt="Volunteers moving boxes of produce at South Worcester Neighborhood Center" width={1536} height={1152} sizes="(max-width: 680px) 100vw, 64vw" />
+                <Image src="/south-worcester-volunteers-moving-produce.jpg" alt="Volunteers moving boxes of produce at South Worcester Neighborhood Improvement Center" width={1536} height={1152} sizes="(max-width: 680px) 100vw, 64vw" />
                 <figcaption>Serving together.</figcaption>
               </figure>
               <figure>
-                <Image src="/south-worcester-food-pantry-supplies.jpg" alt="Boxes of food and prepared grocery bags at South Worcester Neighborhood Center" width={1152} height={1536} sizes="(max-width: 680px) 100vw, 36vw" />
+                <Image src="/south-worcester-food-pantry-supplies.jpg" alt="Boxes of food and prepared grocery bags at South Worcester Neighborhood Improvement Center" width={1152} height={1536} sizes="(max-width: 680px) 100vw, 36vw" />
                 <figcaption>Practical care for our community.</figcaption>
               </figure>
             </div>
