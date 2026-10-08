@@ -215,7 +215,7 @@ export default function MealsOfLovePage() {
               </div>
               <p>As part of our outreach, ONE1SIX Church is serving as volunteers at South Worcester Neighborhood Improvement Center. Learn about the center and connect with our outreach team to get involved.</p>
             </div>
-            <Link className="mol-outline-button" href="/south-worcester-neighborhood-center">
+            <Link className="mol-outline-button" href="/south-worcester-neighborhood-center" aria-label="Learn about volunteering at South Worcester Neighborhood Improvement Center">
               South Worcester Neighborhood Improvement Center <ArrowRight size={18} aria-hidden="true" />
             </Link>
           </div>
