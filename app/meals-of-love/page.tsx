@@ -213,10 +213,10 @@ export default function MealsOfLovePage() {
                 <p className="mol-section-label">SERVING OUR NEIGHBORS</p>
                 <h2 id="community-volunteers">Love shows up.<br /><span>Beyond the meal.</span></h2>
               </div>
-              <p>As part of our outreach, ONE1SIX Church is serving as volunteers at South Worcester Neighborhood Center. Learn about the center and connect with our outreach team to get involved.</p>
+              <p>As part of our outreach, ONE1SIX Church is serving as volunteers at South Worcester Neighborhood Improvement Center. Learn about the center and connect with our outreach team to get involved.</p>
             </div>
             <Link className="mol-outline-button" href="/south-worcester-neighborhood-center">
-              South Worcester Neighborhood Center <ArrowRight size={18} aria-hidden="true" />
+              South Worcester Neighborhood Improvement Center <ArrowRight size={18} aria-hidden="true" />
             </Link>
           </div>
         </section>
