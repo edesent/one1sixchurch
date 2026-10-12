@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/mX7WJHKC2GbQ0PxWk3uiHFqob55_GuQ1/18320-qcK8M45bisJX43rnIh94GtE7QxpxfQ.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/QsmFflqJMoGXOd8SxpH9OT2DnByygGI6/19243-GmGlSur5x35v5qIbIcqgFt7bciL05j.mp4";
 
 export default function UnashamedDevotionalsPage() {
   return (
@@ -47,10 +47,10 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 3 — Let Him Work the Soil
+                Day 1 — Beneath the Surface
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
-                Unashamed Week 11 · WOOD FOR FIRE
+                Unashamed Week 12 · WHAT ARE YOU BUILDING ON?
               </p>
             </div>
 
@@ -64,7 +64,7 @@ export default function UnashamedDevotionalsPage() {
               }}
             >
               <video
-                aria-label="Unashamed Week 11 Day 3 Let Him Work the Soil devotional video"
+                aria-label="Unashamed Week 12 Day 1 Beneath the Surface devotional video"
                 controls
                 preload="metadata"
                 playsInline
@@ -97,7 +97,7 @@ export default function UnashamedDevotionalsPage() {
                     Scripture Focus
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Luke 13:6–9 · Hebrews 12:10–11 · Psalm 139:23–24
+                    Matthew 7:24–27 · Psalm 139:23–24
                   </p>
                 </div>
                 <div>
@@ -105,8 +105,8 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Read Psalm 139:23–24. Ask God to search your heart, then take one specific step of obedience
-                    in an area His Word exposes.
+                    Ask God to reveal one area where you have resisted His Word. Name it honestly, confess it,
+                    and take one concrete step of obedience today.
                   </p>
                 </div>
               </div>
@@ -122,18 +122,16 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  You want your life to change. But will you let God touch what you have buried? In Luke 13,
-                  the gardener asks for more time for the fruitless fig tree and commits to digging around it
-                  and caring for the soil. This picture invites us to open our hearts to God&apos;s Word rather
-                  than protecting the pride and sin He exposes. David asks God to search his heart and lead
-                  him in the everlasting way. Hebrews 12 teaches that the Father trains His children for their
-                  good, so they may share in His holiness. His correction is part of His care, not rejection.
-                  Hardship does not automatically mean punishment for a specific sin. Ask God for wisdom to
-                  obey. Jesus bore our sins at the cross and rose again; we are received by grace through faith
-                  in Him. Our growth does not purchase our place in God&apos;s family. His Spirit works in us,
-                  His Word tells us the truth, and we respond with obedience. Confess what is wrong, receive
-                  correction that agrees with Scripture, ask for prayer, and take the step you have been
-                  postponing. Let Him work the soil. Keep your eyes on Jesus. Live unashamed.
+                  People see the house. Jesus sees the foundation. In Matthew 7, both builders hear Jesus,
+                  both build, and both face a storm. The difference is that one puts His words into practice.
+                  Today, invite God to search the hidden places of your heart, as David does in Psalm 139.
+                  What has the final word in your decisions: your feelings, the approval of others, fear,
+                  or the words of Jesus? Bring your sin to the Savior honestly. Jesus obeyed the Father
+                  perfectly, died for our sins, and rose again. We receive His salvation through faith;
+                  obedience is the fruit of that new life, not the price we pay to receive it. Confess what
+                  you have hidden, receive His mercy, and take the next faithful step. The foundation begins
+                  to show when what Jesus says changes what you do next. Keep your eyes on Jesus.
+                  Stand firm on truth. Live unashamed.
                 </p>
               </div>
             </article>
