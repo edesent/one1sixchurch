@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/QsmFflqJMoGXOd8SxpH9OT2DnByygGI6/19243-GmGlSur5x35v5qIbIcqgFt7bciL05j.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/O2J3ePnGW6QVcXKEW8MUt6JjpC83BhX9/19304-vSQpMXuzKQR1EG0humJF9SqsZdmCHL.mp4";
 
 export default function UnashamedDevotionalsPage() {
   return (
@@ -47,7 +47,7 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 1 — Beneath the Surface
+                Day 2 — Your “Amen” Is Not Enough
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
                 Unashamed Week 12 · WHAT ARE YOU BUILDING ON?
@@ -64,7 +64,7 @@ export default function UnashamedDevotionalsPage() {
               }}
             >
               <video
-                aria-label="Unashamed Week 12 Day 1 Beneath the Surface devotional video"
+                aria-label="Unashamed Week 12 Day 2 Your Amen Is Not Enough devotional video"
                 controls
                 preload="metadata"
                 playsInline
@@ -97,7 +97,7 @@ export default function UnashamedDevotionalsPage() {
                     Scripture Focus
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Matthew 7:24–27 · Psalm 139:23–24
+                    James 1:22–25 · Matthew 7:24–27
                   </p>
                 </div>
                 <div>
@@ -105,8 +105,8 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Ask God to reveal one area where you have resisted His Word. Name it honestly, confess it,
-                    and take one concrete step of obedience today.
+                    Read James 1:22–25. Identify one truth you have heard but resisted, then take one specific
+                    action today that puts it into practice.
                   </p>
                 </div>
               </div>
@@ -122,15 +122,16 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  People see the house. Jesus sees the foundation. In Matthew 7, both builders hear Jesus,
-                  both build, and both face a storm. The difference is that one puts His words into practice.
-                  Today, invite God to search the hidden places of your heart, as David does in Psalm 139.
-                  What has the final word in your decisions: your feelings, the approval of others, fear,
-                  or the words of Jesus? Bring your sin to the Savior honestly. Jesus obeyed the Father
-                  perfectly, died for our sins, and rose again. We receive His salvation through faith;
-                  obedience is the fruit of that new life, not the price we pay to receive it. Confess what
-                  you have hidden, receive His mercy, and take the next faithful step. The foundation begins
-                  to show when what Jesus says changes what you do next. Keep your eyes on Jesus.
+                  Your “Amen” says you heard Him. Your next decision shows whether you are putting His
+                  words into practice. James compares hearing without acting to looking in a mirror and
+                  walking away forgetting what you have seen. God&apos;s Word exposes our condition and
+                  calls us to respond. Both builders in Matthew 7 hear Jesus, but only one obeys His
+                  teaching. Knowing Scripture is not the same as living by it. Bring your excuses to
+                  Jesus, confess what you have defended, and receive His mercy. Jesus obeyed the Father
+                  perfectly, died for our sins, and rose again. We are saved by grace through faith;
+                  obedience cannot purchase forgiveness. By His Spirit, we learn a new way of living.
+                  Let the truth shape how you speak, how you treat people, and what you choose next.
+                  Let your “Amen” be followed by a faithful step. Keep your eyes on Jesus.
                   Stand firm on truth. Live unashamed.
                 </p>
               </div>
