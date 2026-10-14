@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/O2J3ePnGW6QVcXKEW8MUt6JjpC83BhX9/19304-vSQpMXuzKQR1EG0humJF9SqsZdmCHL.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/G_SULJFuSrE6HWIPep1fWHoBk4kGul6W/19536-vnjhMWM4tDn4DsJLZE7JiDNT92zAIO.mp4";
 
 export default function UnashamedDevotionalsPage() {
   return (
@@ -47,7 +47,7 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 2 — Your “Amen” Is Not Enough
+                Day 3 — Build Where You Actually Live
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
                 Unashamed Week 12 · WHAT ARE YOU BUILDING ON?
@@ -64,7 +64,7 @@ export default function UnashamedDevotionalsPage() {
               }}
             >
               <video
-                aria-label="Unashamed Week 12 Day 2 Your Amen Is Not Enough devotional video"
+                aria-label="Unashamed Week 12 Day 3 Build Where You Actually Live devotional video"
                 controls
                 preload="metadata"
                 playsInline
@@ -97,7 +97,7 @@ export default function UnashamedDevotionalsPage() {
                     Scripture Focus
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    James 1:22–25 · Matthew 7:24–27
+                    Luke 6:46–49 · Ephesians 2:8–10
                   </p>
                 </div>
                 <div>
@@ -105,8 +105,8 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Read James 1:22–25. Identify one truth you have heard but resisted, then take one specific
-                    action today that puts it into practice.
+                    Choose one relationship where your actions need to reflect Jesus’ teaching. Take one concrete
+                    step today: offer an honest apology, tell the truth, or meet a practical need.
                   </p>
                 </div>
               </div>
@@ -122,17 +122,18 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Your “Amen” says you heard Him. Your next decision shows whether you are putting His
-                  words into practice. James compares hearing without acting to looking in a mirror and
-                  walking away forgetting what you have seen. God&apos;s Word exposes our condition and
-                  calls us to respond. Both builders in Matthew 7 hear Jesus, but only one obeys His
-                  teaching. Knowing Scripture is not the same as living by it. Bring your excuses to
-                  Jesus, confess what you have defended, and receive His mercy. Jesus obeyed the Father
-                  perfectly, died for our sins, and rose again. We are saved by grace through faith;
-                  obedience cannot purchase forgiveness. By His Spirit, we learn a new way of living.
-                  Let the truth shape how you speak, how you treat people, and what you choose next.
-                  Let your “Amen” be followed by a faithful step. Keep your eyes on Jesus.
-                  Stand firm on truth. Live unashamed.
+                  Your home is a building site. So is your workplace, your phone, and your next conversation.
+                  In Luke 6, Jesus describes the person who comes to Him, hears His teaching, and puts it into
+                  practice as a builder who digs deeply and lays a foundation on rock. Following Jesus brings
+                  our hidden loyalties, private habits, and everyday relationships under His authority.
+                  The people closest to us should experience the fruit of what we hear from Him.
+                  Ephesians 2 reminds us that salvation is God&apos;s gift, received by grace through faith.
+                  Good works flow from new life in Christ; they do not purchase our belonging to Him.
+                  Jesus obeyed the Father perfectly, died for our sins, and rose again. Trust His saving
+                  grace and depend on His Spirit. Confess the gap between your public faith and private life,
+                  receive His mercy, and take a faithful step where you are. Offer an honest apology,
+                  speak truth, or meet a practical need. Build where you actually live.
+                  Keep your eyes on Jesus. Stand firm on truth. Live unashamed.
                 </p>
               </div>
             </article>
