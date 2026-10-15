@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/G_SULJFuSrE6HWIPep1fWHoBk4kGul6W/19536-vnjhMWM4tDn4DsJLZE7JiDNT92zAIO.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/MX2D7Plty1Xwf_yzwjkSdgDMuyKy_XSg/19774-9qofo80wVaaXPxYJ0tXLKTKJqBHxnX.mp4";
 
 export default function UnashamedDevotionalsPage() {
   return (
@@ -47,7 +47,7 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 3 — Build Where You Actually Live
+                Day 4 — Same Storm, Different Foundation
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
                 Unashamed Week 12 · WHAT ARE YOU BUILDING ON?
@@ -64,7 +64,7 @@ export default function UnashamedDevotionalsPage() {
               }}
             >
               <video
-                aria-label="Unashamed Week 12 Day 3 Build Where You Actually Live devotional video"
+                aria-label="Unashamed Week 12 Day 4 Same Storm Different Foundation devotional video"
                 controls
                 preload="metadata"
                 playsInline
@@ -97,7 +97,7 @@ export default function UnashamedDevotionalsPage() {
                     Scripture Focus
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Luke 6:46–49 · Ephesians 2:8–10
+                    Matthew 7:24–27 · John 16:33
                   </p>
                 </div>
                 <div>
@@ -105,8 +105,8 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Choose one relationship where your actions need to reflect Jesus’ teaching. Take one concrete
-                    step today: offer an honest apology, tell the truth, or meet a practical need.
+                    Name one pressure you are facing. Read John 16:33, pray honestly about it, and choose one
+                    response that agrees with Jesus’ teaching.
                   </p>
                 </div>
               </div>
@@ -122,17 +122,18 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Your home is a building site. So is your workplace, your phone, and your next conversation.
-                  In Luke 6, Jesus describes the person who comes to Him, hears His teaching, and puts it into
-                  practice as a builder who digs deeply and lays a foundation on rock. Following Jesus brings
-                  our hidden loyalties, private habits, and everyday relationships under His authority.
-                  The people closest to us should experience the fruit of what we hear from Him.
-                  Ephesians 2 reminds us that salvation is God&apos;s gift, received by grace through faith.
-                  Good works flow from new life in Christ; they do not purchase our belonging to Him.
-                  Jesus obeyed the Father perfectly, died for our sins, and rose again. Trust His saving
-                  grace and depend on His Spirit. Confess the gap between your public faith and private life,
-                  receive His mercy, and take a faithful step where you are. Offer an honest apology,
-                  speak truth, or meet a practical need. Build where you actually live.
+                  You can build on the rock and still feel the wind. In Matthew 7, both builders face
+                  rain, floods, and wind. Jesus describes the wise builder as someone who hears His teaching
+                  and puts it into practice. Following Him does not guarantee a life without suffering.
+                  Illness, grief, and financial hardship do not automatically mean disobedience or abandonment
+                  by God. In John 16:33, Jesus prepares His disciples for trouble and directs their hope
+                  toward His victory. Bring your pain to Him honestly, ask for help, and keep following
+                  His Word. Matthew 7 also calls us to consider whether we will stand before Christ in
+                  judgment. Religious appearances and good deeds cannot save us. Jesus obeyed the Father
+                  perfectly, died for our sins, and rose again. We receive salvation by grace through faith,
+                  and trusting Him includes receiving His authority and learning to obey. Confess what you
+                  have trusted more than His Word and take the next faithful step.
+                  The rain may be loud. His words are still true.
                   Keep your eyes on Jesus. Stand firm on truth. Live unashamed.
                 </p>
               </div>
