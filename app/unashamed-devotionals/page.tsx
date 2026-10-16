@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/MX2D7Plty1Xwf_yzwjkSdgDMuyKy_XSg/19774-9qofo80wVaaXPxYJ0tXLKTKJqBHxnX.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/3nFMw__lkiJnYdZAITtHzZnpe3pbMrFB/19938-7PLOGddksNsSmNnicmpVfQxkCS5krA.mp4";
 
 export default function UnashamedDevotionalsPage() {
   return (
@@ -47,7 +47,7 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 4 — Same Storm, Different Foundation
+                Day 5 — Jesus Is Your Only Foundation
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
                 Unashamed Week 12 · WHAT ARE YOU BUILDING ON?
@@ -64,7 +64,7 @@ export default function UnashamedDevotionalsPage() {
               }}
             >
               <video
-                aria-label="Unashamed Week 12 Day 4 Same Storm Different Foundation devotional video"
+                aria-label="Unashamed Week 12 Day 5 Jesus Is Your Only Foundation devotional video"
                 controls
                 preload="metadata"
                 playsInline
@@ -97,7 +97,7 @@ export default function UnashamedDevotionalsPage() {
                     Scripture Focus
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Matthew 7:24–27 · John 16:33
+                    1 Corinthians 3:11 · John 15:4–5
                   </p>
                 </div>
                 <div>
@@ -105,8 +105,8 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Name one pressure you are facing. Read John 16:33, pray honestly about it, and choose one
-                    response that agrees with Jesus’ teaching.
+                    Read John 15:4–5. Set aside ten minutes to pray without distractions, then choose one daily
+                    time to continue reading and responding to Jesus’ teaching.
                   </p>
                 </div>
               </div>
@@ -122,18 +122,17 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  You can build on the rock and still feel the wind. In Matthew 7, both builders face
-                  rain, floods, and wind. Jesus describes the wise builder as someone who hears His teaching
-                  and puts it into practice. Following Him does not guarantee a life without suffering.
-                  Illness, grief, and financial hardship do not automatically mean disobedience or abandonment
-                  by God. In John 16:33, Jesus prepares His disciples for trouble and directs their hope
-                  toward His victory. Bring your pain to Him honestly, ask for help, and keep following
-                  His Word. Matthew 7 also calls us to consider whether we will stand before Christ in
-                  judgment. Religious appearances and good deeds cannot save us. Jesus obeyed the Father
-                  perfectly, died for our sins, and rose again. We receive salvation by grace through faith,
-                  and trusting Him includes receiving His authority and learning to obey. Confess what you
-                  have trusted more than His Word and take the next faithful step.
-                  The rain may be loud. His words are still true.
+                  Even your best week cannot become your savior. Your hope rests in Jesus.
+                  In 1 Corinthians 3:11, Paul identifies Jesus Christ as the church&apos;s foundation.
+                  No leader, personality, or impressive ministry can take His place. In John 15:4–5,
+                  Jesus describes Himself as the vine and His disciples as branches. Spiritual fruit
+                  grows through remaining in Him. Jesus obeyed the Father perfectly, died for our sins,
+                  and rose from the dead. We receive salvation by grace through faith; our obedience
+                  does not purchase forgiveness. By His Spirit, we learn to follow His Word and depend
+                  on Him daily through prayer, Scripture, repentance, and fellowship. Confess what
+                  you have trusted more than Christ, receive His mercy, and take the next faithful step.
+                  This devotional week is ending. Your walk with Jesus continues.
+                  Build with obedience. Live in dependence.
                   Keep your eyes on Jesus. Stand firm on truth. Live unashamed.
                 </p>
               </div>
