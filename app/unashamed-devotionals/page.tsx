@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/3nFMw__lkiJnYdZAITtHzZnpe3pbMrFB/19938-7PLOGddksNsSmNnicmpVfQxkCS5krA.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/VPcUuaIvK_9927eIfFGzWSv9Eoz8NO9F/20589-T95lbIfku1ZZDQYpsQr8AgJSnzAzmT.mp4";
 
 export default function UnashamedDevotionalsPage() {
   return (
@@ -47,10 +47,10 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 5 — Jesus Is Your Only Foundation
+                Day 1 — Obedience In Rough Water
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
-                Unashamed Week 12 · WHAT ARE YOU BUILDING ON?
+                Unashamed Week 13 · WHO IS THIS MAN?
               </p>
             </div>
 
@@ -64,7 +64,7 @@ export default function UnashamedDevotionalsPage() {
               }}
             >
               <video
-                aria-label="Unashamed Week 12 Day 5 Jesus Is Your Only Foundation devotional video"
+                aria-label="Unashamed Week 13 Day 1 Obedience In Rough Water English devotional video"
                 controls
                 preload="metadata"
                 playsInline
@@ -97,7 +97,7 @@ export default function UnashamedDevotionalsPage() {
                     Scripture Focus
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    1 Corinthians 3:11 · John 15:4–5
+                    Mark 4:35–37 · John 16:33
                   </p>
                 </div>
                 <div>
@@ -105,8 +105,8 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Read John 15:4–5. Set aside ten minutes to pray without distractions, then choose one daily
-                    time to continue reading and responding to Jesus’ teaching.
+                    Read Mark 4:35–37. Write down one step God&apos;s Word is calling you to take, and take
+                    that step today. Ask a trusted believer to pray with you as you do.
                   </p>
                 </div>
               </div>
@@ -122,17 +122,18 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Even your best week cannot become your savior. Your hope rests in Jesus.
-                  In 1 Corinthians 3:11, Paul identifies Jesus Christ as the church&apos;s foundation.
-                  No leader, personality, or impressive ministry can take His place. In John 15:4–5,
-                  Jesus describes Himself as the vine and His disciples as branches. Spiritual fruit
-                  grows through remaining in Him. Jesus obeyed the Father perfectly, died for our sins,
-                  and rose from the dead. We receive salvation by grace through faith; our obedience
-                  does not purchase forgiveness. By His Spirit, we learn to follow His Word and depend
-                  on Him daily through prayer, Scripture, repentance, and fellowship. Confess what
-                  you have trusted more than Christ, receive His mercy, and take the next faithful step.
-                  This devotional week is ending. Your walk with Jesus continues.
-                  Build with obedience. Live in dependence.
+                  You obeyed Jesus, and things got harder. Does that mean you took a wrong turn?
+                  In Mark 4:35–37, the disciples follow Jesus&apos; direction and still encounter a fierce
+                  storm. Their obedience is real, and so is their danger. In John 16:33, Jesus tells His
+                  followers they will face trouble, but He has overcome the world. Difficulty alone
+                  cannot tell us whether we are following God&apos;s will. We need Scripture to examine
+                  our path. If we are disobeying, His grace calls us to turn back. If we are obeying,
+                  His grace sustains us through the pressure. Jesus obeyed the Father perfectly,
+                  bore the judgment our sins deserved on the cross, and rose again. We receive
+                  salvation by grace through faith; we cannot earn His love through obedience.
+                  Because we belong to Him, we learn to follow His voice, even when it costs us.
+                  You do not have to see the whole journey to obey Him in your next decision.
+                  The storm is loud. But it is not Lord. Jesus is.
                   Keep your eyes on Jesus. Stand firm on truth. Live unashamed.
                 </p>
               </div>
