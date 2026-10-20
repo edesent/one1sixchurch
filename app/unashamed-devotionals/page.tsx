@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/VPcUuaIvK_9927eIfFGzWSv9Eoz8NO9F/20589-T95lbIfku1ZZDQYpsQr8AgJSnzAzmT.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/XzjiyYQ4H53Ss7zJeAxjMJnVZMzcnIzw/20984-WXAax0S2bAkNkgyr2szMI75RNRpp3T.mp4";
 
 export default function UnashamedDevotionalsPage() {
   return (
@@ -47,7 +47,7 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 1 — Obedience In Rough Water
+                Day 2 — Lord, Do You Care?
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
                 Unashamed Week 13 · WHO IS THIS MAN?
@@ -64,7 +64,7 @@ export default function UnashamedDevotionalsPage() {
               }}
             >
               <video
-                aria-label="Unashamed Week 13 Day 1 Obedience In Rough Water English devotional video"
+                aria-label="Unashamed Week 13 Day 2 Lord, Do You Care? English devotional video"
                 controls
                 preload="metadata"
                 playsInline
@@ -97,7 +97,7 @@ export default function UnashamedDevotionalsPage() {
                     Scripture Focus
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Mark 4:35–37 · John 16:33
+                    Mark 4:38 · Hebrews 4:15–16
                   </p>
                 </div>
                 <div>
@@ -105,8 +105,8 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Read Mark 4:35–37. Write down one step God&apos;s Word is calling you to take, and take
-                    that step today. Ask a trusted believer to pray with you as you do.
+                    Read Hebrews 4:15–16. Name one fear before God in prayer, then thank Him for the mercy
+                    and help He invites you to seek through Jesus.
                   </p>
                 </div>
               </div>
@@ -122,18 +122,18 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  You obeyed Jesus, and things got harder. Does that mean you took a wrong turn?
-                  In Mark 4:35–37, the disciples follow Jesus&apos; direction and still encounter a fierce
-                  storm. Their obedience is real, and so is their danger. In John 16:33, Jesus tells His
-                  followers they will face trouble, but He has overcome the world. Difficulty alone
-                  cannot tell us whether we are following God&apos;s will. We need Scripture to examine
-                  our path. If we are disobeying, His grace calls us to turn back. If we are obeying,
-                  His grace sustains us through the pressure. Jesus obeyed the Father perfectly,
-                  bore the judgment our sins deserved on the cross, and rose again. We receive
-                  salvation by grace through faith; we cannot earn His love through obedience.
-                  Because we belong to Him, we learn to follow His voice, even when it costs us.
-                  You do not have to see the whole journey to obey Him in your next decision.
-                  The storm is loud. But it is not Lord. Jesus is.
+                  Sometimes the hardest part of the storm is wondering why Jesus seems quiet.
+                  In Mark 4:38, the frightened disciples wake Jesus and question whether He cares
+                  that they are going to drown. His sleep shows His real humanity; He became one
+                  of us without ceasing to be God. He is fully God and fully human, one Savior.
+                  Hebrews 4:15–16 tells us that Jesus, our High Priest, understands our weaknesses.
+                  He faced temptation, yet never sinned. Through Him, we can approach God&apos;s throne
+                  of grace for mercy and help. Honest prayer brings our questions to God and lets
+                  His Word correct our conclusions. Feeling forgotten does not mean Jesus has
+                  stopped loving us. Look at the cross: He willingly bore the judgment our sins
+                  deserved, died, and rose again to bring us back to God. We receive His mercy
+                  by grace through faith. Bring Him your fear, open His Word, and trust His heart
+                  while you wait. You can bring a trembling heart to a faithful Savior.
                   Keep your eyes on Jesus. Stand firm on truth. Live unashamed.
                 </p>
               </div>
