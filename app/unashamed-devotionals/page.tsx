@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/XzjiyYQ4H53Ss7zJeAxjMJnVZMzcnIzw/20984-WXAax0S2bAkNkgyr2szMI75RNRpp3T.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/UURusFFQ7bsoi3BGdncFDIjriaw48iRL/21298-ZLGRPNaceHLDVEEHO5Ijj43XpCK7pz.mp4";
 
 export default function UnashamedDevotionalsPage() {
   return (
@@ -47,7 +47,7 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 2 — Lord, Do You Care?
+                Day 4 — When Fear Asks, Look At The Cross
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
                 Unashamed Week 13 · WHO IS THIS MAN?
@@ -64,7 +64,7 @@ export default function UnashamedDevotionalsPage() {
               }}
             >
               <video
-                aria-label="Unashamed Week 13 Day 2 Lord, Do You Care? English devotional video"
+                aria-label="Unashamed Week 13 Day 4 When Fear Asks, Look At The Cross English devotional video"
                 controls
                 preload="metadata"
                 playsInline
@@ -97,7 +97,7 @@ export default function UnashamedDevotionalsPage() {
                     Scripture Focus
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Mark 4:38 · Hebrews 4:15–16
+                    Mark 4:40 · Romans 5:8 · Romans 8:38–39
                   </p>
                 </div>
                 <div>
@@ -105,8 +105,8 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Read Hebrews 4:15–16. Name one fear before God in prayer, then thank Him for the mercy
-                    and help He invites you to seek through Jesus.
+                    Read Romans 5:8. Write it down and read it when that fear returns. Then take one step
+                    of obedience you have been putting off.
                   </p>
                 </div>
               </div>
@@ -122,18 +122,17 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Sometimes the hardest part of the storm is wondering why Jesus seems quiet.
-                  In Mark 4:38, the frightened disciples wake Jesus and question whether He cares
-                  that they are going to drown. His sleep shows His real humanity; He became one
-                  of us without ceasing to be God. He is fully God and fully human, one Savior.
-                  Hebrews 4:15–16 tells us that Jesus, our High Priest, understands our weaknesses.
-                  He faced temptation, yet never sinned. Through Him, we can approach God&apos;s throne
-                  of grace for mercy and help. Honest prayer brings our questions to God and lets
-                  His Word correct our conclusions. Feeling forgotten does not mean Jesus has
-                  stopped loving us. Look at the cross: He willingly bore the judgment our sins
-                  deserved, died, and rose again to bring us back to God. We receive His mercy
-                  by grace through faith. Bring Him your fear, open His Word, and trust His heart
-                  while you wait. You can bring a trembling heart to a faithful Savior.
+                  Do not measure God&apos;s love only by what changed this week. After calming the sea,
+                  Jesus calls His disciples to trust Him. Romans 5:8 shows us the love our fear
+                  questions: Christ died for us while we were still sinners. Jesus lived without sin,
+                  bore the judgment we deserved at the cross, died, and rose again on the third day.
+                  We receive salvation by grace through faith. His death and resurrection give us
+                  reason to trust His heart while we wait. Romans 8:38–39 assures those who belong
+                  to Christ that nothing can separate them from God&apos;s love in Him. We can ask for
+                  healing and provision without making our desired answer the only proof of His love.
+                  His grace calls us to repent, confess hidden sin, and follow His Word. When fear
+                  asks whether He cares, remember the cross and the empty tomb, then take the next
+                  step of obedience. Jesus does not ask you to trust a love He has never shown.
                   Keep your eyes on Jesus. Stand firm on truth. Live unashamed.
                 </p>
               </div>
