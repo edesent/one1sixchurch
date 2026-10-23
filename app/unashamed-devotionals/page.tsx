@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/UURusFFQ7bsoi3BGdncFDIjriaw48iRL/21298-ZLGRPNaceHLDVEEHO5Ijj43XpCK7pz.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/w_cduXNzfk8OXSjTApvBvqsqMDHbUln_/21350-86jSjpAPh2YUIN3XBo5x4Qfsea6b6J.mp4";
 
 export default function UnashamedDevotionalsPage() {
   return (
@@ -47,7 +47,7 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 4 — When Fear Asks, Look At The Cross
+                Day 5 — Even The Waves Obey Him. Will You?
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
                 Unashamed Week 13 · WHO IS THIS MAN?
@@ -64,7 +64,7 @@ export default function UnashamedDevotionalsPage() {
               }}
             >
               <video
-                aria-label="Unashamed Week 13 Day 4 When Fear Asks, Look At The Cross English devotional video"
+                aria-label="Unashamed Week 13 Day 5 Even The Waves Obey Him. Will You? English devotional video"
                 controls
                 preload="metadata"
                 playsInline
@@ -97,7 +97,7 @@ export default function UnashamedDevotionalsPage() {
                     Scripture Focus
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Mark 4:40 · Romans 5:8 · Romans 8:38–39
+                    Mark 4:41 · Ephesians 2:8–10 · James 1:22
                   </p>
                 </div>
                 <div>
@@ -105,8 +105,8 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Read Romans 5:8. Write it down and read it when that fear returns. Then take one step
-                    of obedience you have been putting off.
+                    Read James 1:22. Write down one clear step of obedience and take it today.
+                    Ask a trusted believer to pray with you.
                   </p>
                 </div>
               </div>
@@ -122,17 +122,19 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Do not measure God&apos;s love only by what changed this week. After calming the sea,
-                  Jesus calls His disciples to trust Him. Romans 5:8 shows us the love our fear
-                  questions: Christ died for us while we were still sinners. Jesus lived without sin,
-                  bore the judgment we deserved at the cross, died, and rose again on the third day.
-                  We receive salvation by grace through faith. His death and resurrection give us
-                  reason to trust His heart while we wait. Romans 8:38–39 assures those who belong
-                  to Christ that nothing can separate them from God&apos;s love in Him. We can ask for
-                  healing and provision without making our desired answer the only proof of His love.
-                  His grace calls us to repent, confess hidden sin, and follow His Word. When fear
-                  asks whether He cares, remember the cross and the empty tomb, then take the next
-                  step of obedience. Jesus does not ask you to trust a love He has never shown.
+                  You have asked Jesus to speak to your storm. But what happens when His Word
+                  speaks to you? In Mark 4:41, the disciples marvel that even the wind and waves
+                  obey Him. Jesus is the Son of God, the Lord of the sea, and His authority
+                  reaches our everyday choices. James 1:22 calls us to put God&apos;s Word into
+                  practice. Knowing the truth must shape the way we live. Our obedience cannot
+                  erase sin or earn salvation: Ephesians 2:8–10 teaches that we are saved by
+                  grace through faith, created in Christ Jesus for good works. Jesus obeyed the
+                  Father perfectly, bore the judgment our sins deserved at the cross, died, and
+                  rose again. Because we belong to this living Savior, we confess our sin,
+                  receive His mercy, and follow His voice. His mercy also leads us toward the
+                  hurting and overlooked, sharing His love and Gospel beyond our usual circle.
+                  Name what you need to surrender and take the next clear step of obedience.
+                  You do not need control over tomorrow to follow Him today.
                   Keep your eyes on Jesus. Stand firm on truth. Live unashamed.
                 </p>
               </div>
