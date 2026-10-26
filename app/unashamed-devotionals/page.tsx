@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/w_cduXNzfk8OXSjTApvBvqsqMDHbUln_/21350-86jSjpAPh2YUIN3XBo5x4Qfsea6b6J.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/N6azmnFvcykFaIFHl8Z5psE77m_13BwG/22172-7NN6IrtU0SJ3YNLoIax3pZyJoJZmQP.mp4";
 
 export default function UnashamedDevotionalsPage() {
   return (
@@ -47,10 +47,10 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 5 — Even The Waves Obey Him. Will You?
+                Day 1 — Still Thirsty?
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
-                Unashamed Week 13 · WHO IS THIS MAN?
+                Unashamed Week 14 · THIRST ENDS HERE! Only Jesus Can Satisfy Your Soul.
               </p>
             </div>
 
@@ -64,7 +64,7 @@ export default function UnashamedDevotionalsPage() {
               }}
             >
               <video
-                aria-label="Unashamed Week 13 Day 5 Even The Waves Obey Him. Will You? English devotional video"
+                aria-label="Unashamed Week 14 Day 1 Still Thirsty? English devotional video"
                 controls
                 preload="metadata"
                 playsInline
@@ -97,7 +97,7 @@ export default function UnashamedDevotionalsPage() {
                     Scripture Focus
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Mark 4:41 · Ephesians 2:8–10 · James 1:22
+                    John 4:7–14 · NLT
                   </p>
                 </div>
                 <div>
@@ -105,8 +105,8 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Read James 1:22. Write down one clear step of obedience and take it today.
-                    Ask a trusted believer to pray with you.
+                    Read John 4:7–14. Name one area you have kept under your own control,
+                    surrender it to Jesus in prayer, and take one specific step of obedience today.
                   </p>
                 </div>
               </div>
@@ -122,20 +122,18 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  You have asked Jesus to speak to your storm. But what happens when His Word
-                  speaks to you? In Mark 4:41, the disciples marvel that even the wind and waves
-                  obey Him. Jesus is the Son of God, the Lord of the sea, and His authority
-                  reaches our everyday choices. James 1:22 calls us to put God&apos;s Word into
-                  practice. Knowing the truth must shape the way we live. Our obedience cannot
-                  erase sin or earn salvation: Ephesians 2:8–10 teaches that we are saved by
-                  grace through faith, created in Christ Jesus for good works. Jesus obeyed the
-                  Father perfectly, bore the judgment our sins deserved at the cross, died, and
-                  rose again. Because we belong to this living Savior, we confess our sin,
-                  receive His mercy, and follow His voice. His mercy also leads us toward the
-                  hurting and overlooked, sharing His love and Gospel beyond our usual circle.
-                  Name what you need to surrender and take the next clear step of obedience.
-                  You do not need control over tomorrow to follow Him today.
-                  Keep your eyes on Jesus. Stand firm on truth. Live unashamed.
+                  You can carry a Bible, know the songs, and still be thirsty. Knowing about
+                  Jesus is different from trusting Him. In John 4:7–14, a tired Jesus asks a
+                  Samaritan woman for water and offers her living water that gives eternal
+                  life. He is fully God and fully human, and her background does not place her
+                  beyond His reach. Our deepest need goes beyond an empty feeling: we have
+                  sinned against God and need forgiveness and restored fellowship with Him.
+                  Jesus bore the judgment our sin deserves, died, and rose again to bring us
+                  to God. Turn from sin, trust Him, and receive His gift of grace. If you
+                  already belong to Jesus but feel weary or are grieving, bring Him your pain.
+                  Your struggle does not mean His promise has failed. Come honestly, surrender
+                  your heart, and follow His Word. Keep your eyes on Jesus. Stand on truth.
+                  Live unashamed.
                 </p>
               </div>
             </article>
