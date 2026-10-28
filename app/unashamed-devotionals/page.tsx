@@ -4,7 +4,7 @@ import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
 const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/N6azmnFvcykFaIFHl8Z5psE77m_13BwG/22172-7NN6IrtU0SJ3YNLoIax3pZyJoJZmQP.mp4";
+  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/giSz0Hy7ndTQmX9D37klK44tI4qxRXSQ/22881-92gKCnNyfRM3C6zn4cUFHl71HlsdSZ.mp4";
 
 export default function UnashamedDevotionalsPage() {
   return (
@@ -47,7 +47,7 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 1 — Still Thirsty?
+                Day 3 — He Already Knows. Stop Hiding.
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
                 Unashamed Week 14 · THIRST ENDS HERE! Only Jesus Can Satisfy Your Soul.
@@ -64,7 +64,7 @@ export default function UnashamedDevotionalsPage() {
               }}
             >
               <video
-                aria-label="Unashamed Week 14 Day 1 Still Thirsty? English devotional video"
+                aria-label="Unashamed Week 14 Day 3 He Already Knows. Stop Hiding. English devotional video"
                 controls
                 preload="metadata"
                 playsInline
@@ -97,7 +97,7 @@ export default function UnashamedDevotionalsPage() {
                     Scripture Focus
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    John 4:7–14 · NLT
+                    John 4:16–18, 25–26 · 1 John 1:8–9 · NLT
                   </p>
                 </div>
                 <div>
@@ -105,8 +105,8 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Read John 4:7–14. Name one area you have kept under your own control,
-                    surrender it to Jesus in prayer, and take one specific step of obedience today.
+                    Read 1 John 1:9. Confess one specific sin without excuses, then take one
+                    practical step today to turn from it.
                   </p>
                 </div>
               </div>
@@ -122,18 +122,20 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  You can carry a Bible, know the songs, and still be thirsty. Knowing about
-                  Jesus is different from trusting Him. In John 4:7–14, a tired Jesus asks a
-                  Samaritan woman for water and offers her living water that gives eternal
-                  life. He is fully God and fully human, and her background does not place her
-                  beyond His reach. Our deepest need goes beyond an empty feeling: we have
-                  sinned against God and need forgiveness and restored fellowship with Him.
-                  Jesus bore the judgment our sin deserves, died, and rose again to bring us
-                  to God. Turn from sin, trust Him, and receive His gift of grace. If you
-                  already belong to Jesus but feel weary or are grieving, bring Him your pain.
-                  Your struggle does not mean His promise has failed. Come honestly, surrender
-                  your heart, and follow His Word. Keep your eyes on Jesus. Stand on truth.
-                  Live unashamed.
+                  Jesus knows the whole story, including the parts we leave out. In John 4,
+                  He reveals His knowledge of the Samaritan woman&apos;s life, answers her questions
+                  about worship, and reveals that He is the Messiah. John does not explain how
+                  her five marriages ended; we should not invent her past. The Savior who knows
+                  her life is the Savior she needs. His Word calls us to stop defending our
+                  disobedience and confess honestly. First John 1:8–9 teaches that denying our
+                  sin deceives us, while God faithfully forgives and cleanses those who confess.
+                  Our hope rests in Jesus, who bore the judgment our sin deserves, died, and
+                  rose again. Repentance does not earn His mercy; it turns from sin and follows
+                  His way. Tell the truth, seek to repair the harm you have caused, and ask a
+                  mature believer for support when needed. If someone else has sinned against
+                  you, their wrongdoing is not yours to confess. Bring your hurt to Jesus too.
+                  Come honestly, trust His grace, and take the next step of obedience.
+                  Keep your eyes on Jesus. Stand firm on truth. Live unashamed.
                 </p>
               </div>
             </article>
