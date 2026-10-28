@@ -6,6 +6,7 @@ import { ContactForm } from "./_components/ContactForm";
 import { SiteFooter } from "./_components/SiteFooter";
 import { SiteHeader } from "./_components/SiteHeader";
 import styles from "./home.module.css";
+import { featuredDevotional } from "./_data/featured-devotional";
 
 const nextSteps = [
   {
@@ -164,15 +165,12 @@ export default function Home() {
 
         <section className={styles.media} aria-labelledby="featured-devotional-title">
           <p className={styles.label}>WATCH + LISTEN · FEATURED DEVOTIONAL</p>
-          <h2 id="featured-devotional-title">KEEP YOUR EYES <span>ON JESUS.</span></h2>
-          <p>UNASHAMED · Week 10 · DON&apos;T LOOK BACK · Day 5</p>
-          <p>
-            Watch the devotional here, then reflect on Philippians 3:12–14 and Hebrews 12:1–3.
-            Christ has taken hold of us. Keep following Him with faith and obedience.
-          </p>
-          <video className={styles.video} aria-label="Keep Your Eyes on Jesus — Week 10 Day 5 devotional"
+          <h2 id="featured-devotional-title">{featuredDevotional.titleLead} <span>{featuredDevotional.titleAccent}</span></h2>
+          <p>UNASHAMED · Week {featuredDevotional.week} · {featuredDevotional.theme} · Day {featuredDevotional.day}</p>
+          <p>{featuredDevotional.preview}</p>
+          <video className={styles.video} aria-label={`${featuredDevotional.title} — Week ${featuredDevotional.week} Day ${featuredDevotional.day} English devotional video`}
             controls preload="none" playsInline>
-            <source src="https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/qo8FFIlxbhyu0IeCnubm4hHhOytv1dqf/16748-WVUyqSDrBz2sgNn7MmkNVSIkGqYNJS.mp4" type="video/mp4" />
+            <source src={featuredDevotional.videoUrl} type="video/mp4" />
             Your browser does not support video playback.
           </video>
           <Link className={styles.textLink} href="/unashamed-devotionals">
