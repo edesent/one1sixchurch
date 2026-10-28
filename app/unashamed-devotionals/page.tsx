@@ -3,8 +3,7 @@ import Image from "next/image";
 import { SiteFooter } from "../_components/SiteFooter";
 import { SiteHeader } from "../_components/SiteHeader";
 
-const devotionalVideoUrl =
-  "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/giSz0Hy7ndTQmX9D37klK44tI4qxRXSQ/22881-92gKCnNyfRM3C6zn4cUFHl71HlsdSZ.mp4";
+import { featuredDevotional } from "../_data/featured-devotional";
 
 export default function UnashamedDevotionalsPage() {
   return (
@@ -47,10 +46,10 @@ export default function UnashamedDevotionalsPage() {
                   textTransform: "uppercase",
                 }}
               >
-                Day 3 — He Already Knows. Stop Hiding.
+                Day {featuredDevotional.day} — {featuredDevotional.title}
               </h2>
               <p style={{ color: "rgba(255,255,255,0.72)", fontSize: "1.05rem", lineHeight: 1.75 }}>
-                Unashamed Week 14 · THIRST ENDS HERE! Only Jesus Can Satisfy Your Soul.
+                Unashamed Week {featuredDevotional.week} · {featuredDevotional.theme} {featuredDevotional.subtitle}
               </p>
             </div>
 
@@ -64,13 +63,13 @@ export default function UnashamedDevotionalsPage() {
               }}
             >
               <video
-                aria-label="Unashamed Week 14 Day 3 He Already Knows. Stop Hiding. English devotional video"
+                aria-label={`Unashamed Week ${featuredDevotional.week} Day ${featuredDevotional.day} ${featuredDevotional.title} English devotional video`}
                 controls
                 preload="metadata"
                 playsInline
                 style={{ display: "block", width: "100%", height: "auto", background: "#000" }}
               >
-                <source src={devotionalVideoUrl} type="video/mp4" />
+                <source src={featuredDevotional.videoUrl} type="video/mp4" />
                 Your browser does not support the video tag.
               </video>
             </div>
@@ -97,7 +96,7 @@ export default function UnashamedDevotionalsPage() {
                     Scripture Focus
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    John 4:16–18, 25–26 · 1 John 1:8–9 · NLT
+                    {featuredDevotional.scriptureFocus}
                   </p>
                 </div>
                 <div>
@@ -105,8 +104,7 @@ export default function UnashamedDevotionalsPage() {
                     Today&apos;s Challenge
                   </p>
                   <p style={{ margin: 0, color: "rgba(255,255,255,0.82)", lineHeight: 1.7 }}>
-                    Read 1 John 1:9. Confess one specific sin without excuses, then take one
-                    practical step today to turn from it.
+                    {featuredDevotional.challenge}
                   </p>
                 </div>
               </div>
@@ -122,20 +120,7 @@ export default function UnashamedDevotionalsPage() {
                   Devotional Summary
                 </p>
                 <p style={{ margin: 0, color: "rgba(255,255,255,0.78)", fontSize: "1.05rem", lineHeight: 1.85 }}>
-                  Jesus knows the whole story, including the parts we leave out. In John 4,
-                  He reveals His knowledge of the Samaritan woman&apos;s life, answers her questions
-                  about worship, and reveals that He is the Messiah. John does not explain how
-                  her five marriages ended; we should not invent her past. The Savior who knows
-                  her life is the Savior she needs. His Word calls us to stop defending our
-                  disobedience and confess honestly. First John 1:8–9 teaches that denying our
-                  sin deceives us, while God faithfully forgives and cleanses those who confess.
-                  Our hope rests in Jesus, who bore the judgment our sin deserves, died, and
-                  rose again. Repentance does not earn His mercy; it turns from sin and follows
-                  His way. Tell the truth, seek to repair the harm you have caused, and ask a
-                  mature believer for support when needed. If someone else has sinned against
-                  you, their wrongdoing is not yours to confess. Bring your hurt to Jesus too.
-                  Come honestly, trust His grace, and take the next step of obedience.
-                  Keep your eyes on Jesus. Stand firm on truth. Live unashamed.
+                  {featuredDevotional.summary}
                 </p>
               </div>
             </article>
