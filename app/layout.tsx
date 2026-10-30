@@ -33,9 +33,9 @@ export default function RootLayout({
         <WhatsAppContact />
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-BR4LX8W86L"
-          strategy="afterInteractive"
+          strategy="lazyOnload"
         />
-        <Script id="google-analytics" strategy="afterInteractive">
+        <Script id="google-analytics" strategy="lazyOnload">
           {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
