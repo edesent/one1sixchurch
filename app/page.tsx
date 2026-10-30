@@ -48,7 +48,9 @@ export default function Home() {
             src="/homepage-worship-original-v8.jpg"
             alt="ONE1SIX Church worship gathering in Worcester"
             fill
-            priority
+            loading="eager"
+            fetchPriority="high"
+            quality={60}
             sizes="100vw"
           />
           <div className={styles.heroShade} />
@@ -84,7 +86,9 @@ export default function Home() {
               src="/jobeth-and-mary-pastoral.jpg"
               alt="Pastors Jobeth and Wilmary Mary Pacheco welcoming you to ONE1SIX Church"
               fill
-              sizes="(max-width: 900px) 100vw, 50vw"
+              sizes="(max-width: 820px) 100vw, 50vw"
+              quality={60}
+              fetchPriority="low"
             />
           </div>
           <div className={styles.welcomeCopy}>
@@ -117,7 +121,9 @@ export default function Home() {
               src="/unashamed-kids-circle-art.jpg"
               alt="UNASHAMED KIDS — Friendship • Jesus • Faith"
               fill
-              sizes="(max-width: 600px) 86vw, (max-width: 1000px) 500px, 520px"
+              sizes="(max-width: 600px) calc(86vw - 34px), (max-width: 1000px) 500px, 470px"
+              quality={60}
+              fetchPriority="low"
               style={{ objectFit: "cover", borderRadius: "50%" }}
             />
           </div>
