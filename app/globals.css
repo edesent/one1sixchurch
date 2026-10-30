@@ -68,7 +68,7 @@ textarea {
 }
 
 .blessing-bar strong {
-  color: var(--red);
+  color: #ff5261;
   font-weight: 800;
 }
 
@@ -1123,7 +1123,7 @@ textarea {
 
 .footer-tagline {
   margin: 20px 0 0;
-  color: var(--red);
+  color: #ff5261;
   font-family: var(--font-outfit), Arial, sans-serif;
   font-weight: 800;
 }
@@ -1134,7 +1134,7 @@ textarea {
 }
 
 .footer-verse span {
-  color: var(--red);
+  color: #ff5261;
   font-weight: 800;
 }
 
@@ -1147,7 +1147,7 @@ textarea {
 
 .footer-grid h3 {
   margin: 0 0 10px;
-  color: var(--red);
+  color: #ff5261;
   font-family: var(--font-outfit), Arial, sans-serif;
   font-size: 0.95rem;
   text-transform: uppercase;
