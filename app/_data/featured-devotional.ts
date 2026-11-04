@@ -1,19 +1,19 @@
 // Both the homepage and devotional page read this record.
 // Update it when publishing the next featured devotional.
-const titleLead = "The News";
-const titleAccent = "Cannot Stay Here";
+const titleLead = "When The Door Is";
+const titleAccent = "Blocked";
 
 export const featuredDevotional = {
   title: `${titleLead} ${titleAccent}`,
   titleLead,
   titleAccent,
   week: 15,
-  day: 1,
+  day: 3,
   theme: "BRING THEM!",
-  subtitle: "Someone In Your Life Needs To Hear About Jesus.",
-  videoUrl: "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/uuPlEdRD4w1OJ-zY2-tgQZ-oTQJNGAd3/23974-rb2RJQAEm9wZfgBesdKI7YNovjs4A3.mp4",
-  scriptureFocus: "Mark 2:1–2 · Romans 10:14–15 · NLT",
-  challenge: "Choose one person today. Pray for them by name, then contact them and ask if you can share why you trust Jesus. If they are willing, explain His death, resurrection, and invitation to repent and believe.",
-  preview: "You know their name. But do they know why you trust Jesus? Reflect on Mark 2:1–2 and Romans 10:14–15. Surrender your fear, reach out with love, and share the Gospel with someone within your reach.",
-  summary: "In Mark 2:1–2, Jesus returns to Capernaum, news spreads that He is home, and people gather until the house and entrance are crowded. Jesus preaches God's Word. Romans 10:14–15 reminds us that people need to hear about Christ in order to believe in Him. God uses ordinary people to carry His message. We do not need a microphone to share the Gospel; we need love, faithfulness to Scripture, and courage to speak. Jesus is the Son of God who died for our sins and rose from the dead. He calls us to turn from sin and trust Him. Forgiveness is received by grace and cannot be earned. Before inviting others to follow Christ, examine whether you are trusting and obeying Him yourself. Being familiar with church does not mean we have surrendered to Jesus. We cannot change another person's heart, but we can faithfully tell them about the Savior who can. Begin with one person: listen with compassion, ask permission to share, and explain the Gospel clearly. An invitation to church can open a conversation; keep pointing that conversation toward Christ. Love the person. Tell the truth. Trust the Savior. Keep your eyes on Jesus. Stand firm on truth. Live unashamed.",
+  subtitle: "Keep Loving. Make Room. Trust Jesus With The Outcome.",
+  videoUrl: "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/0QKTUa4S0RIHt_ouwZl8QKwVo_9u7y1h/24394-8UIIcEh5avr9h5NbzedekDlMki6c6b.mp4",
+  scriptureFocus: "Mark 2:4–5 · Galatians 6:9 · NLT",
+  challenge: "Identify one obstacle that makes it harder for someone to hear God's Word or join your church gathering. Take one practical step to help, such as offering a ride or meeting a visitor at the entrance.",
+  preview: "What happens to your compassion when helping gets difficult? Four men encounter a crowded doorway, then go to the roof to bring their friend before Jesus. Keep loving patiently, make room for others, and trust the Savior with the outcome.",
+  summary: "In Mark 2:4–5, four men cannot bring their paralyzed friend through the crowded entrance. They go to the roof, open it above Jesus, and lower the man on his mat. Jesus sees their faith: their trust in Him has become visible through their actions. The crowd is not described as deliberately blocking the man, but its presence still creates an obstacle. That calls us to examine whether pride, impatience, or carelessness makes others feel unwelcome among God's people. Galatians 6:9 encourages believers to keep doing good without giving up. Persevering in love includes praying, listening, respecting people's answers, and looking for appropriate opportunities to serve and share the Gospel. Faithfulness does not give us control over someone else's response; we trust Jesus with the outcome. Our deepest need is forgiveness for sin. Jesus died for our sins and rose from the dead. Through repentance and faith in Him, we receive forgiveness by grace. The Savior we point others toward is the Savior who first showed us mercy. Let that mercy shape your words and actions. Examine your heart, make room for others, and take the next faithful step. Keep your eyes on Jesus. Stand firm on truth. Live unashamed.",
 } as const;
