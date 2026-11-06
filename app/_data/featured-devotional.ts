@@ -1,19 +1,19 @@
 // Both the homepage and devotional page read this record.
 // Update it when publishing the next featured devotional.
-const titleLead = "When The Door Is";
-const titleAccent = "Blocked";
+const titleLead = "Pick Up Your";
+const titleAccent = "Mat";
 
 export const featuredDevotional = {
   title: `${titleLead} ${titleAccent}`,
   titleLead,
   titleAccent,
   week: 15,
-  day: 3,
+  day: 5,
   theme: "BRING THEM!",
-  subtitle: "Keep Loving. Make Room. Trust Jesus With The Outcome.",
-  videoUrl: "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/0QKTUa4S0RIHt_ouwZl8QKwVo_9u7y1h/24394-8UIIcEh5avr9h5NbzedekDlMki6c6b.mp4",
-  scriptureFocus: "Mark 2:4–5 · Galatians 6:9 · NLT",
-  challenge: "Identify one obstacle that makes it harder for someone to hear God's Word or join your church gathering. Take one practical step to help, such as offering a ride or meeting a visitor at the entrance.",
-  preview: "What happens to your compassion when helping gets difficult? Four men encounter a crowded doorway, then go to the roof to bring their friend before Jesus. Keep loving patiently, make room for others, and trust the Savior with the outcome.",
-  summary: "In Mark 2:4–5, four men cannot bring their paralyzed friend through the crowded entrance. They go to the roof, open it above Jesus, and lower the man on his mat. Jesus sees their faith: their trust in Him has become visible through their actions. The crowd is not described as deliberately blocking the man, but its presence still creates an obstacle. That calls us to examine whether pride, impatience, or carelessness makes others feel unwelcome among God's people. Galatians 6:9 encourages believers to keep doing good without giving up. Persevering in love includes praying, listening, respecting people's answers, and looking for appropriate opportunities to serve and share the Gospel. Faithfulness does not give us control over someone else's response; we trust Jesus with the outcome. Our deepest need is forgiveness for sin. Jesus died for our sins and rose from the dead. Through repentance and faith in Him, we receive forgiveness by grace. The Savior we point others toward is the Savior who first showed us mercy. Let that mercy shape your words and actions. Examine your heart, make room for others, and take the next faithful step. Keep your eyes on Jesus. Stand firm on truth. Live unashamed.",
+  subtitle: "Trust Jesus. Receive His Grace. Respond To His Word.",
+  videoUrl: "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/lDjm5_qepcNCcV6oOoQuVHl6BzNlgNaw/24837-MutYk7d3mpmZv89RQa80xql0IbkCzt.mp4",
+  scriptureFocus: "Mark 2:8–12 · James 1:22–25 · NLT",
+  challenge: "Choose one clear instruction from Scripture that you have been delaying. Pray for God's help, then take one concrete step of obedience before today ends.",
+  preview: "Four men carried him in. He walked out carrying his mat. Jesus' healing demonstrates His authority to forgive sins. As we finish BRING THEM!, respond to God's Word with faith and obedience.",
+  summary: "In Mark 2:8–12, Jesus knows the objections of the teachers of religious law and answers their hearts. He has already declared the man's sins forgiven. He then heals him to demonstrate the Son of Man's authority to forgive sins on earth. At Jesus' command, the man stands, picks up his mat, and walks out before everyone. His healing comes from Jesus' power, not his own determination. The crowd responds with amazement and praise to God. James 1:22–25 calls us to put God's Word into practice. We can be impressed by Jesus and still resist His call to obey. Grace comes first: Jesus died for our sins and rose from the dead. We turn from sin, trust Him, and receive forgiveness by grace. Then we learn to walk in obedience to our Savior. Consider what you have heard this week that still needs a response: share the Gospel, offer practical help, welcome someone, confess sin, tell the truth, or make an apology. If you are still waiting for physical healing, your ongoing struggle does not make you less valuable. Continue bringing your need to Jesus and receiving support. He remains worthy of your trust. We bring people to Jesus because He alone can save, and we follow Him because He is Lord. Let your faith become visible through love and obedience. Keep your eyes on Jesus. Stand firm on truth. Live unashamed.",
 } as const;
