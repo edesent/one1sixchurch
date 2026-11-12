@@ -56,9 +56,8 @@ export default function Home() {
           <div className={styles.heroShade} />
           <div className={styles.heroInner}>
             <p className={styles.kicker}>ONE1SIX CHURCH · WORCESTER, MASSACHUSETTS</p>
-            <h1>
-              A PLACE TO
-              <span>BELONG.</span>
+            <h1 style={{ color: "#ffe600", textTransform: "none", lineHeight: 0.95 }}>
+              There is a place for you
             </h1>
             <p className={styles.heroLead}>
               Imperfect people pursuing a perfect Savior. Come encounter Jesus, grow in His Word,
