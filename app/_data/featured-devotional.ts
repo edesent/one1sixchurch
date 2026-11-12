@@ -1,5 +1,5 @@
 // Both the homepage and devotional page read this record.
-// Update it when publishing the next featured devotional.
+// Update this record with the hosted video URL and devotional details for the next feature.
 const titleLead = "Your Jerusalem";
 const titleAccent = "Is Waiting";
 
