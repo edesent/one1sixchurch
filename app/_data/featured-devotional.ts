@@ -1,19 +1,19 @@
 // Both the homepage and devotional page read this record.
 // Update this record with the hosted video URL and devotional details for the next feature.
-const titleLead = "Your Jerusalem";
-const titleAccent = "Is Waiting";
+const titleLead = "The King";
+const titleAccent = "Is Coming";
 
 export const featuredDevotional = {
   title: `${titleLead} ${titleAccent}`,
   titleLead,
   titleAccent,
   week: 16,
-  day: 4,
+  day: 5,
   theme: "YOU WILL RECEIVE POWER!",
-  subtitle: "Notice The People Around You. Listen With Care. Speak With Grace.",
-  videoUrl: "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/BQW-H1kmZ8IhuVoeMD-7E4dGY4omglMQ/26277-IBrajH2vWuLGmrtI5u0m9IjSaeb1mT.mp4",
-  scriptureFocus: "Acts 1:8 · Colossians 4:5–6 · NLT",
-  challenge: "Choose one person you see regularly but rarely make time for. Start a conversation today. Ask how they are really doing, listen to their answer, and, if they are open to it, share why your hope is in Jesus.",
-  preview: "Who is one person you see all the time but rarely stop to talk to? Ask the Holy Spirit to help you notice them, make time to listen, and speak about Jesus with grace.",
-  summary: "In Acts 1:8, Jesus promises His disciples the power of the Holy Spirit to be His witnesses. They would begin in Jerusalem, right where they were, and the Gospel would reach across long-standing divisions and to the ends of the earth. For us, a conversation about Jesus might begin with a neighbor we wave to or a coworker we sit beside at lunch. Colossians 4:5–6 teaches us to make the most of each opportunity and speak graciously. Jesus died for our sins and rose again. He offers forgiveness and new life to everyone who turns from sin and trusts Him. Remembering the mercy we have received changes the way we see others. Ask the Holy Spirit to help you notice someone you usually pass by, listen with care, and share why your hope is in Jesus. Keep your eyes on Jesus. Stand firm on truth. Live unashamed and stay dusty!",
+  subtitle: "Hold On To Hope. Live Faithfully While You Wait.",
+  videoUrl: "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/Bs-Z43shooZrtJhu9vKFtczQ09SnfqG2/26442-CYI0ldyj1yovXtN6J3zbPjepKXDx9z.mp4",
+  scriptureFocus: "Acts 1:9–11 · Titus 2:11–14 · NLT",
+  challenge: "Name one act of obedience you’ve been putting off. Bring it to God in prayer, then take one concrete step before the day ends.",
+  preview: "What’s one thing Jesus is calling you to do that you keep putting off? The same Jesus who ascended into heaven will return. His grace helps us obey while we wait.",
+  summary: "In Acts 1:9–11, the disciples watch Jesus ascend into heaven and hear the promise that He will return. Jesus had already promised the Holy Spirit’s power so they could be His witnesses. Titus 2:11–14 shows us how to live while we wait. God’s grace brings salvation and teaches us to turn from sin, practice self-control, and live devoted to Him. Jesus gave Himself to free us from sin and make us His own. He died for our sins and rose again. When we turn from sin and trust Him, we receive forgiveness. Our obedience is a response to that mercy. If you owe someone an apology or have been putting off a conversation about Jesus, ask the Holy Spirit for strength and take the next step today. Keep your eyes on Jesus. Stand firm on truth. Live unashamed and stay dusty!",
 } as const;
