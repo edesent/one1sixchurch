@@ -1,19 +1,19 @@
 // Both the homepage and devotional page read this record.
 // Update this record with the hosted video URL and devotional details for the next feature.
-const titleLead = "When The King";
-const titleAccent = "Walks In";
+const titleLead = "Thank You Looks Like";
+const titleAccent = "an Open Hand";
 
 export const featuredDevotional = {
   title: `${titleLead} ${titleAccent}`,
   titleLead,
   titleAccent,
-  week: 17,
-  day: 4,
-  theme: "FORCE THEM IN!",
-  subtitle: "Surrender Your Whole Life To Jesus.",
-  videoUrl: "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/dCBPoLcNzRBAPkEYoj7jmkV4_-psFZjU/28269-OtfQ79pA7xdkG63K9pIjITaZhi71iG.mp4",
-  scriptureFocus: "Matthew 22:1–14 · Isaiah 61:10 · 2 Corinthians 5:21 · NLT",
-  challenge: "Read Matthew 22:11–14. Name one area you’ve been defending before God. Confess it to Him and take one concrete step of repentance today.",
-  preview: "You can know everybody in the room and still have to answer to the King. What have you been defending that Jesus is calling you to surrender? Your hope before God rests on Him.",
-  summary: "In Matthew 22:1–14, Jesus describes a king preparing a wedding feast for his son. After the first guests refuse the invitation, the servants gather people from the streets. When the king enters the hall, he confronts a guest without wedding clothes. Jesus calls us to examine our response to Him. Church involvement can become a way to avoid surrendering the part of our lives we want to keep for ourselves. Isaiah 61:10 celebrates God clothing His people with salvation and righteousness. Second Corinthians 5:21 directs our hope to Jesus, who knew no sin and bore our sin at the cross. He died and rose again so that through faith in Him we can be made right with God. Bring Him the truth, turn from sin, and let repentance reach your next decision. Keep Your Eyes On Jesus. Stand Firm On Truth. And Live Unashamed.",
+  week: 18,
+  day: 3,
+  theme: "A Seat at the Table",
+  subtitle: "Giving Thanks Through Generosity.",
+  videoUrl: "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/jvc74cdcyCVHrQNOzwZp1DxBbNjmc_GL/29847-1JQVSE3lCzRiDR5mQv5gvePY38sNpF.mp4",
+  scriptureFocus: "2 Corinthians 9:7–12 · NLT",
+  challenge: "Ask Jesus who could use something you already have to share. Before the day is over, offer that person a meal, a ride, or a little of your time.",
+  preview: "What if your thank-you to God looked like a warm meal in somebody else’s hands? This Thanksgiving, consider who could use something you already have to share.",
+  summary: "In 2 Corinthians 9:7–12, Paul invites believers to decide freely what they can give. God supplies what they need to share, and their gifts meet real needs and lead people to thank Him. We saw a glimpse of that in Worcester when a sponsor donated Thanksgiving plates and our outreach team shared them with neighbors in the cold. As you listen, think of one person you can serve today out of gratitude for what Jesus has given you.",
 } as const;
