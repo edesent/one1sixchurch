@@ -1,19 +1,19 @@
 // Both the homepage and devotional page read this record.
 // Update this record with the hosted video URL and devotional details for the next feature.
-const titleLead = "Thank You Looks Like";
-const titleAccent = "an Open Hand";
+const titleLead = "Be The One Who";
+const titleAccent = "Comes Back";
 
 export const featuredDevotional = {
   title: `${titleLead} ${titleAccent}`,
   titleLead,
   titleAccent,
   week: 18,
-  day: 3,
+  day: 5,
   theme: "A Seat at the Table",
-  subtitle: "Giving Thanks Through Generosity.",
-  videoUrl: "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/jvc74cdcyCVHrQNOzwZp1DxBbNjmc_GL/29847-1JQVSE3lCzRiDR5mQv5gvePY38sNpF.mp4",
-  scriptureFocus: "2 Corinthians 9:7–12 · NLT",
-  challenge: "Ask Jesus who could use something you already have to share. Before the day is over, offer that person a meal, a ride, or a little of your time.",
-  preview: "What if your thank-you to God looked like a warm meal in somebody else’s hands? This Thanksgiving, consider who could use something you already have to share.",
-  summary: "In 2 Corinthians 9:7–12, Paul invites believers to decide freely what they can give. God supplies what they need to share, and their gifts meet real needs and lead people to thank Him. We saw a glimpse of that in Worcester when a sponsor donated Thanksgiving plates and our outreach team shared them with neighbors in the cold. As you listen, think of one person you can serve today out of gratitude for what Jesus has given you.",
+  subtitle: "Returning to Thank Jesus.",
+  videoUrl: "https://o3hectmev11nr3rl.public.blob.vercel-storage.com/church-uploads/wOkTcNyn7zekCdfpT5P8gulJ3bIHhG44/30370-OnlzpTEoXQhjD5MZQNx5TylTTIZwAh.mp4",
+  scriptureFocus: "Luke 17:11–19 · NLT",
+  challenge: "Before your next meal, name one mercy you once prayed for. Take a moment to thank Jesus for it in your own words.",
+  preview: "Ten men called out to Jesus for mercy. All ten were healed. One turned back to thank Him. What feels ordinary today that you once prayed for?",
+  summary: "In Luke 17:11–19, ten men with leprosy call to Jesus from a distance. As they go to show themselves to the priests, they are cleansed. One of them, a Samaritan, turns back, praises God, and falls at Jesus’ feet to thank Him. As our Thanksgiving series closes, remember a time you asked Jesus for help. What would you like to say to Him today?",
 } as const;
